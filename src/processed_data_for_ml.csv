@@ -1,0 +1,985 @@
+UMAP1,UMAP2,pIC50,kinase_name,canonical_smiles
+2.9193344,6.3105555,4.0,DNA topoisomerase II alpha,c1ccc(-c2nc3c(-c4nc5ccccc5o4)cccc3o2)cc1
+-4.6811366,21.692429,5.6020599913279625,Heparanase,Cc1ccc2oc(-c3cccc(N4C(=O)c5ccc(C(=O)O)cc5C4=O)c3)nc2c1
+-4.699028,21.702621,4.301029995663981,NON-PROTEIN TARGET,Cc1ccc2oc(-c3cccc(N4C(=O)c5ccc(C(=O)O)cc5C4=O)c3)nc2c1
+-4.6851397,21.67301,5.045757490560675,Heparanase,COc1ccccc1-c1ccc2oc(-c3ccc(OC)c(N4C(=O)c5ccc(C(=O)O)cc5C4=O)c3)nc2c1
+5.67332,23.215405,5.3979400086720375,Palmitoyl-CoA oxidase,Cc1nc2cc(OC[C@H](O)CN3CCN(CC(=O)Nc4ccc(Cl)c(C(F)(F)F)c4)CC3)ccc2s1
+5.631393,23.17339,4.769551078621726,Palmitoyl-CoA oxidase,Cc1nc2cc(OC[C@H](O)CN3CCN(CC(=O)NCCc4ccccc4)CC3)ccc2s1
+5.7133565,23.255144,6.7447274948966935,Palmitoyl-CoA oxidase,Cc1nc2cc(OC[C@H](O)CN3CCN(CC(=O)Nc4cccc(-c5ccccc5)c4)CC3)ccc2s1
+5.7004337,23.242361,5.221848749616356,Cytochrome P450 1A2,Cc1nc2cc(OC[C@H](O)CN3CCN(CC(=O)Nc4cccc(-c5ccccc5)c4)CC3)ccc2s1
+5.6865463,23.228476,4.431798275933005,Cytochrome P450 3A4,Cc1nc2cc(OC[C@H](O)CN3CCN(CC(=O)Nc4cccc(-c5ccccc5)c4)CC3)ccc2s1
+5.68433,23.226227,4.619788758288394,Cytochrome P450 2C9,Cc1nc2cc(OC[C@H](O)CN3CCN(CC(=O)Nc4cccc(-c5ccccc5)c4)CC3)ccc2s1
+3.0799685,6.318559,4.7089371569447165,Enterococcus faecium,Nc1nc(O)c2c(n1)NCC(CCOc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)N2
+3.128852,6.2594776,3.362149645574409,Enterococcus faecium,Nc1nc(O)c2c(n1)NCC(CCOc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)N2
+3.099601,6.2528086,3.9149916072943354,Lacticaseibacillus casei,Nc1nc(O)c2c(n1)NCC(CCOc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)N2
+3.1144931,6.2607026,3.856999653096503,Lacticaseibacillus casei,Nc1nc(O)c2c(n1)NCC(CCOc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)N2
+1.7007232,5.083783,2.036964602748726,Cavia porcellus,Cn1cnc2c1C(=O)N1CCN=C1N2Cc1ccc(Cl)cc1
+2.2425241,5.845407,7.531652675222888,Beta-1 adrenergic receptor,CC(C)(C)NC[C@H](O)CON=C1c2ccccc2-c2ccccc21
+2.275124,5.8125124,7.5114492942573685,Beta-2 adrenergic receptor,CC(C)(C)NC[C@H](O)CON=C1c2ccccc2-c2ccccc21
+0.58019245,8.245735,5.800000870789331,Malate dehydrogenase mitochondrial,O=C(O)c1cnc2cc(OCCOc3ccc4ccccc4c3)ccc2c1O
+1.2234459,5.981848,6.920818753952375,GABA-A receptor; anion channel,CCOC(=O)c1cn2c(n1)sc1ccccc12
+1.290772,6.198614,5.732828271596986,GABA-A receptor; anion channel,CCSc1nc2nc(C(=O)c3ccccc3)cn2c2c1CCC2
+1.2572378,6.2177253,7.468521082957745,GABA-A receptor; anion channel,CCCc1c(OC)nc2nc(C(=O)c3ccccc3)cn2c1CC
+1.2770864,6.237005,6.97061622231479,GABA-A receptor; anion channel,CCc1c(OC)nc2nc(C(=O)c3ccccc3)cn2c1CC
+3.4658267,5.6124625,7.657577319177793,Opioid receptors; mu & kappa,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](NC(=O)CNC(=O)CCC(=O)NCC(=O)N[C@H]2CC[C@@]4(O)[C@H]6Cc7ccc(O)c8c7[C@@]4(CCN6C)[C@H]2O8)CC[C@@]3(O)[C@H]1C5
+2.508847,4.7503586,4.0,Acetylcholinesterase,CC[N+](C)(CC)CC(=O)CCN1C(=O)CCC1=O.[I-]
+2.4751217,4.706487,3.769551078621726,Acetylcholinesterase,CC[N+](C)(CC)CC(=O)CCN1C(=O)CCC1=O.[I-]
+1.3188952,-4.9369564,5.096910013008056,Cavia porcellus,CC(CCCc1cccnc1)NC(=O)c1ccc2nc3ccc(C(C)C)cc3c(=O)n2c1.Cl.Cl
+1.3161389,-4.93425,6.0,Thromboxane-A synthase,CC(CCCc1cccnc1)NC(=O)c1ccc2nc3ccc(C(C)C)cc3c(=O)n2c1.Cl.Cl
+1.3852314,10.394769,6.060480747381382,L1210,Cl.NCCn1nc2c3c(c(NCCCNCCO)ccc31)C(=O)c1c(O)ccc(O)c1-2
+1.3954414,10.384659,6.031517051446065,L1210,CN(C)CCNCCNc1ccc2c3c(nn2CCN)-c2c(O)ccc(O)c2C(=O)c13.Cl
+1.7605075,4.30028,7.721246399047171,Dopamine D2 receptor,CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(C)c1O
+1.2965173,6.1900535,8.0,GABA-A receptor; anion channel,COc1cc2nc(C(=O)c3ccccc3)cn2c2ccc(C(C)C)cc12
+1.3564326,6.252968,6.795880017344075,GABA-A receptor; anion channel,CC(C)OC(=O)c1cn2c(n1)sc1ccccc12
+0.6149627,4.646479,5.0,Human immunodeficiency virus type 1 reverse transcriptase,S=C(NCN1CCOCC1)Nc1ccc(Br)cn1
+0.6343283,4.6399336,5.42021640338319,ADMET,S=C(NCN1CCOCC1)Nc1ccc(Br)cn1
+0.6131763,4.646885,6.0,ADMET,S=C(NCN1CCOCC1)Nc1ccc(Br)cn1
+3.2929432,4.6424627,8.397940008672037,ADMET,Cc1cn([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)c(=O)[nH]c1=O
+3.345383,4.6345186,6.823908740944319,ADMET,Cc1cn([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)c(=O)[nH]c1=O
+3.3427908,4.669527,8.221848749616356,ADMET,Cc1cn([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)c(=O)[nH]c1=O
+-6.358575,10.130525,5.008773924307505,Dopamine D2 receptor,c1cnc(N2CCN(Cc3cccc4c3Cc3ccccc3-4)CC2)nc1
+-6.3474703,10.122111,5.251811972993799,Dopamine D3 receptor,c1cnc(N2CCN(Cc3cccc4c3Cc3ccccc3-4)CC2)nc1
+-6.3628793,10.137563,7.698970004336019,Dopamine D4 receptor,c1cnc(N2CCN(Cc3cccc4c3Cc3ccccc3-4)CC2)nc1
+-6.3632417,10.137838,5.0,Serotonin 1a (5-HT1a) receptor,c1cnc(N2CCN(Cc3cccc4c3Cc3ccccc3-4)CC2)nc1
+2.637284,4.191288,4.0,Human herpes virus 5 capsid protein P40,CC(=O)O[C@@H]1CC(=O)N1C(=O)NC(C)C
+2.9423256,6.162586,7.3872161432802645,Acyl coenzyme A:cholesterol acyltransferase 1,COc1cc(OC)c(NC(=O)N(c2ccccc2)c2nnn(CCCCCCCCOC3CCCCO3)n2)c(OC)c1
+4.433323,8.243163,7.346787486224656,Endothelin-converting enzyme 1,O=P(O)(O)C(Cc1ccc2ccccc2c1)N[C@@H](Cc1ccc(-c2ccccc2)cc1)c1nnn[nH]1
+4.403827,8.214352,8.161150903260229,Neprilysin,O=P(O)(O)C(Cc1ccc2ccccc2c1)N[C@@H](Cc1ccc(-c2ccccc2)cc1)c1nnn[nH]1
+-2.2241483,6.812419,5.259637310505756,Acyl coenzyme A:cholesterol acyltransferase 1,COc1ccc(-c2nc(SCCCCCN(CCCn3ccnc3)C(=O)NC(C)C)[nH]c2-c2ccc(OC)cc2)cc1
+-2.2487142,6.8309875,8.522878745280337,Acyl coenzyme A:cholesterol acyltransferase 1,CN(C)c1ccc(-c2nc(SCCCCCN(CCCCCSc3nc(-c4ccccc4)c(-c4ccccc4)[nH]3)C(=O)Nc3ccc(F)cc3F)[nH]c2-c2ccc(N(C)C)cc2)cc1
+-2.2545502,6.835248,6.346787486224656,Acyl coenzyme A:cholesterol acyltransferase 1,CN(C)c1ccc(-c2nc(SCCCCCN(CCCCCSc3nc(-c4ccccc4)c(-c4ccccc4)[nH]3)C(=O)Nc3ccc(F)cc3F)[nH]c2-c2ccc(N(C)C)cc2)cc1
+2.624618,4.122605,8.468521070776168,FK506-binding protein 1A,COC(=O)CC[C@H](CCO)C[C@@H](C)[C@@H]1CC(=O)[C@H](C)/C=C(\\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C(\\C)[C@@H](OC)C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O1
+2.606578,4.124904,6.698970004336019,Unchecked,COC(=O)CC[C@H](CCO)C[C@@H](C)[C@@H]1CC(=O)[C@H](C)/C=C(\\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C(\\C)[C@@H](OC)C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O1
+2.5792665,4.095597,6.42021640338319,Unchecked,COC(=O)CC[C@H](CCO)C[C@@H](C)[C@@H]1CC(=O)[C@H](C)/C=C(\\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C(\\C)[C@@H](OC)C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O1
+-13.45337,17.17083,7.352617014960127,Coagulation factor X,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CCNC(=O)c2ccc3ccccc3n2)NS(=O)(=O)Cc2ccccc2)C1O
+-13.47531,17.149164,5.896196279044043,Thrombin,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CCNC(=O)c2ccc3ccccc3n2)NS(=O)(=O)Cc2ccccc2)C1O
+-13.444938,17.179346,5.841637507904751,Plasminogen,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CCNC(=O)c2ccc3ccccc3n2)NS(=O)(=O)Cc2ccccc2)C1O
+-13.431152,17.193277,7.22767828768011,Trypsin I,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CCNC(=O)c2ccc3ccccc3n2)NS(=O)(=O)Cc2ccccc2)C1O
+13.253859,10.049925,6.7423214251308154,Muscarinic acetylcholine receptor,C/C(C#Cc1ccccc1)=C/CO/N=C1/CN2CCC1C2
+13.304727,9.998938,8.970616201025432,Muscarinic acetylcholine receptor,C/C(C#Cc1ccccc1)=C/CO/N=C1/CN2CCC1C2
+1.2990972,4.6376452,4.6777807052660805,Oxytocin receptor,COc1cc(C)cc2c1Oc1ccc([C@H](CC(C)C)OC(C)=O)c(OC)c1C(=O)OC2
+1.2874388,4.6112146,4.0,Vasopressin V2 receptor,COc1cc(C)cc2c1Oc1ccc([C@H](CC(C)C)OC(C)=O)c(OC)c1C(=O)OC2
+1.5499135,5.4481196,4.550871376379449,Cytochrome P450 51,CCc1ccc(CC[C@@H]2CCC(C)(C)[C@H](OC)[C@H]2Cn2cncn2)cc1
+1.8154191,5.585265,4.698970004336019,Cavia porcellus,CCc1cccn1C1=CC(C)(C)Oc2ccc(C#N)cc21
+2.9434876,7.4969254,5.853352939520565,P388,COC(=O)c1c(C(F)(F)F)[nH]c2c1C13CC1CN(C(=O)c1cc4cc(NC(=O)c5cc6ccccc6[nH]5)ccc4[nH]1)C3=CC2=O
+-9.217706,-6.5124693,1.3647454307052043,Human immunodeficiency virus type 1 protease,CCC(C)[C@H](NC(=O)[C@@H]1CCCN1[P@@](=O)(OC)[C@@H](Cc1ccccc1)NC(=O)[C@H](CC(N)=O)NC(=O)OC(C)(C)C)C(=O)NCC(C)C
+-9.223479,-6.518153,0.8733837368709315,Human immunodeficiency virus type 1 protease,CCC(C)[C@H](NC(=O)[C@@H]1CCCN1[P@@](=O)(OC)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(N)=O)NC(=O)OC(C)(C)C)C(=O)NCC(C)C
+1.763395,4.967399,5.275724130399211,Tubulin,COc1cc2c(cc1O)CCCc1cc(OC)c(OC)c(OC)c1-2
+2.9207835,6.6753235,7.962573517258488,H9,CCN(C(C)C)S(=O)(=O)CC[C@@H]1O[C@@H]1[C@H](Cc1ccccc1)NC(=O)[C@@H](NC(=O)OCc1ccccc1)C(C)(C)S(C)(=O)=O
+5.6199517,5.9976015,7.698970004336019,H9,CC(C)C(NC(=O)C[C@@H]1O[C@@H]1[C@H](Cc1ccccc1)NC(=O)[C@H](CC(N)=O)NC(=O)c1ccc2ccccc2n1)C(C)C
+5.1329727,5.320448,5.2839966563652006,Protein farnesyltransferase,CSCC[C@H](NC(=O)[C@@H](Cc1ccccc1)NC(=O)[C@@H](NC(=O)[C@@H](N)CS)C(C)C)C(=O)O
+2.530579,6.906779,6.468521082957745,Oryctolagus cuniculus,O=C(O)COc1c(F)cc(SCCNS(=O)(=O)c2ccc(Cl)cc2)cc1F
+1.9040508,5.5004663,6.200659450546418,HL-60,COc1ccc(-c2cc(Oc3ccc([N+](=O)[O-])cc3)nnc2-c2ccc(OC)cc2)cc1
+4.2694354,7.368341,9.0,ADAM17,Cc1cc(COc2ccc(N3CC[C@H]([C@H](NC(=O)c4ccccc4)C(=O)NO)C3=O)cc2)c2ccccc2n1
+4.2730794,7.3578143,5.040958607678906,ADAM17,Cc1cc(COc2ccc(N3CC[C@H]([C@H](NC(=O)c4ccccc4)C(=O)NO)C3=O)cc2)c2ccccc2n1
+4.2968984,7.377776,9.0,ADAM17,COC(=O)N[C@H](C(=O)NO)[C@H]1CCN(c2ccc(OCc3cc(C)nc4ccccc34)cc2)C1=O
+4.2987714,7.370556,5.576754126063192,ADAM17,COC(=O)N[C@H](C(=O)NO)[C@H]1CCN(c2ccc(OCc3cc(C)nc4ccccc34)cc2)C1=O
+-0.49685103,5.761275,8.397940008672037,Phosphodiesterase 4,COc1ccc2c(Cc3c(Cl)c[n+]([O-])cc3Cl)nnc(-c3nccs3)c2c1
+-0.54089236,5.802257,8.400007828242058,Phosphodiesterase 4,COc1ccc2c(Cc3c(Cl)c[n+]([O-])cc3Cl)nnc(-c3nccs3)c2c1
+-0.4382113,5.6756067,7.522878745280337,Phosphodiesterase 4,COc1ccc2c(c1OC1CCCC1)CN(C(C)=O)N=C2Cc1c(Cl)cncc1Cl
+-0.45155054,5.6824737,7.519993046071305,Phosphodiesterase 4,COc1ccc2c(c1OC1CCCC1)CN(C(C)=O)N=C2Cc1c(Cl)cncc1Cl
+-0.49477848,5.7198706,7.443697499232712,Phosphodiesterase 4,COc1ccc2c(c1)CN(C(N)=O)N=C2Cc1c(Cl)cncc1Cl
+-0.45986056,5.6871715,7.439973734661542,Phosphodiesterase 4,COc1ccc2c(c1)CN(C(N)=O)N=C2Cc1c(Cl)cncc1Cl
+2.4966416,5.7460623,8.167491075112123,Retinoid X receptor alpha,CC(/C=C/C(F)=C(/C)c1cc(C(C)(C)C)cc(C(C)(C)C)c1OCC(F)F)=C\\C(=O)O
+2.9408803,5.2814236,4.924453038607469,Protein farnesyltransferase,CCCC[C@@H](C)/C=C(C)/C=C(\\C)C(=O)NC1=C[C@@](O)(/C=C/C=C/C=C/C(=O)NC2=C(O)CCC2=O)[C@@H]2O[C@@H]2C1=O
+3.6149013,6.6160007,6.958607314841775,ADAM17,O=C(NO)[C@H]1CCC[C@@H]1C(=O)Nc1ccc(OCc2ccccc2)cc1
+3.5806122,6.6117435,4.301029995663981,Homo sapiens,O=C(NO)[C@H]1CCC[C@@H]1C(=O)Nc1ccc(OCc2ccccc2)cc1
+-22.139805,-2.6861928,7.3872161432802645,Epidermal growth factor receptor erbB1,Cc1cc(C)c(/C=C2\\C(=O)Nc3ncnc(Nc4ccc(F)c(Cl)c4)c32)[nH]1
+-22.114286,-2.7118158,4.0,Platelet-derived growth factor receptor beta,Cc1cc(C)c(/C=C2\\C(=O)Nc3ncnc(Nc4ccc(F)c(Cl)c4)c32)[nH]1
+-22.172392,-2.653631,4.782516055786093,Vascular endothelial growth factor receptor 2,Cc1cc(C)c(/C=C2\\C(=O)Nc3ncnc(Nc4ccc(F)c(Cl)c4)c32)[nH]1
+-22.156195,-2.6698058,6.522878745280337,Epidermal growth factor receptor erbB1,Cc1cc(C)c(/C=C2\\C(=O)Nc3ncnc(Nc4ccc(F)c(Cl)c4)c32)[nH]1
+-22.12804,-2.6979587,6.522878745280337,Receptor protein-tyrosine kinase erbB-2,Cc1cc(C)c(/C=C2\\C(=O)Nc3ncnc(Nc4ccc(F)c(Cl)c4)c32)[nH]1
+-22.117765,-2.7082896,5.106793246940152,Epidermal growth factor receptor erbB1,Cc1cc(C)c(/C=C2\\C(=O)Nc3ncnc(Nc4ccc(F)c(Cl)c4)c32)[nH]1
+-22.199612,-2.626457,5.6020599913279625,Receptor protein-tyrosine kinase erbB-2,Cc1cc(C)c(/C=C2\\C(=O)Nc3ncnc(Nc4ccc(F)c(Cl)c4)c32)[nH]1
+-22.0586,-2.7674909,6.769551078621726,Epidermal growth factor receptor erbB1,Cc1cc(C(=O)N2CCOCC2)[nH]c1/C=C1\\C(=O)Nc2ncnc(Nc3ccc(F)c(Cl)c3)c21
+-22.089825,-2.736247,4.698970004336019,Platelet-derived growth factor receptor beta,Cc1cc(C(=O)N2CCOCC2)[nH]c1/C=C1\\C(=O)Nc2ncnc(Nc3ccc(F)c(Cl)c3)c21
+-22.094805,-2.73129,4.698970004336019,Vascular endothelial growth factor receptor 2,Cc1cc(C(=O)N2CCOCC2)[nH]c1/C=C1\\C(=O)Nc2ncnc(Nc3ccc(F)c(Cl)c3)c21
+-22.0826,-2.743459,7.3979400086720375,Epidermal growth factor receptor erbB1,Cc1cc(C(=O)N2CCOCC2)[nH]c1/C=C1\\C(=O)Nc2ncnc(Nc3ccc(F)c(Cl)c3)c21
+-22.116747,-2.7092347,6.3979400086720375,Receptor protein-tyrosine kinase erbB-2,Cc1cc(C(=O)N2CCOCC2)[nH]c1/C=C1\\C(=O)Nc2ncnc(Nc3ccc(F)c(Cl)c3)c21
+-22.084522,-2.741495,6.356547323513812,Epidermal growth factor receptor erbB1,Cc1cc(C(=O)N2CCOCC2)[nH]c1/C=C1\\C(=O)Nc2ncnc(Nc3ccc(F)c(Cl)c3)c21
+-22.077814,-2.7480066,5.91721462968355,Receptor protein-tyrosine kinase erbB-2,Cc1cc(C(=O)N2CCOCC2)[nH]c1/C=C1\\C(=O)Nc2ncnc(Nc3ccc(F)c(Cl)c3)c21
+1.9508487,1.9503603,5.267606240177032,HCT-116,Nc1ccccc1NC(=O)c1ccc(CNC(=O)OCc2cccnc2)cc1
+1.9200227,6.114115,5.221848749616356,Vascular cell adhesion protein 1,CN(CCCN(C)S(=O)(=O)c1ccc(Cl)c([N+](=O)[O-])c1)S(=O)(=O)c1ccc(Cl)c([N+](=O)[O-])c1
+0.64839894,4.7247286,4.522878745280337,GABA-A receptor; anion channel,CC(C)c1cc(CN2CCOCC2)cc(C(C)C)c1
+2.8896818,5.6942954,6.134303940083929,Proteinase-activated receptor 1,CC(C)(C)c1ccc(Cn2c(=N)n(CC(=O)c3cc(C(C)(C)C)c(O)c(C(C)(C)C)c3)c3ccccc32)cc1
+4.8802814,5.1005955,3.643974142806877,Glutathionylspermidine synthase,CC(C)C[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+2.7623663,5.562867,4.187086643357144,Endothelin receptor ET-A,C/C=C/C=C/C=C/C(=O)O[C@@H]1C=C2COC(O)[C@]2(O)[C@@]2(C)CCCC(C)(C)C12
+2.7276049,5.4654703,4.6777807052660805,Endothelin receptor ET-B,C/C=C/C=C/C=C/C(=O)O[C@@H]1C=C2COC(O)[C@]2(O)[C@@]2(C)CCCC(C)(C)C12
+2.731971,5.524331,4.207608310501746,Endothelin receptor ET-A,C/C=C/C=C/C=C/C(=O)O[C@@H]1C=C2COC(O)[C@]2(O)[C@@]2(C)CCCC(C)(C)C12
+2.6974251,5.4981074,4.3872161432802645,Endothelin receptor ET-B,C/C=C/C=C/C=C/C(=O)O[C@@H]1C=C2COC(O)[C@]2(O)[C@@]2(C)CCCC(C)(C)C12
+4.004317,6.2670937,6.853871964321762,Tyrosine-protein kinase LCK,Nc1ncnc2c1c(-c1cccc(Oc3ccccc3)c1)cn2C1CCCC1
+3.9782999,6.322282,5.928117992693875,Tyrosine-protein kinase LCK,Nc1ncnc2c1c(-c1cccc(Oc3ccccc3)c1)cn2C1CCCC1
+4.00252,6.293338,5.920818753952375,Tyrosine-protein kinase LCK,Nc1ncnc2c1c(-c1cccc(Oc3ccccc3)c1)cn2C1CCCC1
+4.0336976,6.257772,5.0,Tyrosine-protein kinase LCK,Nc1ncnc2c1c(-c1cccc(Oc3ccccc3)c1)cn2C1CCCC1
+4.0105004,6.292223,6.0,Tyrosine-protein kinase SRC,Nc1ncnc2c1c(-c1cccc(Oc3ccccc3)c1)cn2C1CCCC1
+4.021463,6.2954774,5.1487416512809245,Vascular endothelial growth factor receptor 2,Nc1ncnc2c1c(-c1cccc(Oc3ccccc3)c1)cn2C1CCCC1
+4.0169063,6.2979836,5.468521082957745,Tyrosine-protein kinase TIE-2,Nc1ncnc2c1c(-c1cccc(Oc3ccccc3)c1)cn2C1CCCC1
+2.4285495,6.754141,6.11975822410452,Neuropeptide Y receptor type 5,Cc1cc(C(=O)Nc2cc(Cl)cc(Cl)c2)nn1-c1ccccc1
+2.0774984,6.668301,6.0,Neuropeptide Y receptor type 5,COc1cccc(-n2nc(C(=O)Nc3cc(Cl)cc(Cl)c3)cc2C)c1
+0.6279642,6.0012755,8.301029995663981,Gonadotropin-releasing hormone receptor,CCOC(=O)c1cn(Cc2c(F)cccc2F)c2nc(-c3ccc(NC(=O)C4CC4)cc3)c(CN(C)Cc3ccccc3)n2c1=O
+0.61790615,5.996711,8.522878745280337,Gonadotropin-releasing hormone receptor,C=CC(=O)Nc1ccc(-c2nc3n(Cc4c(F)cccc4F)cc(C(=O)OCC)c(=O)n3c2CN(C)Cc2ccccc2)cc1
+-5.4330783,2.3265138,6.721246399047171,Angiotensin II receptor (AT-1) type-1,CNCC(=O)N[C@@H](CCCN=C(N)N)C(=O)N1C[C@@H]2C[C@H]1C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@H](C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccccc1)C(=O)O)CSSC[C@H](C(=O)N[C@H](Cc1c[nH]cn1)C(=O)N1CCC[C@@H]1C(=O)N[C@H](Cc1ccccc1)C(=O)O)NC(=O)[C@@H](Cc1ccc(O)cc1)NC(=O)[C@H]1C[C@H](CN1C(=O)[C@@H](CCCN=C(N)N)NC(=O)CNC)SS2
+-5.4542794,2.3051434,7.638272163982407,Angiotensin II type 2 (AT-2) receptor,CNCC(=O)N[C@@H](CCCN=C(N)N)C(=O)N1C[C@@H]2C[C@H]1C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@H](C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccccc1)C(=O)O)CSSC[C@H](C(=O)N[C@H](Cc1c[nH]cn1)C(=O)N1CCC[C@@H]1C(=O)N[C@H](Cc1ccccc1)C(=O)O)NC(=O)[C@@H](Cc1ccc(O)cc1)NC(=O)[C@H]1C[C@H](CN1C(=O)[C@@H](CCCN=C(N)N)NC(=O)CNC)SS2
+-5.3986096,2.3559706,6.165579296318468,Angiotensin II receptor (AT-1) type-1,CNCC(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@H]1CC(=O)NCCC[C@@H](C(=O)N[C@@H](Cc2c[nH]cn2)C(=O)N2CCC[C@H]2C(=O)N[C@H](Cc2ccccc2)C(=O)O)NC(=O)[C@H](Cc2ccc(O)cc2)NC1=O
+3.09696,7.4606814,8.28399667229504,Angiotensin II receptor (AT-1) type-1,Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nnn[nH]3)cc1)C(=O)CC2
+4.455843,3.462741,8.187086643357144,Cholecystokinin A receptor,Cc1cccc(NC(=O)N[C@H]2N=C(N3CC4CCC(CC4)C3)c3ccccc3N(C)C2=O)c1.Cl
+4.4427557,3.474601,7.572676213642753,Cholecystokinin B receptor,Cc1cccc(NC(=O)N[C@H]2N=C(N3CC4CCC(CC4)C3)c3ccccc3N(C)C2=O)c1.Cl
+14.040425,-4.4451704,5.782516055786093,Unchecked,CCN1CCCC(N2C(=O)c3cccc4cc5ccccc5c(c34)C2=O)C1
+14.159914,-4.326,5.926281649653878,OVCAR-3,CCN1CCCC(N2C(=O)c3cccc4cc5ccccc5c(c34)C2=O)C1
+14.072188,-4.414214,6.197226274708024,L1210,CCN1CCCC(N2C(=O)c3cccc4cc5ccccc5c(c34)C2=O)C1
+14.086052,-4.3997145,6.215382707367125,L1210,CCN1CCCC(N2C(=O)c3cccc4cc5ccccc5c(c34)C2=O)C1
+14.080879,-4.40495,5.057495893831919,NON-PROTEIN TARGET,CCN1CCCC(N2C(=O)c3cccc4cc5ccccc5c(c34)C2=O)C1
+13.985237,-4.499088,5.603277721496227,Unchecked,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1c1cccnc1
+13.947512,-4.5335436,5.712422190921295,OVCAR-3,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1c1cccnc1
+13.873124,-4.6110353,6.2644011003018205,L1210,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1c1cccnc1
+13.816057,-4.668349,6.2564902352715706,L1210,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1c1cccnc1
+13.892274,-4.592053,4.6020599913279625,NON-PROTEIN TARGET,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1c1cccnc1
+3.017532,5.6138597,6.661543506395395,Unchecked,Cc1ccsc1C(=CCCN1CCC[C@H](C(=O)O)C1)c1sccc1C.Cl
+-8.080572,13.481119,8.289036892285734,Phosphodiesterase 3,CCC(CC)CN1CCN(S(=O)(=O)CCCOc2ccc3[nH]c4nc(O)nc-4cc3c2)CC1.Cl
+-8.065881,13.466518,9.795880027050558,Homo sapiens,CCC(CC)CN1CCN(S(=O)(=O)CCCOc2ccc3[nH]c4nc(O)nc-4cc3c2)CC1.Cl
+-8.084747,13.485357,10.39794001837852,Homo sapiens,CCC(CC)CN1CCN(S(=O)(=O)CCCOc2ccc3[nH]c4nc(O)nc-4cc3c2)CC1.Cl
+-8.086384,13.487066,9.387216147068159,Homo sapiens,CCOC(=O)N1CCC(S(=O)(=O)CCCCOc2ccc3[nH]c4nc(O)nc-4cc3c2)CC1
+-8.006238,13.406741,8.27327279718995,Homo sapiens,Cl.Oc1nc2cc3cc(OCCCCc4nnnn4C4CCNCC4)ccc3[nH]c-2n1
+1.4129224,3.8346717,6.853871964321762,Platelet activating factor receptor,COc1cc(C(=O)N2CCN(C(=O)c3cc(OC)c(OC)c(OC)c3)C(COC(=O)NCCC(C)C)C2)cc(OC)c1OC
+-25.67154,2.325143,8.853871971717798,Serotonin transporter,O=S1(=O)c2cccc3cccc(c23)N1CCN1CCC(CCc2c[nH]c3ccc(F)cc23)CC1
+-25.66741,2.3292747,7.0,Serotonin 2 (5-HT2) receptor,O=S1(=O)c2cccc3cccc(c23)N1CCN1CCC(CCc2c[nH]c3ccc(F)cc23)CC1
+-25.666668,2.3298423,8.096910013008056,Adrenergic receptor alpha-1,O=S1(=O)c2cccc3cccc(c23)N1CCN1CCC(CCc2c[nH]c3ccc(F)cc23)CC1
+-25.666725,2.3295524,7.0,Dopamine D2 receptor,O=S1(=O)c2cccc3cccc(c23)N1CCN1CCC(CCc2c[nH]c3ccc(F)cc23)CC1
+-25.676691,2.339384,7.455931955649724,Serotonin transporter,O=S1(=O)c2ccccc2-c2ccccc2N1CCN1CCC(Cc2c[nH]c3ccc(F)cc23)CC1
+-25.672758,2.323678,7.0,Serotonin 2 (5-HT2) receptor,O=S1(=O)c2ccccc2-c2ccccc2N1CCN1CCC(Cc2c[nH]c3ccc(F)cc23)CC1
+-25.721548,2.2748146,7.0,Adrenergic receptor alpha-1,O=S1(=O)c2ccccc2-c2ccccc2N1CCN1CCC(Cc2c[nH]c3ccc(F)cc23)CC1
+-25.681204,2.3149924,7.0,Dopamine D2 receptor,O=S1(=O)c2ccccc2-c2ccccc2N1CCN1CCC(Cc2c[nH]c3ccc(F)cc23)CC1
+1.4514487,5.7027383,6.638272163982407,Homo sapiens,CCOC(=O)C(Cc1ccc(Cl)cc1)Nc1nc2ccc(OC)cc2s1
+1.3854424,5.7256656,7.920818753952375,Homo sapiens,CCOC(=O)C(Cc1ccccc1)Nc1nc2cc(CC)ccc2s1
+1.001888,4.9945903,8.301029995663981,Homo sapiens,CC(C)c1ccc2oc(NC(Cc3cccc(Cl)c3)c3ccccn3)nc2c1
+3.0717802,5.8553042,8.95860730542864,Serotonin 1a (5-HT1a) receptor,CCCN(CCC)C1CCc2cccc(O)c2C1
+5.4469233,7.0819435,8.272458730561683,Dopamine transporter,CCC(=O)C1C(c2cccc3ccccc23)CC2CCC1N2C
+3.583067,6.8813705,6.0,Neprilysin,O=C(O)CCNC(=O)C(Cc1ccccc1)CP(=O)(O)OCCc1ccccc1.[Cl-].[K+]
+3.5676794,6.98618,5.7447274948966935,Neprilysin,O=C(O)CCNC(=O)[C@@H](Cc1ccc(-c2ccccc2)cc1)NCP(=O)(O)O
+2.3160284,6.416602,7.823908740944319,Acyl coenzyme A:cholesterol acyltransferase 1,Cc1cc(C)c2ncc(NC(=O)Nc3c(F)cc(F)cc3F)c(-c3ccccc3Cl)c2c1
+-0.6510099,9.738097,6.769551078621726,Dopamine D2 receptor,O=C1c2ccccc2C(=O)N1CCOCCN1CCN(c2nsc3ccccc23)CC1
+-0.6814085,9.7679405,7.267606240177032,Serotonin 1a (5-HT1a) receptor,O=C1c2ccccc2C(=O)N1CCOCCN1CCN(c2nsc3ccccc23)CC1
+-0.63857245,9.725235,8.26760623250715,Serotonin 2 (5-HT2) receptor,O=C1c2ccccc2C(=O)N1CCOCCN1CCN(c2nsc3ccccc23)CC1
+-0.64824104,9.734037,8.036212181658266,Dopamine D2 receptor,O=C1c2ccccc2C(=O)N1CCCCCCN1CCN(c2nsc3ccccc23)CC1
+-0.6490934,9.735428,9.119186413169032,Serotonin 1a (5-HT1a) receptor,O=C1c2ccccc2C(=O)N1CCCCCCN1CCN(c2nsc3ccccc23)CC1
+-0.6517341,9.738658,9.161150910763263,Serotonin 2 (5-HT2) receptor,O=C1c2ccccc2C(=O)N1CCCCCCN1CCN(c2nsc3ccccc23)CC1
+2.951495,6.209142,9.221993545343608,GABA-A receptor; anion channel,O=C1C2C=Nc3ccccc3C2=NN1c1ccc(Cl)cc1
+1.191321,5.959369,5.770000936548188,GABA-A receptor; anion channel,CCOC(=O)c1cc2c(cn1)sc1ccccc12
+2.0088632,5.441535,4.515700160653214,Xanthine dehydrogenase,CCCCCCNc1nc(O)c2[nH]cnc2n1
+5.1882854,6.0021915,7.376750709602099,Human immunodeficiency virus type 1 protease,COC(=O)N[C@H](C(=O)N[C@@H](Cc1ccccc1)C(O)CN(Cc1ccc(F)cc1)NC(=O)[C@@H](NC(=O)OC)C(C)C)C(C)C
+5.044602,6.13712,6.0,Human immunodeficiency virus type 1 protease,COC(=O)N(C)C(C(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN(CC1CCCCC1)NC(=O)C(C(C)C)N(C)C(=O)OC)C(C)C
+-2.7475662,1.8761305,8.096910013008056,Phospholipase A2 group 1B,COC(=O)COc1cccn2c(Cc3ccccc3-c3ccccc3)c(C)c(C(=O)C(N)=O)c12
+-2.7667658,1.8577223,8.853871971717798,Phospholipase A2 group 1B,COC(=O)COc1cccn2c(Cc3ccccc3-c3ccccc3)c(C)c(C(=O)C(N)=O)c12
+5.345738,2.5406086,4.0,Dihydroorotate dehydrogenase,CN1CCCC1/C(O)=C(\\C#N)C(=O)Nc1ccc(C(F)(F)F)cc1
+5.4175916,2.4727786,4.429457060118103,Dihydroorotate dehydrogenase,N#CCc1ccc(NC(=O)/C(C#N)=C(\\O)C2CC2)cc1
+5.3977084,2.5031192,5.34008379993015,Dihydroorotate dehydrogenase,N#CCc1ccc(NC(=O)/C(C#N)=C(\\O)C2CC2)cc1
+5.4073544,2.4787817,5.050122295963125,Dihydroorotate dehydrogenase,N#C/C(C(=O)Nc1ccncc1)=C(/O)C1CC1
+5.371124,2.5139434,4.931814138253838,Dihydroorotate dehydrogenase,N#C/C(C(=O)Nc1ccncc1)=C(/O)C1CC1
+-0.08778,4.7235193,3.450000017422013,Dopamine beta-hydroxylase,S=c1[nH]ccn1Cc1ccccc1Cl
+2.970492,5.763974,8.371611069949688,Plasmodium falciparum,C[C@H]1[C@@H](OCCC2ON2C(=O)c2ccccc2O)O[C@@H]2O[C@@]3(C)CC[C@H]4[C@H](C)CC[C@@H]1[C@@]24OO3
+-2.6788778,4.784173,6.899629454882437,Dopamine transporter,Fc1ccc(C(OCC2CCN(Cc3ccccc3)CC2)c2ccc(F)cc2)cc1
+-2.7262673,4.7775254,6.118615343229427,Serotonin transporter,Fc1ccc(C(OCC2CCN(Cc3ccccc3)CC2)c2ccc(F)cc2)cc1
+-2.8193977,1.8047595,7.638272163982407,Phospholipase A2 group 1B,CCc1c(C(=O)C(N)=O)c2c(OCC(=O)O)cccn2c1CC1CCCCCC1
+-2.8103707,1.8137643,7.0,Phospholipase A2 group 1B,CCc1c(C(=O)C(N)=O)c2c(OCC(=O)O)cccn2c1CC1CCCCCC1
+1.5212328,5.719969,6.339998283376584,Human immunodeficiency virus type 1 reverse transcriptase,CCc1cc(NCc2ccc3ccccc3c2)c(O)nc1C
+-18.753859,6.468663,8.022322130813263,Matrix metalloproteinase 3,COc1ccc(S(=O)(=O)N2CCN(C(=O)COc3ccccc3)CC2C(=O)NO)cc1
+-18.741055,6.4704823,7.267606240177032,Matrix metalloproteinase 3,COc1ccc(S(=O)(=O)N2CCN(C(=O)N3CCCCCC3)CC2C(=O)NO)cc1
+3.5707867,5.2399864,5.045757490560675,Human immunodeficiency virus type 1 integrase,O=C(/C=C/c1ccc(O)c(O)c1)O[C@H](Cc1ccc(O)c(O)c1)C(=O)O
+-2.5253828,-1.058561,8.806875417575238,Delta opioid receptor,CCN(CC)C(=O)c1ccc(C(=C2CCNCC2)c2cccc(OC)c2)cc1
+-2.5181394,-1.0509229,5.279840696594043,Mu opioid receptor,CCN(CC)C(=O)c1ccc(C(=C2CCNCC2)c2cccc(OC)c2)cc1
+-2.5195253,-1.052278,5.0,Kappa opioid receptor,CCN(CC)C(=O)c1ccc(C(=C2CCNCC2)c2cccc(OC)c2)cc1
+2.6294158,6.0033827,6.050609993355087,Thrombin,CCN(C(=O)C1=CCC[C@H]1C(=O)NCc1ccc(C(=N)N)cc1)C1CCCCC1
+3.2676165,4.673265,5.4089353929735005,"Inositol 1,4,5-trisphosphate receptor type 3",O=P(O)(O)O[C@@H]1CC[C@@H](OP(=O)(O)O)[C@H](OP(=O)(O)O)C1
+12.455813,12.554358,7.886056647693163,Matrix metalloproteinase-1,CCCOc1ccc(S(=O)(=O)N2C/C(=N\\OC)C[C@@H]2C(=O)NO)cc1
+12.428237,12.528091,9.39794000220105,Matrix metalloproteinase-2,CCCOc1ccc(S(=O)(=O)N2C/C(=N\\OC)C[C@@H]2C(=O)NO)cc1
+12.444467,12.543002,8.698970004336019,Matrix metalloproteinase 3,CCCOc1ccc(S(=O)(=O)N2C/C(=N\\OC)C[C@@H]2C(=O)NO)cc1
+12.434289,12.532113,6.419075024324381,Matrix metalloproteinase 7,CCCOc1ccc(S(=O)(=O)N2C/C(=N\\OC)C[C@@H]2C(=O)NO)cc1
+12.422034,12.520516,9.0,Matrix metalloproteinase 13,CCCOc1ccc(S(=O)(=O)N2C/C(=N\\OC)C[C@@H]2C(=O)NO)cc1
+1.4139347,3.8307083,4.022276394711152,Human immunodeficiency virus 1,COc1cc(C(=O)N2CCN(C(=O)c3cc(OC)c(OC)c(OC)c3)C(COC(=O)N3CCCCC3)C2)cc(OC)c1OC
+1.4122618,3.7982204,7.096910013008056,Oryctolagus cuniculus,COc1cc(C(=O)N2CCN(C(=O)c3cc(OC)c(OC)c(OC)c3)C(COC(=O)N3CCCCC3)C2)cc(OC)c1OC
+2.2880337,6.062901,4.962972120244225,Aldose reductase,O=c1cc(C(c2ccccc2)c2ccccc2)oc2cc(O)ccc12
+5.6441708,4.519646,7.251811972993799,Glutamate NMDA receptor,NC(Cc1nc2cc(Br)ccc2n1CP(=O)(O)O)C(=O)OCc1ccccc1
+5.652214,4.5152836,4.809668301829708,Glutamate NMDA receptor,NC(Cc1nc2cc(Br)ccc2n1CP(=O)(O)O)C(=O)OCc1ccccc1
+0.36692458,-13.1937065,7.6777807052660805,Selectin E,CNC(=O)c1cc2c(Oc3ccc(C(C)=O)cc3)cncc2s1
+0.37555566,-13.229465,7.3979400086720375,Intercellular adhesion molecule-1,CNC(=O)c1cc2c(Oc3ccc(C(C)=O)cc3)cncc2s1
+0.39885393,-13.227683,6.0,Vascular cell adhesion protein 1,CNC(=O)c1cc2c(Oc3ccc(C(C)=O)cc3)cncc2s1
+6.79941,-5.122489,6.167491087293763,Selectin E,CNC(=O)c1cc2c(Oc3ccc(/C=C/C(=O)NCCN(CCO)CCO)cc3)cncc2s1
+6.79956,-5.1226506,6.221848749616356,Intercellular adhesion molecule-1,CNC(=O)c1cc2c(Oc3ccc(/C=C/C(=O)NCCN(CCO)CCO)cc3)cncc2s1
+6.799593,-5.122664,6.0,Vascular cell adhesion protein 1,CNC(=O)c1cc2c(Oc3ccc(/C=C/C(=O)NCCN(CCO)CCO)cc3)cncc2s1
+1.5534524,-8.437068,3.3010299956639813,L1210,CNC1C(=O)NC2Cc3ccc(cc3)Oc3cc4cc(c3O[C@@H]3O[C@@H](C(=O)O)[C@@H](O)[C@H](O)[C@@H]3N)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(cc(O)c2Cl)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O[C@H]2O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]2O)cc(O)cc1[C@H](C(=O)O)NC3=O
+1.5839957,-8.406551,3.3010299956639813,MOLT-4,CNC1C(=O)NC2Cc3ccc(cc3)Oc3cc4cc(c3O[C@@H]3O[C@@H](C(=O)O)[C@@H](O)[C@H](O)[C@@H]3N)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(cc(O)c2Cl)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O[C@H]2O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]2O)cc(O)cc1[C@H](C(=O)O)NC3=O
+1.5639323,-8.426752,3.3010299956639813,CCRF-CEM,CNC1C(=O)NC2Cc3ccc(cc3)Oc3cc4cc(c3O[C@@H]3O[C@@H](C(=O)O)[C@@H](O)[C@H](O)[C@@H]3N)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(cc(O)c2Cl)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O[C@H]2O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]2O)cc(O)cc1[C@H](C(=O)O)NC3=O
+19.833714,1.991715,3.6020599913279625,L1210,NC1C(=O)NC2Cc3ccc(c(Cl)c3)Oc3cc4cc(c3O)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(O)cc(c2)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1[C@H](C(=O)C1NCCC2CCCCC21)NC3=O
+19.838772,1.9966623,3.6020599913279625,MOLT-4,NC1C(=O)NC2Cc3ccc(c(Cl)c3)Oc3cc4cc(c3O)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(O)cc(c2)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1[C@H](C(=O)C1NCCC2CCCCC21)NC3=O
+19.85236,2.0102658,3.6020599913279625,CCRF-CEM,NC1C(=O)NC2Cc3ccc(c(Cl)c3)Oc3cc4cc(c3O)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(O)cc(c2)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1[C@H](C(=O)C1NCCC2CCCCC21)NC3=O
+2.740187,5.5715537,7.698970004336019,Enoyl-[acyl-carrier-protein] reductase (FabI),Cc1cccc2c(CN(C)C(=O)/C=C/c3cnc4c(c3)CCC(=O)N4)c(C)n(C)c12
+2.7555332,5.527687,7.154901959985743,Unchecked,Cc1cccc2c(CN(C)C(=O)/C=C/c3cnc4c(c3)CCC(=O)N4)c(C)n(C)c12
+2.6879096,5.512966,4.522878745280337,Unchecked,Cc1cccc2c(CN(C)C(=O)/C=C/c3cnc4c(c3)CCC(=O)N4)c(C)n(C)c12
+2.5579693,5.3532805,6.667561540084395,Androgen Receptor,CC1=CC(C)(C)Nc2ccc3c(c21)/C(=C/c1ccsc1)Oc1ccc(F)cc1-3
+2.5541525,5.313542,7.0,Glucocorticoid receptor,CC1=CC(C)(C)Nc2ccc3c(c21)/C(=C/c1ccsc1)Oc1ccc(F)cc1-3
+2.5208838,5.352231,5.721246399047171,Mineralocorticoid receptor,CC1=CC(C)(C)Nc2ccc3c(c21)/C(=C/c1ccsc1)Oc1ccc(F)cc1-3
+2.6099682,5.324125,5.45742352373947,Estrogen receptor,CC1=CC(C)(C)Nc2ccc3c(c21)/C(=C/c1ccsc1)Oc1ccc(F)cc1-3
+1.46303,5.4500194,5.031517051446065,Epidermal growth factor receptor erbB1,CN(c1ccccc1)c1ncnc2ccc(N/N=N/Cc3ccccn3)cc12
+1.4612944,5.4377704,4.599634726650061,A-431,CN(c1ccccc1)c1ncnc2ccc(N/N=N/Cc3ccccn3)cc12
+1.3902432,5.51718,4.193209728415933,NIH3T3,CN(c1ccccc1)c1ncnc2ccc(N/N=N/Cc3ccccn3)cc12
+1.4640716,5.483456,4.404283380056576,NIH3T3,CN(c1ccccc1)c1ncnc2ccc(N/N=N/Cc3ccccn3)cc12
+1.6933326,8.105141,7.638272163982407,Dopamine transporter,OC1(c2ccccc2F)c2ccccc2C2=NCCCN21
+1.6917146,8.107454,6.1938200260161125,Dopamine transporter,OC1(c2cccnc2)c2ccccc2C2=NCCN21
+-2.0466766,6.6210485,5.6020599913279625,ADMET,CS(=O)(=O)c1ccc(CSc2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)cc1
+-2.0520678,6.6250954,6.481486060122113,ADMET,CS(=O)(=O)c1ccc(CSc2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)cc1
+-2.0580344,6.6158595,4.540607512240769,Homo sapiens,CS(=O)(=O)c1ccc(CSc2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)cc1
+-2.0667233,6.6385155,5.5376020021010435,Homo sapiens,CS(=O)(=O)c1ccc(CSc2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)cc1
+-2.0322926,6.60756,4.823908740944319,ADMET,C[S+]([O-])c1ccccc1CSc1nc(-c2ccc(F)cc2)c(-c2ccncc2)[nH]1
+-2.0543535,6.6280093,6.045757490560675,ADMET,C[S+]([O-])c1ccccc1CSc1nc(-c2ccc(F)cc2)c(-c2ccncc2)[nH]1
+-2.053782,6.628747,4.323306390375134,Homo sapiens,C[S+]([O-])c1ccccc1CSc1nc(-c2ccc(F)cc2)c(-c2ccncc2)[nH]1
+-2.0568526,6.6172395,5.3979400086720375,Homo sapiens,C[S+]([O-])c1ccccc1CSc1nc(-c2ccc(F)cc2)c(-c2ccncc2)[nH]1
+2.0724576,5.904477,7.301029995663981,Cruzipain,C/C(=N\\N=C(\\N)S)c1ccc(Cl)c(Cl)c1
+2.2523289,6.45501,5.0,Cruzipain,C/C(=N\\NC(N)=O)c1cccc(Cl)c1
+5.965685,4.3967943,5.568636235841013,"Glutamate receptor ionotropic, AMPA",NC(Cc1ccnn1O)C(=O)O
+5.9602623,4.381974,4.0,"Glutamate receptor ionotropic, kainate",NC(Cc1ccnn1O)C(=O)O
+5.99477,4.3914084,4.0,Glutamate NMDA receptor,NC(Cc1ccnn1O)C(=O)O
+5.97125,4.3800907,3.6989700043360187,Unchecked,NC(Cc1ccnn1O)C(=O)O
+5.9567747,4.3654017,3.0,Excitatory amino acid transporter 1,NC(Cc1ccnn1O)C(=O)O
+5.9462337,4.406097,3.3665315444204134,Excitatory amino acid transporter 2,NC(Cc1ccnn1O)C(=O)O
+5.999266,4.3544703,3.0,Excitatory amino acid transporter 3,NC(Cc1ccnn1O)C(=O)O
+4.020276,5.837832,3.9208187539523753,Interleukin-2 receptor alpha chain,N=C(N)N[C@@H](C(=O)NCC(=O)N1CCC(c2cc(-c3ccccc3)[nH]n2)CC1)C1CCCCC1
+5.24639,5.3970976,3.0457574905606752,Interleukin-2 receptor alpha chain,COC(=O)[C@H](Cc1ccc(C#Cc2ccccc2)cc1)NC(=O)CNC(=O)[C@@H](CCC(N)=O)N=C(N)N
+3.886727,5.731595,5.0915149811213505,Interleukin-2 receptor alpha chain,CC(C)C[C@@H](N=C(N)N)C(=O)NCC(=O)N1CCC(c2cc(-c3ccc(O)c(Cl)c3Cl)nn2C)CC1
+2.6988297,6.009531,6.494850021680094,Unchecked,Nc1nc(O)c2nn(-c3cccc(C(=O)NC[C@H]4CCCC[C@@H]4O)c3)nc2n1
+2.582925,4.5348496,0.9455000974203239,Unchecked,CC(=O)OC1C(C)C2/C=C/OC3(C)Oc4c(C)c(O)c5c(O)c(c(N6CCN(Cc7c(C)cc(C)cc7C)CC6)c(O)c5c4C3=O)NC(=O)/C(C)=C\\C=C\\C(C)C(O)C(C)C(O2)C1C
+2.6395297,6.897815,4.958607314841775,Aldose reductase,O=C(O)[C@@H](NS(=O)(=O)c1ccccc1)c1ccccc1
+3.29027,6.2235055,3.3010299956639813,Epidermal growth factor receptor erbB1,CC(=C(C#N)C#N)c1ccc(NC(=O)CCC(=O)O)cc1
+2.864102,5.574425,2.5228787452803374,Epidermal growth factor receptor erbB1,O=C(O)/C=C/c1ccc(O)cc1
+2.0812092,5.3644257,4.017728766960431,Epidermal growth factor receptor erbB1,N#CC(C#N)=Cc1cc(O)ccc1[N+](=O)[O-]
+2.5115726,5.674126,8.045757490560675,Carbonic anhydrase II,CC(C)CN(C)Cc1cc(C(=O)c2csc(S(N)(=O)=O)c2)ccc1O.Cl
+2.3436286,7.078463,3.3979400086720375,Aldose reductase,CN(c1ccccc1C(=O)O)S(=O)(=O)c1ccc2ccccc2c1
+-19.130293,-5.358994,6.494850021680094,Muscarinic acetylcholine receptor,CC[C@H]1C(=O)SC[C@@H]1Cc1cncn1C
+-19.13025,-5.359031,6.110698297493689,Muscarinic acetylcholine receptor M1,CC[C@H]1C(=O)SC[C@@H]1Cc1cncn1C
+-19.130295,-5.358993,6.351639989019068,Muscarinic acetylcholine receptor,CC[C@@H]1COC[C@@H]1Cc1cncn1C
+-19.13023,-5.3590574,5.7447274948966935,Muscarinic acetylcholine receptor M1,CC[C@@H]1COC[C@@H]1Cc1cncn1C
+-1.4148595,-3.8885403,7.522878745280337,Renin,CCCC[C@H](O[C@@H](Cc1ccccc1)C(=O)N1CCC(OCOC)CC1)C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)C[C@H](C(=O)N(C)CCN(C)C)C(C)C
+-1.4130815,-3.886797,6.5376020021010435,Renin,CCCC[C@H](O[C@@H](Cc1ccccc1)C(=O)N1CCC(OCOC)CC1)C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)C[C@H](C(=O)N(C)CCN(C)C)C(C)C
+-1.4035426,-3.876684,8.657577309764658,Renin,CCCC[C@H](O[C@@H](Cc1ccccc1)C(=O)N1CCC(OCOC)CC1)C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)C[C@H](NC(=O)OCc1ccccc1)C(C)C
+-1.3748889,-3.8485415,7.080921907623926,Renin,CCCC[C@H](O[C@@H](Cc1ccccc1)C(=O)N1CCC(OCOC)CC1)C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)C[C@H](NC(=O)OCc1ccccc1)C(C)C
+3.6819735,3.6513305,5.0,Kappa opioid receptor,C=CCC1(CN2CCCC2)CCCCN1C(=O)Cc1ccc(Cl)c(Cl)c1
+1.9542471,1.7451274,5.468521082957745,Human rhinovirus A protease,CCC[C@@H](NC(=O)N1C(=O)C[C@@H]1Cc1ccccc1)c1ccccc1
+1.9506361,1.6943719,4.920818753952375,Human rhinovirus A protease,O=C1C[C@H](Cc2ccccc2)N1C(=O)NCc1ccncc1
+1.9544519,1.6936817,4.1249387366083,Pancreatic elastase,O=C1C[C@H](Cc2ccccc2)N1C(=O)NCc1ccncc1
+1.9268882,1.6692907,4.1249387366083,Leukocyte elastase,O=C1C[C@H](Cc2ccccc2)N1C(=O)NCc1ccncc1
+1.9493526,1.6883633,4.1249387366083,Alpha-chymotrypsin,O=C1C[C@H](Cc2ccccc2)N1C(=O)NCc1ccncc1
+1.9818399,1.8718942,5.130768280269024,Human rhinovirus A protease,COc1ccc(CN(C)C(=O)N2C(=O)C[C@@H]2Cc2ccccc2)cc1
+3.2423446,5.440445,6.749579997691106,Mus musculus,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)[C@@H](c2ccccc2)CC3[C@H]1C5
+2.6258626,3.4633293,6.443697499232712,"Nitric oxide synthase, inducible",CCCCCC1N=C(N)CC1C.Cl
+2.6267853,3.4500856,3.614393726401688,"Nitric-oxide synthase, endothelial",CCCCCC1N=C(N)CC1C.Cl
+2.5706189,3.5198417,5.270025714300444,"Nitric-oxide synthase, brain",CCCCCC1N=C(N)CC1C.Cl
+2.6182911,3.269766,5.522878745280337,"Nitric oxide synthase, inducible",CC1CC(N)=NC1Cc1ccccc1.Cl
+2.645016,3.357285,3.339134521996131,"Nitric-oxide synthase, endothelial",CC1CC(N)=NC1Cc1ccccc1.Cl
+2.6828701,3.3120043,5.081445469449727,"Nitric-oxide synthase, brain",CC1CC(N)=NC1Cc1ccccc1.Cl
+5.4344296,7.0415373,6.053056729302175,Dopamine transporter,COC(=O)C1C(Cc2ccccc2)CC2CCC1N2C
+5.392132,7.0022917,5.991399828238082,Dopamine transporter,COC(=O)C1C(Cc2ccccc2)CC2CCC1N2C
+3.4110146,7.201665,4.204119982655925,Complement C1r,O=c1oc(Nc2nncs2)nc2ccccc12
+3.5308433,7.363589,4.204119982655925,Complement C1r,O=c1oc(Nc2ccccc2I)nc2cc(C3CCCCC3)ccc12
+-1.7161309,22.835596,5.059250696492636,T-cell,Nc1nc(N)c2nc(CNc3ccc(C(=O)N[C@@H](CC(F)C(=O)O)C(=O)O)cc3Cl)cnc2n1
+-1.7053248,22.846184,4.620837143170659,Unchecked,Nc1nc(N)c2nc(CNc3ccc(C(=O)N[C@@H](CC(F)C(=O)O)C(=O)O)cc3Cl)cnc2n1
+-1.7051651,22.846481,4.0,EL4,Nc1nc(N)c2nc(CNc3ccc(C(=O)N[C@@H](CC(F)C(=O)O)C(=O)O)cc3Cl)cnc2n1
+-4.2017303,-7.2916236,5.301029995663981,Dihydrofolate reductase,COc1cc(/C=C/c2cnc3nc(N)nc(N)c3c2)cc(OC)c1OC
+-4.2041245,-7.294146,5.853871964321762,Dihydrofolate reductase,COc1cc(/C=C/c2cnc3nc(N)nc(N)c3c2)cc(OC)c1OC
+-4.2178683,-7.307812,4.889410289700751,Dihydrofolate reductase,COc1cc(/C=C/c2cnc3nc(N)nc(N)c3c2)cc(OC)c1OC
+2.2014072,3.9537752,4.0,Trypanosoma brucei,Nc1ncnc2c1cnn2[C@@H]1C=C[C@@H](O)[C@H]1O
+0.3493144,7.166915,6.301029995663981,Glutamate (NMDA) receptor subunit zeta 1,COC(=O)CCc1c(-c2ccccc2)c(O)nc2cc(Cl)ccc12
+6.1183496,6.2069907,6.267606240177032,C-C chemokine receptor type 1,NC(=O)C(C[C@H](O)[C@H](Cc1ccccc1)NC(=O)c1cnc2ccccc2n1)C1(O)CCCCC1
+6.0971684,6.2280297,6.920818753952375,C-C chemokine receptor type 1,NC(=O)C(C[C@H](O)[C@H](Cc1ccccc1)NC(=O)c1cnc2ccccc2n1)C1(O)CCCCC1
+3.192582,6.4771485,5.72584215073632,Vascular endothelial growth factor receptor 2,c1ccc(-c2cnc(Nc3ccccn3)o2)cc1
+-4.6165733,21.796177,5.698970004336019,Heparanase,COCCNc1ccc(N2C(=O)c3ccc(C(=O)O)cc3C2=O)cc1-c1nc2cc(-c3ccccc3)ccc2o1
+-4.646412,21.726513,4.698970004336019,NON-PROTEIN TARGET,COCCNc1ccc(N2C(=O)c3ccc(C(=O)O)cc3C2=O)cc1-c1nc2cc(-c3ccccc3)ccc2o1
+5.661943,23.204247,6.0655015487564325,Palmitoyl-CoA oxidase,Cc1nc2cc(OC[C@H](O)CN3CCN(CC(=O)Nc4cccc5[nH]ccc45)CC3)ccc2s1
+3.4716594,6.883175,5.769551078621726,Unchecked,N.N.N.N.NC(=O)[C@H](Cc1ccc(C(F)(F)P(=O)(O)O)cc1)NC(=O)[C@H](Cc1ccc(C(F)(F)P(=O)(O)O)cc1)NCc1cc(Br)cc(C2(C(F)(F)F)N=N2)c1
+2.099126,9.1089325,5.3655227298392685,A549,O=C1C(Nc2ccc(Br)cc2)=C(Cl)C(=O)c2ncncc21
+2.1070213,9.102803,5.519993057042849,Col2,O=C1C(Nc2ccc(Br)cc2)=C(Cl)C(=O)c2ncncc21
+2.0707953,9.133489,6.161150909262744,SNU-638,O=C1C(Nc2ccc(Br)cc2)=C(Cl)C(=O)c2ncncc21
+2.083671,9.1264715,4.82102305270683,DNA topoisomerase II,O=C1C(Nc2ccc(Br)cc2)=C(Cl)C(=O)c2ncncc21
+3.126835,7.2021155,3.5528419686577806,Alkaline phosphatase placental-like,O=c1c2ccccc2nc2ccc(-c3nn[nH]n3)cn12
+3.0047157,6.9129715,3.0969100130080562,Alkaline phosphatase placental-like,O=C(O)c1cccn2c(=O)c3ccccc3nc12
+1.3733774,-4.9909496,5.0,Cavia porcellus,COc1ccc2c(=O)n3cc(C(=O)NCCCCc4cccnc4)ccc3nc2c1
+1.421742,-5.0392275,7.698970004336019,Thromboxane-A synthase,COc1ccc2c(=O)n3cc(C(=O)NCCCCc4cccnc4)ccc3nc2c1
+1.3827934,10.398863,6.823908740944319,L1210,Cl.Cn1nc2c3c(c(NCCNCCO)ccc31)C(=O)c1c(O)ccc(O)c1-2
+1.3849753,10.395484,5.795880017344075,L1210,COCCn1nc2c3c(c(NCCNCCO)ccc31)C(=O)c1c(O)ccc(O)c1-2.Cl
+1.6713336,5.18094,5.154901959985743,Phosphodiesterase 3,COc1cc2c(C)nc(O)c(C(C)C)c2cc1OC
+3.1512618,7.2096725,4.207608310501746,GABA-A receptor; anion channel,CS(=O)(=O)Nc1cc2c3ccccc3nc-2c[nH]1
+1.81349,4.3044486,4.815308569182401,Dopamine D2 receptor,CCN1CCC[C@H]1CNC(=O)c1c(OC)cccc1OC
+1.5691553,5.1887383,5.698970004336019,Phosphodiesterase 3,CCc1c(O)nc(C)c2cc(OC)c(OC)cc12
+3.9964721,6.9074254,6.522878745280337,Matrix metalloproteinase-2,O=C(CN(Cc1ccccc1)C(=O)CN(CCCc1ccccc1)C(=O)Nc1ccc(Oc2ccccc2)cc1)NO
+4.0231614,6.910379,4.292429823902063,Matrix metalloproteinase-2,CCCCN(CC(=O)NO)C(=O)CN(CCc1ccc(F)cc1)C(=O)Nc1ccc(Oc2ccccc2)cc1
+4.0353107,6.9080687,3.8239087409443187,Matrix metalloproteinase-2,CCCCCCCN(CC(=O)NO)C(=O)CN(CCCc1ccccc1)C(=O)Nc1ccc(Oc2ccccc2)cc1
+3.3534405,4.70893,4.301029995663981,Neutral alpha-glucosidase C,OCC1NC(CO)[C@H](O)[C@@H](O)[C@@H]1O
+3.355565,4.713141,7.657577319177793,Neutral alpha-glucosidase C,OCC1NC(CO)[C@H](O)[C@@H](O)[C@@H]1O
+3.2814472,4.7087054,5.346787486224656,Alpha-galactosidase A,OCC1NC(CO)[C@H](O)[C@@H](O)[C@@H]1O
+-6.365092,10.140526,7.301029995663981,Dopamine D2 receptor,COc1ccc(-c2cccc(CN3CCN(c4ncccn4)CC3)c2)cc1
+-6.351467,10.127092,7.142667503568731,Dopamine D3 receptor,COc1ccc(-c2cccc(CN3CCN(c4ncccn4)CC3)c2)cc1
+-6.371272,10.147102,7.2441251443275085,Dopamine D4 receptor,COc1ccc(-c2cccc(CN3CCN(c4ncccn4)CC3)c2)cc1
+-6.368684,10.144229,5.698970004336019,Serotonin 1a (5-HT1a) receptor,COc1ccc(-c2cccc(CN3CCN(c4ncccn4)CC3)c2)cc1
+3.5010405,6.4180994,5.318758762624412,Caspase-1,O=C1C[C@H](NC(=O)[C@@H]2CS[C@H]3CC[C@H](NC(=O)OCc4ccccc4)C(=O)N32)C(O)O1
+3.4911747,6.424061,4.0655015487564325,Caspase-3,O=C1C[C@H](NC(=O)[C@@H]2CS[C@H]3CC[C@H](NC(=O)OCc4ccccc4)C(=O)N32)C(O)O1
+2.781373,5.154701,7.142667503568731,Sigma opioid receptor,C/C(=N\\C1CCCCC1)NC12CC3CC(CC(C3)C1)C2
+2.7290924,5.175749,5.0,Glutamate NMDA receptor,C/C(=N\\C1CCCCC1)NC12CC3CC(CC(C3)C1)C2
+2.8706388,3.4474473,6.356547323513812,Neurokinin 1 receptor,Cc1cccc2c1C1(C34C[C@H]5C(=O)N[C@@H](Cc6ccccc6)C(=O)N5[C@H]3Nc3ccccc34)C[C@H]3C(=O)N[C@@H](Cc4ccccc4)C(=O)N3[C@H]1N2
+2.7909474,3.3562043,5.2441251443275085,Neurokinin 1 receptor,Cc1cccc2c1C1(C34C[C@H]5C(=O)N[C@@H](Cc6ccccc6)C(=O)N5[C@H]3Nc3cccc(C)c34)C[C@H]3C(=O)N[C@@H](Cc4ccccc4)C(=O)N3[C@H]1N2
+13.273869,10.029971,5.8198741248359465,Muscarinic acetylcholine receptor,COc1cccc(C#C/C(C)=C\\CO/N=C2/CN3CCC2C3)c1
+13.2415905,10.062128,7.815024797398496,Muscarinic acetylcholine receptor,COc1cccc(C#C/C(C)=C\\CO/N=C2/CN3CCC2C3)c1
+13.262881,10.040838,6.6595558851598815,Muscarinic acetylcholine receptor,C/C(C#Cc1ccc(F)cc1)=C/CO/N=C1/CN2CCC1C2
+13.253818,10.050315,8.793174120109404,Muscarinic acetylcholine receptor,C/C(C#Cc1ccc(F)cc1)=C/CO/N=C1/CN2CCC1C2
+2.6789906,6.163434,9.0,Type-1B angiotensin II receptor,CCCCc1ncc(/C=C(\\Cc2cccs2)C(=O)O)n1Cc1ccc(C(=O)O)cc1
+2.661649,6.1491427,8.136677128532263,Type-1 angiotensin II receptor,CCCCc1ncc(/C=C(\\Cc2cccs2)C(=O)O)n1Cc1ccc(C(=O)O)cc1
+2.6956823,6.1194034,8.698970004336019,Type-1 angiotensin II receptor,CCCCc1ncc(/C=C(\\Cc2cccs2)C(=O)O)n1Cc1ccc(C(=O)O)cc1
+3.2395935,5.913593,7.0655015487564325,Glutamate NMDA receptor,c1ccc2c(c1)C[C@H]1CN[C@@]23CCCC[C@@H]13
+3.8922057,4.3886313,7.522878745280337,Prolyl endopeptidase,O=C([C@@H]1CCCN1C(=O)CCCc1ccccc1)N1CCCC1
+2.957571,7.3997936,5.96190623603963,P388,COC(=O)c1[nH]c2c(c1C(=O)OC)C13CC1CN(C(=O)c1cc4cc(NC(=O)c5cc6ccccc6o5)ccc4[nH]1)C3=CC2=O
+5.132564,5.5408053,8.397940008672037,Human immunodeficiency virus type 1 protease,CC(C)[C@H](NC(=O)OCc1ccccc1)C(=O)NC(Cc1ccc(OCc2ccccc2)cc1)C(=O)C(F)(F)C(=O)N[C@@H](C(=O)O)C(C)C
+1.6308436,4.7523446,4.173925197299173,Tubulin,COc1cc(Cc2ccc3c(c2)OCO3)cc(OC)c1OC
+5.427408,6.5978675,8.698970004336019,Human immunodeficiency virus type 1 protease,Cc1ccc(CN2CCN(C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)O[C@@H]3CCS(=O)(=O)[C@@H]3C(C)C)[C@H](C(=O)NC(C)(C)C)C2)cn1
+5.1863284,5.371634,6.3979400086720375,Protein farnesyltransferase,CC(C)[C@H](NC(=O)[C@@H](N)CS)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](Cc1ccccc1)C(=O)O
+-7.895355,-4.037784,5.823908740944319,Human herpesvirus 2 protease,Cc1ccccc1/C=C/C(=O)N[C@@H](C)c1nc2scc(C)c2c(=O)o1
+-7.8473067,-3.9896252,7.443697499232712,Human herpesvirus 6 protease,Cc1ccccc1/C=C/C(=O)N[C@@H](C)c1nc2scc(C)c2c(=O)o1
+-7.8508444,-3.9931958,4.698970004336019,Cytomegalovirus,Cc1ccccc1/C=C/C(=O)N[C@@H](C)c1nc2scc(C)c2c(=O)o1
+2.227024,5.8242893,6.455931955649724,DNA-dependent protein kinase,O=c1cc(-c2cccc(-c3ccc(O)cc3)c2)sc(N2CCOCC2)c1
+2.2296567,5.915267,7.863279438889797,Retinoid X receptor alpha,CCC(C)(C)c1cc(/C(C)=C(F)\\C=C\\C(C)=C\\C(=O)O)c(OCC(F)F)c(C(C)(C)CC)c1
+4.491789,4.573882,4.376750709602099,Hepatitis C virus polyprotein,CC[C@H](NC(=O)[C@H](CC1CCCCC1)NC(=O)[C@@H](NC(=O)[C@H](CC(C)C)NC(=O)c1cnccn1)[C@@H](C)CC)C(=O)C(=O)N1CCCC1
+5.2744603,4.5986357,5.366531544420414,Hepatitis C virus polyprotein,CC[C@H](NC(=O)[C@H](CC1CCCCC1)NC(=O)[C@@H](NC(=O)[C@H](CC(C)C)NC(=O)c1cnccn1)[C@@H](C)CC)C(=O)C(=O)NCC(N)=O
+2.5501459,5.897654,6.698970004336019,Cyclin-dependent kinase 4/cyclin D1,O=C1NC(=O)c2c1c1c3cccnc3ccc1c1[nH]c3ccccc3c21
+2.4724004,5.865311,6.366531544420414,HCT-116,O=C1NC(=O)c2c1c1c3cccnc3ccc1c1[nH]c3ccccc3c21
+2.648604,5.869551,5.718966632752273,NCI-H460,O=C1NC(=O)c2c1c1c3cccnc3ccc1c1[nH]c3ccccc3c21
+3.0427098,5.7553,5.721246399047171,Protein farnesyltransferase,SCCNCc1cc(-c2cccc3ccccc23)cc(CNCCS)n1
+2.9934719,5.741457,3.0787127794337423,Unchecked,SCCNCc1cc(-c2cccc3ccccc23)cc(CNCCS)n1
+-22.089958,-2.7359703,5.274905478918531,Epidermal growth factor receptor erbB1,Cc1cc(C(=O)NCCN2CCOCC2)[nH]c1/C=C1\\C(=O)N(C)c2ncnc(Nc3ccc(F)c(Cl)c3)c21
+-22.148289,-2.6776948,4.698970004336019,Platelet-derived growth factor receptor beta,Cc1cc(C(=O)NCCN2CCOCC2)[nH]c1/C=C1\\C(=O)N(C)c2ncnc(Nc3ccc(F)c(Cl)c3)c21
+-22.075579,-2.750435,4.995678626217358,Vascular endothelial growth factor receptor 2,Cc1cc(C(=O)NCCN2CCOCC2)[nH]c1/C=C1\\C(=O)N(C)c2ncnc(Nc3ccc(F)c(Cl)c3)c21
+1.9157314,6.1939077,4.3979400086720375,Vascular cell adhesion protein 1,NS(=O)(=O)c1ccc(Cl)c([N+](=O)[O-])c1
+3.5080512,5.8717113,6.619788758288394,Homo sapiens,N=C(N)c1ccc(C2=NOC(CC(=O)NCCC(=O)O)C2)cc1
+3.5451453,5.794979,6.522878745280337,Homo sapiens,CCCCCNC(=N)c1ccc(C2=NOC(CC(=O)NCCC(=O)O)C2)cc1
+2.4489384,5.638933,5.0,GABA-A receptor; anion channel,CC(C)c1cc(CN(C)Cc2ccccc2)cc(C(C)C)c1O
+0.7238666,4.724521,4.522878745280337,GABA-A receptor; anion channel,CC(C)c1cc(CN2CCOCC2)cc(C(C)C)c1N(C)C
+5.111318,5.4195623,7.721246399047171,Thrombin,CC(O)[C@H](NC(=O)[C@H](Cc1ccc([N+](=O)[O-])cc1)NC(=O)CCCN=C(N)N)C(=O)N[C@H](CO)c1ccccc1
+2.9959326,8.288731,5.8124792791635365,Protein-tyrosine phosphatase 1B,COC(=O)c1ccc(C2=CC(=O)C(=O)c3ccccc32)cc1
+2.9869964,8.290839,5.782516055786093,Leukocyte common antigen,COC(=O)c1ccc(C2=CC(=O)C(=O)c3ccccc32)cc1
+3.027102,8.255559,5.149353764816933,Receptor-type tyrosine-protein phosphatase F (LAR),COC(=O)c1ccc(C2=CC(=O)C(=O)c3ccccc32)cc1
+3.020425,8.246119,4.921905849593589,Unchecked,COC(=O)c1ccc(C2=CC(=O)C(=O)c3ccccc32)cc1
+3.0006845,8.260146,5.671620396561262,Dual specificity phosphatase Cdc25B,COC(=O)c1ccc(C2=CC(=O)C(=O)c3ccccc32)cc1
+3.085402,8.516868,4.994390554639719,Protein-tyrosine phosphatase 1B,CC(C)C1=CC(=O)C(=O)c2ccccc21
+1.3042028,6.735706,5.721246399047171,L1210,CCc1cc2c3[nH]c4cc(OCc5ccccc5)ccc4c3cc[n+]2nc1CC.[Br-]
+1.5362797,5.7537727,5.958607314841775,L1210,CCOC(=O)Cn1c2cc(OC)ccc2c2cc[n+]3nc(CC)c(CC)cc3c21
+0.90081865,5.384991,8.522878745280337,Phosphodiesterase 4A,COc1ccc([C@H](Cc2ccncc2)c2ccsc2)cc1OC1CCCC1
+0.8971422,5.3906636,4.928117992693875,Homo sapiens,COc1ccc([C@H](Cc2ccncc2)c2ccsc2)cc1OC1CCCC1
+0.36481297,5.6961126,5.481091426308586,THP-1,COc1ccc(C(=O)n2nc(-c3ccncc3)c(-c3ccc(F)cc3)n2)cc1
+0.3651503,5.760995,5.715794932298206,THP-1,CN(C(=O)n1nc(-c2ccncc2)c(-c2ccc(F)cc2)n1)c1ccccc1
+-5.42998,2.3304486,8.119186413168862,Angiotensin II receptor (AT-1) type-1,NCC(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H]1CSSC[C@H](C(=O)N[C@@H](Cc2c[nH]cn2)C(=O)N2CCC[C@@H]2C(=O)N[C@@H](Cc2ccccc2)C(=O)O)NC(=O)[C@@H](Cc2ccc(O)cc2)NC1=O
+-5.4151273,2.3451087,7.568636235841013,Angiotensin II type 2 (AT-2) receptor,NCC(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H]1CSSC[C@H](C(=O)N[C@@H](Cc2c[nH]cn2)C(=O)N2CCC[C@@H]2C(=O)N[C@@H](Cc2ccccc2)C(=O)O)NC(=O)[C@@H](Cc2ccc(O)cc2)NC1=O
+-5.448104,2.3130717,7.7447274948966935,Angiotensin II receptor (AT-1) type-1,CNCC(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@H]1CSS[C@@H]2C[C@@H](C(=O)N[C@@H](Cc3c[nH]cn3)C(=O)N3CCC[C@H]3C(=O)N[C@@H](Cc3ccccc3)C(=O)O)N(C2)C(=O)[C@H](Cc2ccc(O)cc2)NC1=O
+-5.430272,2.3306844,9.086186151404709,Angiotensin II type 2 (AT-2) receptor,CNCC(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@H]1CSS[C@@H]2C[C@@H](C(=O)N[C@@H](Cc3c[nH]cn3)C(=O)N3CCC[C@H]3C(=O)N[C@@H](Cc3ccccc3)C(=O)O)N(C2)C(=O)[C@H](Cc2ccc(O)cc2)NC1=O
+-5.4028816,2.3512635,7.050609993355087,Angiotensin II receptor (AT-1) type-1,CNCC(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@H]1CCC(=O)NCCCC[C@@H](C(=O)N[C@@H](Cc2c[nH]cn2)C(=O)N2CCC[C@H]2C(=O)N[C@H](Cc2ccccc2)C(=O)O)NC(=O)[C@H](Cc2ccc(O)cc2)NC1=O
+3.0793302,7.414295,6.769551078621726,Angiotensin II receptor (AT-1) type-1,Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nn[nH]n3)cc1)CCC2
+3.0576718,7.4541564,7.459670515660405,Angiotensin II receptor (AT-1) type-1,CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1
+13.934115,-4.5508113,7.229147988357855,Unchecked,CNCCN1C(=O)c2cccc3cc4ccccc4c(c23)C1=O
+13.974245,-4.509383,7.356547323513812,OVCAR-3,CNCCN1C(=O)c2cccc3cc4ccccc4c(c23)C1=O
+13.97315,-4.5117283,8.0,L1210,CNCCN1C(=O)c2cccc3cc4ccccc4c(c23)C1=O
+13.958601,-4.526223,7.686132771588598,L1210,CNCCN1C(=O)c2cccc3cc4ccccc4c(c23)C1=O
+13.914395,-4.570469,5.151195298948196,NON-PROTEIN TARGET,CNCCN1C(=O)c2cccc3cc4ccccc4c(c23)C1=O
+14.113339,-4.3723702,6.334419008982047,Unchecked,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1CCN1CCNCC1
+14.037397,-4.448133,5.705974905904677,OVCAR-3,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1CCN1CCNCC1
+14.087355,-4.3984404,6.7594507517174005,L1210,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1CCN1CCNCC1
+14.070485,-4.4153204,6.334419008982047,L1210,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1CCN1CCNCC1
+14.061317,-4.4244933,5.1730833528150795,NON-PROTEIN TARGET,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1CCN1CCNCC1
+5.459725,7.0905156,9.939302151768665,Dopamine transporter,CCC(=O)C1C(c2ccc3ccccc3c2)CC2CCC1N2C
+5.4506335,7.117501,8.086186157718132,Dopamine transporter,CCC(=O)C1C(c2ccc(C)cc2)CC2CCC1N2C
+-8.087831,13.488442,10.173925186480703,Homo sapiens,Cl.O=S(=O)(CCCCOc1ccc2[nH]c3nc(O)nc-3cc2c1)C1CCN(Cc2ccc(F)cc2)CC1
+-8.101463,13.5020275,10.568636224581526,Homo sapiens,CC(C)CN1CCC(S(=O)(=O)CCCOc2ccc3[nH]c4nc(O)nc-4cc3c2)CC1.Cl
+1.3692287,3.7924454,6.769551078621726,Platelet activating factor receptor,COc1cc(C(=O)N2CCN(C(=O)c3cc(OC)c(OC)c(OC)c3)C(COC(=O)NC(C)C(C)(C)C)C2)cc(OC)c1OC
+1.4242935,3.8454905,6.42021640338319,Platelet activating factor receptor,CCCN(CCC)C(=O)OCC1CN(C(=O)c2cc(OC)c(OC)c(OC)c2)CCN1C(=O)c1cc(OC)c(OC)c(OC)c1
+1.4224777,3.8471637,5.903089986991944,Platelet activating factor receptor,CCCCN(CCCC)C(=O)OCC1CN(C(=O)c2cc(OC)c(OC)c(OC)c2)CCN1C(=O)c1cc(OC)c(OC)c(OC)c1
+1.859137,4.35074,5.749579997691106,Platelet activating factor receptor,COc1cc(C(=O)N2CCN(C(=O)c3cc(OC)c(OC)c(OC)c3)CC2)cc(OC)c1OC
+1.3868507,3.8045719,6.055517327849832,Platelet activating factor receptor,COc1cc(C(=O)N2CCN(C(=O)c3cc(OC)c(OC)c(OC)c3)C(COC(=O)c3ccccc3Cl)C2)cc(OC)c1OC
+15.197745,3.2713964,9.096910006536525,Serotonin transporter,O=S1(=O)c2cccc3cccc(c23)N1CCCCN1CC=C(c2c[nH]c3ccccc23)CC1
+15.224819,3.2443633,8.397940008672037,Serotonin 2 (5-HT2) receptor,O=S1(=O)c2cccc3cccc(c23)N1CCCCN1CC=C(c2c[nH]c3ccccc23)CC1
+15.213413,3.255619,9.154901967381779,Adrenergic receptor alpha-1,O=S1(=O)c2cccc3cccc(c23)N1CCCCN1CC=C(c2c[nH]c3ccccc23)CC1
+15.223696,3.2453134,7.522878745280337,Dopamine D2 receptor,O=S1(=O)c2cccc3cccc(c23)N1CCCCN1CC=C(c2c[nH]c3ccccc23)CC1
+1.0578688,5.04647,6.468521082957745,Homo sapiens,c1ccc(C(CC2CCCCC2)Nc2nc3ccccc3o2)cc1
+0.93640727,4.9742985,7.5376020021010435,Homo sapiens,CC(C)c1ccc2oc(NC(Cc3ccc(Cl)cc3)c3ccccn3)nc2c1
+5.466501,7.0924177,4.301029995663981,Dopamine transporter,CCC(=O)C1C(CC)CC2CCC1N2C
+3.5425572,7.097651,6.0,Neprilysin,O=C(O)CCNC(=O)C(Cc1ccc(-c2ccccc2)cc1)NCP(=O)(O)OCc1ccccc1
+3.0851934,7.092187,6.610993475199832,GABA-A receptor; anion channel,CCCCc1cc2c3ccccc3nc-2c[nH]1
+2.644096,6.072095,5.71699970500128,GABA-A receptor; anion channel,Cn1c2ccccc2c2c1cnc1c3ccccc3n(C)c12
+-2.7512693,1.8720993,7.455931955649724,Phospholipase A2 group 1B,COC(=O)COc1cccn2c(Cc3ccccc3-c3ccccc3)c(C(C)C)c(C(=O)C(N)=O)c12
+5.381068,2.504182,4.549750891680639,Dihydroorotate dehydrogenase,N#C/C(C(=O)Nc1ccc(C(F)(F)F)cc1)=C(/O)C1CCCC1
+5.3807325,2.5045648,4.500312917381596,Dihydroorotate dehydrogenase,N#C/C(C(=O)Nc1ccc(C(F)(F)F)cc1)=C(/O)C1CCCC1
+5.4380665,2.4464731,6.549750891680639,Dihydroorotate dehydrogenase,Cc1cc(NC(=O)/C(C#N)=C(\\O)C2CC2)ccc1C(F)(F)C(F)(F)F
+5.4269676,2.4574327,7.958607314841775,Dihydroorotate dehydrogenase,Cc1cc(NC(=O)/C(C#N)=C(\\O)C2CC2)ccc1C(F)(F)C(F)(F)F
+-2.7364192,4.7922616,7.974694119105955,Dopamine transporter,c1ccc(CCN2CCC(CCOC(c3ccccc3)c3ccccc3)CC2)cc1
+-2.7749095,4.7580924,6.991399828238082,Serotonin transporter,c1ccc(CCN2CCC(CCOC(c3ccccc3)c3ccccc3)CC2)cc1
+-16.69177,0.3697942,7.303643604599855,Dihydrofolate reductase,CCN(Cc1cnc2nc(N)nc(N)c2c1C)c1cc(OC)c(OC)c(OC)c1
+-16.590431,0.47121572,7.978810700930062,Dihydrofolate reductase,CCN(Cc1cnc2nc(N)nc(N)c2c1C)c1cc(OC)c(OC)c(OC)c1
+-16.652555,0.40900922,8.56863622817105,Dihydrofolate reductase,CCN(Cc1cnc2nc(N)nc(N)c2c1C)c1cc(OC)c(OC)c(OC)c1
+-0.0654867,4.703083,4.130000004057529,Dopamine beta-hydroxylase,COc1ccccc1Cn1cc[nH]c1=S
+-0.064357854,4.7042737,4.769999925108957,Dopamine beta-hydroxylase,S=c1[nH]ccn1Cc1ccc(Cl)cc1Cl
+-0.091042496,4.682635,5.660000320433113,Dopamine beta-hydroxylase,Oc1ccc(Cn2cc[nH]c2=S)cc1O
+-0.088763885,4.6802025,7.130006015969241,Dopamine beta-hydroxylase,Oc1c(F)cc(Cn2cc[nH]c2=S)cc1F
+3.1488755,6.4194593,4.0,Human immunodeficiency virus type 1 reverse transcriptase,O=c1[nH]c2c(c(=O)[nH]1)CNc1ccccc1S2
+1.7598631,4.692334,0.7723627866904292,ADMET,COc1c(Br)c(C(=O)[O-])c(-c2c3c(c(OC)c(Br)c2C(=O)[O-])OCO3)c2c1OCO2.[Na+].[Na+]
+1.7697487,4.746594,0.7605325510616837,ADMET,CCOC(=O)c1c(Br)c(OC)c2c(c1-c1c3c(c(OC)c(Br)c1C(=O)O)OCO3)OCO2
+1.7724674,4.6842055,0.7767941333949893,ADMET,CCOC(=O)c1c(Br)c(OC)c2c(c1-c1c3c(c(OC)c(Br)c1C(=O)[O-])OCO3)OCO2.[Na+]
+2.5189526,6.486016,5.853871964321762,Squalene synthetase,CCOC(=O)c1ccc(OCC(O)CNC(C)C)cc1
+5.1003103,5.2361927,6.045757490560675,Neurotensin receptor 1,CC[C@H](C)[C@H](NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@@H](N)CCCN=C(N)N)C(=O)C[C@H](Cc1ccccc1)C(=O)O
+3.208956,5.0662684,2.403351364907443,Escherichia coli,Cc1c(N2CCSCC2)c(N)cc2c(=O)c(C(=O)O)cn(C3CC3)c12
+-2.7067742,4.8166904,6.5934598195660445,Dopamine transporter,COc1ccc(C(OCCC2CCN(CCCc3ccccc3)CC2)c2ccc(OC)cc2)cc1
+-2.7172632,4.81506,6.468521082957745,Serotonin transporter,COc1ccc(C(OCCC2CCN(CCCc3ccccc3)CC2)c2ccc(OC)cc2)cc1
+-2.7961297,1.8274306,7.2076083105017466,Phospholipase A2 group 1B,CCCCCc1c(CC)c(C(=O)C(N)=O)c2c(OCC(=O)O)cccn12
+-18.787231,6.4491673,7.7447274948966935,Matrix metalloproteinase 3,COc1ccc(S(=O)(=O)N2CCN(C(=O)OCc3ccccc3)CC2C(=O)NO)cc1
+-18.591127,6.562287,8.051000536284745,Matrix metalloproteinase 3,COc1ccc(S(=O)(=O)N2CCN(C(=O)OCc3cccnc3)CC2C(=O)NO)cc1
+-18.844976,6.4108877,7.638272163982407,Matrix metalloproteinase 3,COc1ccc(S(=O)(=O)N2CCN(C(=O)c3ccc(-c4ccccc4)cc3)CC2C(=O)NO)cc1
+-18.753153,6.464089,7.770062325800113,Matrix metalloproteinase 3,COc1ccc(S(=O)(=O)N2CCN(C(=O)NCc3ccccc3)CC2C(=O)NO)cc1
+2.0001955,25.10903,8.214670171778964,L1210,C=C(Br)C(=O)Nc1ccc2oc(C(=O)Nc3cc(C(=O)Nc4cc(C(=O)Nc5cc(C(=O)NCCC(=N)N)n(C)c5)n(C)c4)n(C)c3)cc2c1.Cl
+2.036885,25.145803,9.376750723161393,L1210,C=C(Br)C(=O)Nc1ccc2oc(C(=O)Nc3cc(C(=O)Nc4cc(C(=O)Nc5cc(C(=O)NCCC(=N)N)n(C)c5)n(C)c4)n(C)c3)cc2c1.Cl
+2.0317445,25.141562,8.92081873669496,L1210,C=C(Br)C(=O)Nc1ccc2oc(C(=O)Nc3cc(C(=O)Nc4cc(C(=O)Nc5cc(C(=O)NCCC(=N)N)n(C)c5)n(C)c4)n(C)c3)cc2c1.Cl
+-2.524899,-1.0580952,9.013228252924307,Delta opioid receptor,CCN(CC)C(=O)c1ccc(C(=C2CCNCC2)c2ccccc2OC)cc1
+-2.5222614,-1.0554074,5.458420756053419,Mu opioid receptor,CCN(CC)C(=O)c1ccc(C(=C2CCNCC2)c2ccccc2OC)cc1
+-2.5247486,-1.0582532,5.0,Kappa opioid receptor,CCN(CC)C(=O)c1ccc(C(=C2CCNCC2)c2ccccc2OC)cc1
+3.6745038,6.2240424,8.795880010872544,Cyclooxygenase-2,c1ccc(-c2[nH]c(-c3ccccc3)c3c2C2CCC3CC2)cc1
+3.776644,6.295854,6.6020599913279625,Cyclooxygenase-1,c1ccc(-c2[nH]c(-c3ccccc3)c3c2C2CCC3CC2)cc1
+2.3034956,5.9032626,5.019088062223156,Aldose reductase,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12
+-19.238276,6.249936,7.698970004336019,Matrix metalloproteinase-1,COc1ccc(S(=O)(=O)N2C/C(=N\\OC(C)(C)C)C[C@@H]2C(=O)NO)cc1
+-19.258844,6.229518,9.154901967381779,Matrix metalloproteinase-2,COc1ccc(S(=O)(=O)N2C/C(=N\\OC(C)(C)C)C[C@@H]2C(=O)NO)cc1
+-19.289932,6.205451,8.045757490560675,Matrix metalloproteinase 3,COc1ccc(S(=O)(=O)N2C/C(=N\\OC(C)(C)C)C[C@@H]2C(=O)NO)cc1
+-19.293623,6.2012095,6.580044251510242,Matrix metalloproteinase 7,COc1ccc(S(=O)(=O)N2C/C(=N\\OC(C)(C)C)C[C@@H]2C(=O)NO)cc1
+-19.243551,6.246769,9.301029995663981,Matrix metalloproteinase 13,COc1ccc(S(=O)(=O)N2C/C(=N\\OC(C)(C)C)C[C@@H]2C(=O)NO)cc1
+-19.31637,6.176555,7.585026652029182,Matrix metalloproteinase-1,CC(C)(C)O/N=C1/C[C@H](C(=O)NO)N(S(=O)(=O)c2ccc(Oc3ccncc3)cc2)C1
+-19.341799,6.1517463,9.39794000220105,Matrix metalloproteinase-2,CC(C)(C)O/N=C1/C[C@H](C(=O)NO)N(S(=O)(=O)c2ccc(Oc3ccncc3)cc2)C1
+-19.346045,6.148013,8.301029995663981,Matrix metalloproteinase 3,CC(C)(C)O/N=C1/C[C@H](C(=O)NO)N(S(=O)(=O)c2ccc(Oc3ccncc3)cc2)C1
+-19.338823,6.159381,6.105130343254747,Matrix metalloproteinase 7,CC(C)(C)O/N=C1/C[C@H](C(=O)NO)N(S(=O)(=O)c2ccc(Oc3ccncc3)cc2)C1
+-19.342928,6.152408,9.39794000220105,Matrix metalloproteinase 13,CC(C)(C)O/N=C1/C[C@H](C(=O)NO)N(S(=O)(=O)c2ccc(Oc3ccncc3)cc2)C1
+-19.22345,6.2671814,6.5934598195660445,Matrix metalloproteinase-1,COc1ccc(S(=O)(=O)N2CC(NOC(C)(C)C)C[C@@H]2C(=O)NO)cc1
+-19.21586,6.2730145,8.397940008672037,Matrix metalloproteinase-2,COc1ccc(S(=O)(=O)N2CC(NOC(C)(C)C)C[C@@H]2C(=O)NO)cc1
+-19.224922,6.2652726,7.698970004336019,Matrix metalloproteinase 3,COc1ccc(S(=O)(=O)N2CC(NOC(C)(C)C)C[C@@H]2C(=O)NO)cc1
+-19.237192,6.2485366,5.281083313985139,Matrix metalloproteinase 7,COc1ccc(S(=O)(=O)N2CC(NOC(C)(C)C)C[C@@H]2C(=O)NO)cc1
+-19.202389,6.274546,8.522878745280337,Matrix metalloproteinase 13,COc1ccc(S(=O)(=O)N2CC(NOC(C)(C)C)C[C@@H]2C(=O)NO)cc1
+1.4764457,3.9109776,4.0,Human immunodeficiency virus 1,COc1cc(C(=O)N2CCN(C(=O)c3cc(OC)c(OC)c(OC)c3)C(CNC(=O)C(C)(C)C)C2)cc(OC)c1OC
+1.4829705,3.9129326,4.0,Oryctolagus cuniculus,COc1cc(C(=O)N2CCN(C(=O)c3cc(OC)c(OC)c(OC)c3)C(CNC(=O)C(C)(C)C)C2)cc(OC)c1OC
+2.2015088,5.922109,3.8632794328435933,Aldose reductase,O=c1ccoc2cc(O)ccc12
+2.2483604,5.9497023,3.9430951486635273,Aldose reductase,O=c1ccoc2cc(O)ccc12
+-19.947802,16.726665,6.096910013008056,Selectin E,NC(=O)c1cc2c(Oc3cccc(Cl)c3)cncc2s1
+-20.016521,16.788303,6.113509274827518,Intercellular adhesion molecule-1,NC(=O)c1cc2c(Oc3cccc(Cl)c3)cncc2s1
+-19.982416,16.755928,6.070581074285707,Vascular cell adhesion protein 1,NC(=O)c1cc2c(Oc3cccc(Cl)c3)cncc2s1
+-19.898878,16.695194,6.200659450546418,Selectin E,CCOC(=O)c1cccc(Oc2cncc3sc(C(N)=O)cc23)c1
+-19.889572,16.683422,6.167491087293763,Intercellular adhesion molecule-1,CCOC(=O)c1cccc(Oc2cncc3sc(C(N)=O)cc23)c1
+-19.896263,16.694778,6.0,Vascular cell adhesion protein 1,CCOC(=O)c1cccc(Oc2cncc3sc(C(N)=O)cc23)c1
+-20.180656,16.892532,6.0,Selectin E,NC(=O)c1cc2c(Oc3ccccc3CC(O)CO)cncc2s1
+-20.16111,16.88849,6.0,Intercellular adhesion molecule-1,NC(=O)c1cc2c(Oc3ccccc3CC(O)CO)cncc2s1
+-20.156591,16.873104,6.0,Vascular cell adhesion protein 1,NC(=O)c1cc2c(Oc3ccccc3CC(O)CO)cncc2s1
+0.43023887,-13.3354225,7.455931955649724,Selectin E,CNC(=O)c1cc2c(Oc3ccc(N4CCOCC4)cc3)cncc2s1
+0.407225,-13.300003,7.102372908709558,Intercellular adhesion molecule-1,CNC(=O)c1cc2c(Oc3ccc(N4CCOCC4)cc3)cncc2s1
+0.38230383,-13.330932,6.0,Vascular cell adhesion protein 1,CNC(=O)c1cc2c(Oc3ccc(N4CCOCC4)cc3)cncc2s1
+0.49668694,-13.184125,6.0,Selectin E,CNC(=O)c1cc2c(Oc3ccc(-c4nn[nH]n4)cc3)cncc2s1
+0.4654941,-13.161898,6.0,Intercellular adhesion molecule-1,CNC(=O)c1cc2c(Oc3ccc(-c4nn[nH]n4)cc3)cncc2s1
+0.43151906,-13.19836,6.0,Vascular cell adhesion protein 1,CNC(=O)c1cc2c(Oc3ccc(-c4nn[nH]n4)cc3)cncc2s1
+0.3877423,-13.136756,8.301029995663981,Selectin E,CNC(=O)c1cc2c(Oc3ccc(-c4cccs4)cc3)cncc2s1
+0.33864883,-13.203659,8.221848749616356,Intercellular adhesion molecule-1,CNC(=O)c1cc2c(Oc3ccc(-c4cccs4)cc3)cncc2s1
+0.3762599,-13.117308,8.221848749616356,Vascular cell adhesion protein 1,CNC(=O)c1cc2c(Oc3ccc(-c4cccs4)cc3)cncc2s1
+6.799616,-5.122672,6.221848749616356,Selectin E,CNC(=O)c1cc2c(Oc3ccc(/C=C/C(=O)NCCc4c[nH]cn4)cc3)cncc2s1
+6.7996073,-5.122694,6.173925197299173,Intercellular adhesion molecule-1,CNC(=O)c1cc2c(Oc3ccc(/C=C/C(=O)NCCc4c[nH]cn4)cc3)cncc2s1
+6.7996173,-5.1227126,6.0,Vascular cell adhesion protein 1,CNC(=O)c1cc2c(Oc3ccc(/C=C/C(=O)NCCc4c[nH]cn4)cc3)cncc2s1
+14.680304,6.2738013,8.096910013008056,MAP kinase p38 alpha,O=C1CCC(c2c(-c3ccc(F)cc3F)nc3ccccn23)=NN1c1c(Cl)cccc1Cl
+14.680324,6.2735214,7.200659450546418,MAP kinase p38 beta,O=C1CCC(c2c(-c3ccc(F)cc3F)nc3ccccn23)=NN1c1c(Cl)cccc1Cl
+14.68028,6.2738175,8.0,MAP kinase p38,O=C1CCC(c2c(-c3ccc(F)cc3F)nc3ccccn23)=NN1c1c(Cl)cccc1Cl
+14.680312,6.274094,6.688246138944246,MAP kinase p38,O=C1CCC(c2c(-c3ccc(F)cc3F)nc3ccccn23)=NN1c1c(Cl)cccc1Cl
+14.680382,6.2737975,6.767003889607846,MAP kinase p38 alpha,O=C1CCC(c2c(-c3cccc(C(F)(F)F)c3)nc3ccccn23)=NN1c1ccccc1Cl
+14.680411,6.2738857,6.449771646944906,MAP kinase p38 beta,O=C1CCC(c2c(-c3cccc(C(F)(F)F)c3)nc3ccccn23)=NN1c1ccccc1Cl
+1.9881015,5.629155,3.669586226650809,Nucleic Acid,Cc1ccc(Nc2nc(O)c3c[nH]nc3n2)cc1Cl
+1.7725643,13.59881,6.1791420105603,Matrix metalloproteinase-1,COc1ccc(CCN2CCC(C(=O)NO)(S(=O)(=O)c3ccc(OC)cc3)CC2)cc1
+1.743158,13.628594,7.468521082957745,Matrix metalloproteinase 9,COc1ccc(CCN2CCC(C(=O)NO)(S(=O)(=O)c3ccc(OC)cc3)CC2)cc1
+1.7911553,13.598952,8.698970004336019,Matrix metalloproteinase 13,COc1ccc(CCN2CCC(C(=O)NO)(S(=O)(=O)c3ccc(OC)cc3)CC2)cc1
+1.6309229,-8.360358,4.698970004336019,L1210,CCCCOc1ccc(CNC2C(Oc3c4cc5cc3Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C5NC(=O)C5NC(=O)C(Cc6ccc(cc6)O4)NC(=O)C(N(C)Cc4ccc(OCCCC)cc4)c4ccc(O)c(c4)Oc4cc(O)c(Cl)c5c4)c4ccc(O)c(c4)-c4c(O)cc(O)cc4[C@H](C(=O)NCCCN(C)C)NC3=O)OC(C(=O)NCCCN(C)C)C(O)C2O)cc1
+1.6746236,-8.316542,4.7447274948966935,MOLT-4,CCCCOc1ccc(CNC2C(Oc3c4cc5cc3Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C5NC(=O)C5NC(=O)C(Cc6ccc(cc6)O4)NC(=O)C(N(C)Cc4ccc(OCCCC)cc4)c4ccc(O)c(c4)Oc4cc(O)c(Cl)c5c4)c4ccc(O)c(c4)-c4c(O)cc(O)cc4[C@H](C(=O)NCCCN(C)C)NC3=O)OC(C(=O)NCCCN(C)C)C(O)C2O)cc1
+1.6683923,-8.3229685,4.096910013008056,CCRF-CEM,CCCCOc1ccc(CNC2C(Oc3c4cc5cc3Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C5NC(=O)C5NC(=O)C(Cc6ccc(cc6)O4)NC(=O)C(N(C)Cc4ccc(OCCCC)cc4)c4ccc(O)c(c4)Oc4cc(O)c(Cl)c5c4)c4ccc(O)c(c4)-c4c(O)cc(O)cc4[C@H](C(=O)NCCCN(C)C)NC3=O)OC(C(=O)NCCCN(C)C)C(O)C2O)cc1
+1.6303432,-8.360621,4.6020599913279625,L1210,CCCCc1ccc(CNC2C(Oc3c4cc5cc3Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C5NC(=O)C5NC(=O)C(Cc6ccc(cc6)O4)NC(=O)C(NC)c4ccc(O)c(c4)Oc4cc(O)c(Cl)c5c4)c4ccc(O)c(c4)-c4c(cc(O)c(CN5CCN(Cc6ccc(-c7ccccc7)cc6)CC5)c4O)[C@H](C(=O)NCCCN(C)C)NC3=O)OC(C(=O)NCCCN(C)C)C(O)C2O)cc1
+1.6397796,-8.350907,4.455931955649724,MOLT-4,CCCCc1ccc(CNC2C(Oc3c4cc5cc3Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C5NC(=O)C5NC(=O)C(Cc6ccc(cc6)O4)NC(=O)C(NC)c4ccc(O)c(c4)Oc4cc(O)c(Cl)c5c4)c4ccc(O)c(c4)-c4c(cc(O)c(CN5CCN(Cc6ccc(-c7ccccc7)cc6)CC5)c4O)[C@H](C(=O)NCCCN(C)C)NC3=O)OC(C(=O)NCCCN(C)C)C(O)C2O)cc1
+1.645482,-8.345169,3.6736641390712483,CCRF-CEM,CCCCc1ccc(CNC2C(Oc3c4cc5cc3Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C5NC(=O)C5NC(=O)C(Cc6ccc(cc6)O4)NC(=O)C(NC)c4ccc(O)c(c4)Oc4cc(O)c(Cl)c5c4)c4ccc(O)c(c4)-c4c(cc(O)c(CN5CCN(Cc6ccc(-c7ccccc7)cc6)CC5)c4O)[C@H](C(=O)NCCCN(C)C)NC3=O)OC(C(=O)NCCCN(C)C)C(O)C2O)cc1
+4.374988,4.4131565,6.958607314841775,Prolyl endopeptidase,CSCC[C@H](NC(=O)c1cccc(C(=O)N[C@H](CCSC)C(=O)N2CCCC2)c1)C(=O)N1CCCC1
+3.9595559,4.2956266,7.638272163982407,Prolyl endopeptidase,O=C([C@H]1CCCN1C(=O)c1cccc(C(=O)N2CCC[C@H]2C(=O)N2CCCCCC2)c1)N1CCCC1
+3.2902052,9.102199,8.275724114769936,Somatostatin receptor 1,C[C@@H](O)[C@@H]1NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H](N)CSSC[C@@H](C(=O)O)NC(=O)[C@H](Cc2ccccc2)NC1=O
+3.2286878,9.037704,6.886056647693163,Somatostatin receptor 2,C[C@@H](O)[C@@H]1NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H](N)CSSC[C@@H](C(=O)O)NC(=O)[C@H](Cc2ccccc2)NC1=O
+3.2160108,9.032379,7.886056647693163,Somatostatin receptor 3,C[C@@H](O)[C@@H]1NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H](N)CSSC[C@@H](C(=O)O)NC(=O)[C@H](Cc2ccccc2)NC1=O
+3.252543,9.064937,9.154901967381779,Somatostatin receptor 4,C[C@@H](O)[C@@H]1NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H](N)CSSC[C@@H](C(=O)O)NC(=O)[C@H](Cc2ccccc2)NC1=O
+3.2519796,9.063725,7.853871964321762,Somatostatin receptor 5,C[C@@H](O)[C@@H]1NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H](N)CSSC[C@@H](C(=O)O)NC(=O)[C@H](Cc2ccccc2)NC1=O
+4.578742,5.090792,6.886056647693163,"Nitric oxide synthase, inducible",CC(=N)NCCCC[C@H](N)C(=O)O
+4.5788107,5.055686,5.619788758288394,"Nitric-oxide synthase, endothelial",CC(=N)NCCCC[C@H](N)C(=O)O
+4.6979737,5.092613,5.795880017344075,"Nitric-oxide synthase, brain",CC(=N)NCCCC[C@H](N)C(=O)O
+1.5555807,5.5021,5.958607314841775,"Nitric oxide synthase, inducible",CCc1ccnc(N)c1
+1.5327967,5.5426993,5.366531544420414,"Nitric-oxide synthase, endothelial",CCc1ccnc(N)c1
+1.542347,5.422508,5.657577319177793,"Nitric-oxide synthase, brain",CCc1ccnc(N)c1
+2.9670124,8.6904745,6.0,Purinergic receptor P2Y1,Nc1c(S(=O)(=O)[O-])cc(Nc2ccc(Nc3nc(Cl)nc(Cl)n3)cc2S(=O)(=O)[O-])c2c1C(=O)c1ccccc1C2=O.[Na+].[Na+]
+2.9392514,8.646564,5.795880017344075,P2X purinoceptor 1,Nc1c(S(=O)(=O)[O-])cc(Nc2ccc(Nc3nc(Cl)nc(Cl)n3)cc2S(=O)(=O)[O-])c2c1C(=O)c1ccccc1C2=O.[Na+].[Na+]
+2.9895678,6.2700267,6.494850021680094,Dopamine transporter,Clc1ccc(Sc2ccccc2C2=NCCN2)cc1
+1.6991163,8.100898,7.060480747381382,Dopamine transporter,COc1ccc(C2(O)c3ccccc3C3=NCCCN32)cc1OC
+-1.986976,6.580335,5.187086643357144,ADMET,Fc1ccc(-c2[nH]c(/C=C/c3ccccc3)nc2-c2ccncc2)cc1
+-2.0034516,6.5959525,6.886056647693163,ADMET,Fc1ccc(-c2[nH]c(/C=C/c3ccccc3)nc2-c2ccncc2)cc1
+2.22193,6.338491,5.0,Cruzipain,CC/C(=N\\N=C(/S)NC)c1cccc(Br)c1
+2.3440127,6.4144335,6.0,Cruzipain,S=C(Nc1cccc(Cl)c1)N1CCC(c2cccc(Br)c2)=N1
+2.213818,6.4047832,5.0,Cruzipain,CCC(N/N=C(/N)S)c1cccc(Br)c1
+5.993498,4.376345,6.823908740944319,"Glutamate receptor ionotropic, AMPA",NC(Cc1cnnn1O)C(=O)O
+5.9852805,4.369919,4.327902142064283,"Glutamate receptor ionotropic, kainate",NC(Cc1cnnn1O)C(=O)O
+6.034308,4.424891,4.0,Glutamate NMDA receptor,NC(Cc1cnnn1O)C(=O)O
+5.9900417,4.368171,4.031517051446065,Unchecked,NC(Cc1cnnn1O)C(=O)O
+5.974999,4.328875,4.0,Excitatory amino acid transporter 1,NC(Cc1cnnn1O)C(=O)O
+5.983275,4.361123,3.5228787452803374,Excitatory amino acid transporter 2,NC(Cc1cnnn1O)C(=O)O
+5.96854,4.385573,3.0,Excitatory amino acid transporter 3,NC(Cc1cnnn1O)C(=O)O
+1.3045442,6.831675,5.958607314841775,Hormone sensitive lipase,CCOc1nn(-c2cccc(OCc3ccccc3)c2)c(=O)o1
+1.3100977,6.8304057,6.036212172654444,Butyrylcholinesterase,CCOc1nn(-c2cccc(OCc3ccccc3)c2)c(=O)o1
+1.3213005,6.8229394,6.1249387366083,Acetylcholinesterase,CCOc1nn(-c2cccc(OCc3ccccc3)c2)c(=O)o1
+1.2994523,6.831708,5.0,Pancreatic lipase,CCOc1nn(-c2cccc(OCc3ccccc3)c2)c(=O)o1
+1.2684293,6.858131,5.0,Lipoprotein lipase,CCOc1nn(-c2cccc(OCc3ccccc3)c2)c(=O)o1
+1.2692653,6.8585334,4.823908740944319,Hepatic lipase,CCOc1nn(-c2cccc(OCc3ccccc3)c2)c(=O)o1
+2.1828597,6.5306854,0.09999998836762107,Cyclooxygenase,O=C([O-])Cc1cc(Cl)ccc1Nc1c(Cl)cccc1Cl.[Na+]
+2.3897347,6.5161033,-0.0,Cyclooxygenase,Cc1cccc(Cl)c1Nc1ccccc1CC(=O)O
+2.6582272,6.900198,6.42021640338319,Aldose reductase,O=C(O)CN(c1ccccc1)S(=O)(=O)c1ccc(NC(=O)c2ccccc2)cc1
+2.0730073,5.1664643,3.5783960731301687,Epidermal growth factor receptor erbB1,COc1cc(/C=C(\\C#N)C(=O)O)cc(OC)c1O
+2.161082,5.24778,6.903089986991944,Epidermal growth factor receptor erbB1,N#CC(C#N)=C(N)/C(C#N)=C/c1ccc(O)cc1
+2.010123,5.235211,2.9030899869919438,Epidermal growth factor receptor erbB1,COc1cc(C=C(C#N)C#N)cc(OC)c1
+2.0189323,5.1705923,3.2041199826559246,Epidermal growth factor receptor erbB1,N#CC(C#N)=Cc1ccc(N2CCOCC2)cc1
+2.2329466,5.2598624,4.455931955649724,Epidermal growth factor receptor erbB1,N#CC(C#N)=Cc1ccc(O)c(O)c1
+4.245987,5.180265,3.0457574905606752,Epidermal growth factor receptor erbB1,N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O
+3.6342883,3.6989865,5.920818753952375,Kappa opioid receptor,NC(=O)[C@@H]1CCN(C(=O)Cc2ccc(Cl)c(Cl)c2)[C@H](CN2CCCC2)C1
+-12.03907,-4.0741544,7.090443987081024,Dopamine D2 receptor,CCN1C(=O)Cc2cc(CCN3CCN(c4cccc5ccccc45)CC3)ccc21
+-12.038106,-4.073511,6.605548319173784,Adrenergic receptor alpha,CCN1C(=O)Cc2cc(CCN3CCN(c4cccc5ccccc45)CC3)ccc21
+-12.039001,-4.0741425,8.537601987819196,Serotonin 1a (5-HT1a) receptor,CCN1C(=O)Cc2cc(CCN3CCN(c4cccc5ccccc45)CC3)ccc21
+2.5508113,6.890118,4.886056647693163,Aldose reductase,O=C(O)CNS(=O)(=O)c1ccccc1[N+](=O)[O-]
+2.7265246,3.262379,2.09221753532326,T-24,CC(C)C1NC(=O)C2N=C(OC2C)C2CCCN2C(=O)C(Cc2ccccc2)NC(=O)c2csc(n2)C(Cc2ccccc2)NC(=O)C2CSC1=N2
+2.6925125,3.293229,2.8703687857069036,MRC5CV1,CC(C)C1NC(=O)C2N=C(OC2C)C2CCCN2C(=O)C(Cc2ccccc2)NC(=O)c2csc(n2)C(Cc2ccccc2)NC(=O)C2CSC1=N2
+2.6991804,3.2979732,1.96727879871496,Unchecked,CC(C)C1NC(=O)C2N=C(OC2C)C2CCCN2C(=O)C(Cc2ccccc2)NC(=O)c2csc(n2)C(Cc2ccccc2)NC(=O)C2CSC1=N2
+-1.3626838,-3.836164,8.602059991327963,Renin,CCCC[C@H](O[C@@H](Cc1ccccc1)C(=O)N1CCC(OCOC)CC1)C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)C[C@H](NC(=O)OCCN1CCCC1)C(C)C
+-1.4073839,-3.881021,7.886056647693163,Renin,CCCC[C@H](O[C@@H](Cc1ccccc1)C(=O)N1CCC(OCOC)CC1)C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)C[C@H](NC(=O)OCCN1CCCC1)C(C)C
+-1.4370903,-3.91075,8.61978874103116,Renin,CCCC[C@H](O[C@@H](Cc1ccccc1)C(=O)N1CCC(OCOC)CC1)C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)C[C@H](C(=O)NCCCN1CCOCC1)C(C)C
+-1.4103214,-3.8840532,8.552841976053816,Renin,CCCC[C@H](O[C@@H](Cc1ccccc1)C(=O)N1CCC(OCOC)CC1)C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)C[C@H](C(=O)NCCCN1CCOCC1)C(C)C
+-1.4429076,-3.9155827,8.823908740944319,Unchecked,CCCC[C@H](O[C@@H](Cc1ccccc1)C(=O)N1CCC(OCOC)CC1)C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)C[C@H](C(=O)NCCCN1CCOCC1)C(C)C
+2.1724927,5.284919,4.154901959985743,Heart phosphodiesterase,CNc1nc(Br)cn2cc(C#N)nc12
+3.6323416,3.594953,5.991399828238082,Kappa opioid receptor,COC(=O)/C=C1\\CCN(CC2CCCCN2C(=O)Cc2ccc(Cl)c(Cl)c2)C1
+-25.66836,2.2925482,9.221848732358941,Serotonin 1d (5-HT1d) receptor,Fc1cccc(CCN2CCN(CCCc3c[nH]c4ccc(-n5cnnc5)cc34)CC2)c1
+5.477079,7.028656,6.485452247339714,Dopamine transporter,COC(=O)[C@@H]1C2CC[C@H](C[C@H]1OC(=O)c1ccc3ccccc3c1)N2C
+5.448071,7.03555,6.089909454405932,Dopamine transporter,COC(=O)[C@@H]1C2CC[C@H](C[C@H]1OC(=O)c1ccc3ccccc3c1)N2C
+-4.006454,24.748978,2.494850021680094,Selectin E,O=C(O)COc1cccc(-c2ccc(CCCCCCc3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]4O)c(-c4cccc(OCC(=O)O)c4)c3)cc2O[C@H]2O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]2O)c1
+-4.0352077,24.720232,3.2676062401770314,P-selectin,O=C(O)COc1cccc(-c2ccc(CCCCCCc3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]4O)c(-c4cccc(OCC(=O)O)c4)c3)cc2O[C@H]2O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]2O)c1
+-3.9936547,24.762205,2.853871964321762,Leukocyte adhesion molecule-1,O=C(O)COc1cccc(-c2ccc(CCCCCCc3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]4O)c(-c4cccc(OCC(=O)O)c4)c3)cc2O[C@H]2O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]2O)c1
+3.4180388,7.213352,4.204119982655925,Complement C1r,O=c1oc(Nc2nc[nH]n2)nc2ccccc12
+2.8282785,6.3567376,4.920818753952375,Complement C1r,N=C(N)Nc1ccc(C(=O)Oc2ccc3cc(C(=N)N)ccc3c2)cc1
+2.7468655,6.406854,7.769551078621726,Trypsin I,N=C(N)Nc1ccc(C(=O)Oc2ccc3cc(C(=N)N)ccc3c2)cc1
+4.045461,4.462585,7.301029995663981,Thrombin,COc1cc(CNC(=O)[C@@H]2CCCN2C(=O)C(N)C(c2ccccc2)c2ccccc2)cc(OC)c1
+-3.33704,8.717371,7.221848749616356,Cyclooxygenase-2,Cc1ccc(-c2ccc(S(C)(=O)=O)cc2)n1-c1ccccc1
+-3.3391593,8.716963,4.0,Cyclooxygenase-1,Cc1ccc(-c2ccc(S(C)(=O)=O)cc2)n1-c1ccccc1
+-3.335669,8.696763,5.490797477668897,Cyclooxygenase-2,Cc1c(C=O)cc(-c2ccc(S(C)(=O)=O)cc2)n1-c1ccc(F)cc1
+-3.3541756,8.7144575,4.0,Cyclooxygenase-1,Cc1c(C=O)cc(-c2ccc(S(C)(=O)=O)cc2)n1-c1ccc(F)cc1
+-1.6970594,22.854546,4.631702220891879,T-cell,Cc1cc(C(=O)N[C@@H](CC(F)C(=O)O)C(=O)O)sc1N(C)Cc1cnc2nc(N)nc(N)c2n1
+-1.6948423,22.856375,4.519213798473342,Unchecked,Cc1cc(C(=O)N[C@@H](CC(F)C(=O)O)C(=O)O)sc1N(C)Cc1cnc2nc(N)nc(N)c2n1
+-1.718232,22.833378,4.0,EL4,Cc1cc(C(=O)N[C@@H](CC(F)C(=O)O)C(=O)O)sc1N(C)Cc1cnc2nc(N)nc(N)c2n1
+-4.2182336,-7.3081093,4.209714835966758,Dihydrofolate reductase,COc1cc(CCC2CNc3nc(N)nc(N)c3C2)cc(OC)c1OC
+-4.2237663,-7.313564,6.327902142064283,Dihydrofolate reductase,COc1cc(CCC2CNc3nc(N)nc(N)c3C2)cc(OC)c1OC
+-4.2225704,-7.3124385,5.214670164989233,Dihydrofolate reductase,COc1cc(CCC2CNc3nc(N)nc(N)c3C2)cc(OC)c1OC
+2.2123575,3.876082,4.913640169325252,Trypanosoma brucei,C[C@H]1C[C@@H](n2ncc3c(N)ncnc32)[C@H](O)[C@@H]1O
+2.238959,3.8964405,4.774690718274137,Trypanosoma brucei,C[C@H]1C[C@@H](n2ncc3c(N)ncnc32)[C@H](O)[C@@H]1O
+2.2159364,3.8891342,4.853871964321762,Trypanosoma brucei,C[C@H]1C[C@@H](n2ncc3c(N)ncnc32)[C@H](O)[C@@H]1O
+0.32252064,7.09967,6.1249387366083,Glutamate (NMDA) receptor subunit zeta 1,N#CCCc1c(-c2ccccc2)c(O)nc2cc(Cl)ccc12
+0.31545502,7.1471095,5.494850021680094,Glutamate (NMDA) receptor subunit zeta 1,CN(C)CCNc1c(-c2ccccc2)c(O)nc2cc(Cl)ccc12
+0.30368015,7.1602416,4.0,Glutamate (NMDA) receptor subunit zeta 1,CCc1c(-c2ccccc2)c(O)nc2cc(Cl)ccc12
+6.071997,6.2414427,6.236572006437063,C-C chemokine receptor type 1,CC(C)(O)CC[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)c1cnc2ccccc2n1)C(N)=O
+6.075651,6.2411795,5.928117992693875,C-C chemokine receptor type 1,CC(C)(O)CC[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)c1cnc2ccccc2n1)C(N)=O
+6.1139154,6.2368045,7.2839966563652006,C-C chemokine receptor type 1,CC(C)(O)CCC(C[C@H](O)[C@H](Cc1ccccc1F)NC(=O)c1cnc2ccccc2n1)C(N)=O
+6.1728325,6.2922263,6.167491087293763,C-C chemokine receptor type 1,CC(C)(O)CCC(C[C@H](O)[C@H](Cc1ccccc1F)NC(=O)c1cnc2ccccc2n1)C(N)=O
+3.1993752,6.4931693,7.721246399047171,Vascular endothelial growth factor receptor 2,Cc1ccc(Nc2ncc(-c3ccccc3)s2)nc1
+2.7532332,6.1139803,4.698970004336019,DNA topoisomerase II alpha,Oc1ccccc1-c1nc2c(-c3nc4ccccc4o3)cccc2o1
+-4.7336564,21.68035,6.0,Heparanase,COc1ccc(-c2nc3cc(-c4cccc(F)c4)ccc3o2)cc1N1C(=O)c2ccc(C(=O)O)cc2C1=O
+-4.74689,21.660662,4.698970004336019,NON-PROTEIN TARGET,COc1ccc(-c2nc3cc(-c4cccc(F)c4)ccc3o2)cc1N1C(=O)c2ccc(C(=O)O)cc2C1=O
+-4.6830597,21.673454,6.221848749616356,Heparanase,COc1ccc(-c2nc3cc(-c4cccc(Cl)c4)ccc3o2)cc1N1C(=O)c2ccc(C(=O)O)cc2C1=O
+-4.7197986,21.720234,5.154901959985743,NON-PROTEIN TARGET,COc1ccc(-c2nc3cc(-c4cccc(Cl)c4)ccc3o2)cc1N1C(=O)c2ccc(C(=O)O)cc2C1=O
+-4.727441,21.749565,6.3979400086720375,Heparanase,COc1ccc(-c2nc3cc(-c4ccc(OC(F)(F)F)cc4)ccc3o2)cc1N1C(=O)c2ccc(C(=O)O)cc2C1=O
+-4.7633657,21.785383,4.698970004336019,NON-PROTEIN TARGET,COc1ccc(-c2nc3cc(-c4ccc(OC(F)(F)F)cc4)ccc3o2)cc1N1C(=O)c2ccc(C(=O)O)cc2C1=O
+-4.6577206,21.759369,5.522878745280337,Heparanase,COCCNc1ccc(N2C(=O)c3ccc(C(=O)O)cc3C2=O)cc1-c1nc2cc(-c3cc(F)cc(F)c3)ccc2o1
+5.6414657,23.183496,5.0,Palmitoyl-CoA oxidase,Cc1nc2cc(OC[C@H](O)CN3CCN(CC(=O)Nc4ccccc4)CC3)ccc2s1
+5.6663785,23.20829,6.978810700930062,Palmitoyl-CoA oxidase,Cc1nc2cc(OC[C@H](O)CN3CCN(CC(=O)Nc4cccc5ccccc45)CC3)ccc2s1
+5.6626315,23.20481,5.657577319177793,Palmitoyl-CoA oxidase,Cc1nc2cc(OC[C@H](O)CN3CCN(CC(=O)N[C@H]4CCc5ccccc54)CC3)ccc2s1
+2.620844,3.9639122,7.070581074285707,Mitochondrial complex I; NADH oxidoreductase,CCCCCCCCCCC[C@H]1CC[C@H]([C@H]2CC[C@H](CCCCCCCCCCCCCC3=C[C@H](C)OC3=O)O2)O1
+2.1026878,9.125751,5.694648630553377,A549,COc1ccc(/N=C2/C(=O)c3cncnc3C(O)=C2Cl)c(OC)c1
+2.1039543,9.111836,5.97061622231479,Col2,COc1ccc(/N=C2/C(=O)c3cncnc3C(O)=C2Cl)c(OC)c1
+2.0463827,9.164393,6.214670164989233,SNU-638,COc1ccc(/N=C2/C(=O)c3cncnc3C(O)=C2Cl)c(OC)c1
+-14.40472,-4.9873495,6.7447274948966935,Coagulation factor X,Cc1cc(NC(=O)Cc2ccc3[nH]c(-c4ccc(Cl)s4)nc3c2)ccc1-n1ccccc1=O
+-14.40466,-4.987401,5.0,Thrombin,Cc1cc(NC(=O)Cc2ccc3[nH]c(-c4ccc(Cl)s4)nc3c2)ccc1-n1ccccc1=O
+-14.415966,-4.994247,5.0,Trypsin,Cc1cc(NC(=O)Cc2ccc3[nH]c(-c4ccc(Cl)s4)nc3c2)ccc1-n1ccccc1=O
+-14.388836,-4.982667,6.920818753952375,Coagulation factor X,Cc1cc(NC(=O)Cc2ccc3[nH]c(-c4ccc(Cl)s4)nc3c2)ccc1N1CCOCC1=O
+-14.384033,-4.9949403,5.0,Thrombin,Cc1cc(NC(=O)Cc2ccc3[nH]c(-c4ccc(Cl)s4)nc3c2)ccc1N1CCOCC1=O
+-14.40304,-4.9878635,5.0,Trypsin,Cc1cc(NC(=O)Cc2ccc3[nH]c(-c4ccc(Cl)s4)nc3c2)ccc1N1CCOCC1=O
+5.2337046,5.352608,6.609064892896621,Mu opioid receptor,CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)CNC(=O)CNC(=O)[C@@H](N)Cc1ccc(O)cc1)C(=O)O
+5.2219696,5.312904,7.943095163196012,Delta opioid receptor,CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)CNC(=O)CNC(=O)[C@@H](N)Cc1ccc(O)cc1)C(=O)O
+5.2870355,5.404782,7.302770663893709,Mu opioid receptor,CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)CNC(=O)CNC(=O)[C@@H](N)Cc1ccc(O)cc1)C(=O)O
+5.235913,5.34223,7.752026714918384,Delta opioid receptor,CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)CNC(=O)CNC(=O)[C@@H](N)Cc1ccc(O)cc1)C(=O)O
+2.2553644,6.145316,3.0132282657337552,Alkaline phosphatase placental-like,CCCCc1cc2c(=O)cc(C(=O)O)[nH]c2c2c(=O)cc(C(=O)O)[nH]c12
+2.2788928,6.1514664,2.653647025549361,Alkaline phosphatase placental-like,CCCCc1cc2c(=O)cc(C(=O)O)[nH]c2c2c(=O)cc(C(=O)O)[nH]c12
+1.696458,5.084079,0.15574584234322966,Cavia porcellus,O=C1c2[nH]nnc2N(Cc2ccc(F)cc2)C2=NCCN12
+2.202627,5.762052,7.421360772546934,Beta-1 adrenergic receptor,CC(C)(C)NCC(O)CON=C1c2ccccc2-c2ccccc21
+2.2711205,5.8218994,7.609064886162055,Beta-2 adrenergic receptor,CC(C)(C)NCC(O)CON=C1c2ccccc2-c2ccccc21
+-9.201576,-6.495899,5.853871964321762,Renin,CC[C@H](C)[C@H](NC(=O)[C@@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](C)NC(=O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C)C(C)C)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)OC
+-9.20476,-6.499988,6.301029995663981,Renin,CC[C@H](C)[C@H](NC(=O)[C@@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](C)NC(=O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C)C(C)C)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)OC
+-9.192227,-6.4874473,5.0,Pepsin A,CC[C@H](C)[C@H](NC(=O)[C@@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](C)NC(=O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C)C(C)C)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)OC
+-9.207475,-6.5027156,5.0,Cathepsin D,CC[C@H](C)[C@H](NC(=O)[C@@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](C)NC(=O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C)C(C)C)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)OC
+-9.214577,-6.510051,4.0,Renin,CC[C@H](C)[C@H](NC(=O)[C@@H](NC(=O)[C@H]1COCCCN(C(=O)[C@H](Cc2ccccc2)NC(=O)OC(C)(C)C)[C@H](C)C(=O)N1)C(C)C)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)OC
+-9.206788,-6.502065,5.0,Pepsin A,CC[C@H](C)[C@H](NC(=O)[C@@H](NC(=O)[C@H]1COCCCN(C(=O)[C@H](Cc2ccccc2)NC(=O)OC(C)(C)C)[C@H](C)C(=O)N1)C(C)C)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)OC
+-9.215527,-6.51091,5.0,Cathepsin D,CC[C@H](C)[C@H](NC(=O)[C@@H](NC(=O)[C@H]1COCCCN(C(=O)[C@H](Cc2ccccc2)NC(=O)OC(C)(C)C)[C@H](C)C(=O)N1)C(C)C)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)OC
+1.2571207,6.1696053,7.795880017344075,GABA-A receptor; anion channel,CCCc1ccc2c(c1)c(OC)cc1nc(C(=O)c3ccccc3)cn12
+3.4051855,5.660489,7.600326271918551,Opioid receptors; mu & kappa,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](NC(=O)CNC(=O)CNC(=O)CNC(=O)CCC(=O)NCC(=O)NCC(=O)NCC(=O)N[C@H]2CC[C@@]4(O)[C@H]6Cc7ccc(O)c8c7[C@@]4(CCN6C)[C@H]2O8)CC[C@@]3(O)[C@H]1C5
+2.5115385,5.701881,3.6989700043360187,Acetylcholinesterase,C[n+]1ccccc1CCC(O)CCl.[I-]
+1.3337908,-4.951725,6.0,Cavia porcellus,CC(C)c1ccc2nc3ccc(C(=O)N(C)CCCCc4cccnc4)cn3c(=O)c2c1.Cl
+1.3384674,-4.956201,6.221848749616356,Thromboxane-A synthase,CC(C)c1ccc2nc3ccc(C(=O)N(C)CCCCc4cccnc4)cn3c(=O)c2c1.Cl
+1.3455355,-4.963496,6.096910013008056,Cavia porcellus,CC(C)c1ccc2nc3ccc(C(=O)NCCCCOc4cccnc4)cn3c(=O)c2c1.Cl.Cl
+1.3551298,-4.973217,7.301029995663981,Thromboxane-A synthase,CC(C)c1ccc2nc3ccc(C(=O)NCCCCOc4cccnc4)cn3c(=O)c2c1.Cl.Cl
+1.3357061,-4.9535103,7.0,Cavia porcellus,CC(C)c1ccc2nc3ccc(C(=O)NCCCCOc4cccnc4)cn3c(=O)c2c1.Cl.Cl
+1.3851202,10.393804,7.096910013008056,L1210,Cl.NCCn1nc2c3c(c(NCCNCCO)ccc31)C(=O)c1ccccc1-2
+1.4009877,10.38521,7.130768280269024,L1210,O=C1c2ccccc2-c2nn(CCNCO)c3ccc(NCCNCCO)c1c23
+1.3701682,10.414996,6.119186407719209,L1210,CN(C)CCNCCNc1ccc2c3c(nn2CCNCCO)-c2c(O)ccc(O)c2C(=O)c13.Cl
+1.2708374,6.217599,5.0,GABA-A receptor; anion channel,CCOC(=O)N1Cc2c(OC)nc3nc(C(=O)c4ccccc4)cn3c2C1
+3.066895,7.4751787,7.045757490560675,Angiotensin II receptor,CCCCC1Nc2ccc(C(C)C)cc2C(=O)N1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+3.0809774,7.5799837,5.568636235841013,Angiotensin II receptor,CCCCC1Nc2ccc(C(C)(C)OC)cc2C(=O)N1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+3.0746698,7.4886785,8.221848749616356,Angiotensin II receptor,CCCCc1nc2ccc(C(C)(C)OC)cc2c(=O)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+3.984908,6.906238,4.267606240177032,Matrix metalloproteinase-2,CCCCN(CC(=O)N(CC(=O)NO)C(C)CC)C(=O)Nc1ccc(Oc2ccccc2)cc1
+3.1761858,5.9812794,5.289882634888183,Steroid 5-alpha-reductase 1,O=C1C=CN2c3ccccc3CCC2C1
+2.6855667,4.325443,4.0,Human betaherpesvirus 5,CNC(=O)N1C(=O)C[C@H]1OC(C)=O
+2.7464063,4.2772613,4.167491087293763,Human herpes virus 5 capsid protein P40,CCCCNC(=O)N1C(=O)C[C@H]1OC(C)=O
+2.7700956,5.1694436,8.221848749616356,Sigma opioid receptor,C/C(=N\\C12CC3CC(CC(C3)C1)C2)Nc1ccccc1C.Cl
+2.7513447,5.237916,5.0,Glutamate NMDA receptor,C/C(=N\\C12CC3CC(CC(C3)C1)C2)Nc1ccccc1C.Cl
+4.4157867,8.227686,5.301029995663981,Endothelin-converting enzyme 1,O=P(O)(O)C(Cc1ccccc1)N[C@H](Cc1ccc(-c2ccccc2)cc1)c1nnn[nH]1
+4.403057,8.209416,7.769551078621726,Neprilysin,O=P(O)(O)C(Cc1ccccc1)N[C@H](Cc1ccc(-c2ccccc2)cc1)c1nnn[nH]1
+-13.382526,17.237959,6.507239610973162,Coagulation factor X,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CNC(=O)c2cnccn2)NS(=O)(=O)Cc2ccccc2)C1O
+-13.395327,17.225977,5.6020599913279625,Thrombin,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CNC(=O)c2cnccn2)NS(=O)(=O)Cc2ccccc2)C1O
+-13.316694,17.30433,5.8297382846050425,Plasminogen,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CNC(=O)c2cnccn2)NS(=O)(=O)Cc2ccccc2)C1O
+-13.388652,17.232779,6.818156412055227,Trypsin I,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CNC(=O)c2cnccn2)NS(=O)(=O)Cc2ccccc2)C1O
+-13.374166,17.251049,8.214670171778964,Coagulation factor X,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CCNC(=O)c2ccc(O)nc2)NS(=O)(=O)Cc2ccccc2)C1O
+-13.425846,17.229136,5.6020599913279625,Thrombin,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CCNC(=O)c2ccc(O)nc2)NS(=O)(=O)Cc2ccccc2)C1O
+-13.385949,17.24073,6.43533393574791,Plasminogen,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CCNC(=O)c2ccc(O)nc2)NS(=O)(=O)Cc2ccccc2)C1O
+-13.351809,17.274677,7.575118357140726,Trypsin I,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CCNC(=O)c2ccc(O)nc2)NS(=O)(=O)Cc2ccccc2)C1O
+1.7337699,5.0289383,3.2727837313988277,P388,COc1c(OC)c2c3c(nccc3c1OC)-c1cc(O)c(=O)ccc1-2
+1.2327752,4.6401396,5.075720713938118,Oxytocin receptor,COc1c([C@H](CC(C)C)OC(C)=O)ccc2c1C(=O)OCc1cc(C)cc(O)c1O2
+1.2539454,4.6448436,4.0,Vasopressin V2 receptor,COc1c([C@H](CC(C)C)OC(C)=O)ccc2c1C(=O)OCc1cc(C)cc(O)c1O2
+3.2158253,5.9224772,6.863279432843593,Glutamate NMDA receptor,CN1C[C@@H]2Cc3ccccc3[C@]13CCCC[C@@H]23
+3.7267704,4.3357105,7.468521082957745,Prolyl endopeptidase,CCCCC/C=C/C(=O)N1CCC[C@H]1C(=O)N1CCCC1
+3.746421,4.338926,7.136677139879544,Prolyl endopeptidase,CCCCC/C=C(\\C)C(=O)N1CCC[C@H]1C(=O)N1CCCC1
+2.9905725,6.7732596,6.90177855525297,HeLa,Cc1cc2cc(NC(=O)c3cc4ccccc4o3)ccc2[nH]1
+5.1363435,5.585475,8.221848749616356,Human immunodeficiency virus type 1 protease,CC(C)[C@H](NC(=O)OCc1ccccc1)C(=O)NC(Cc1ccc(OCc2ccccc2)cc1)C(=O)C(F)(F)C(=O)N[C@@H](C(=O)OC(C)(C)C)C(C)C
+1.6517314,4.807391,3.8239087409443187,Tubulin,COc1ccc(-c2ccc3c(c2)OCO3)c(OC)c1OC
+-6.188187,9.984267,4.3872161432802645,Calcitonin gene-related peptide type 1 receptor,CCC1CN2CCC1CC2[C@H](O)c1cc(-c2cccc([N+](=O)[O-])c2)nc2ccc(OC)cc12
+4.9151196,5.168978,6.045757490560675,Protein farnesyltransferase,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC(CCC(=O)N[C@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CO)C(=O)O)C(C)C)C(=O)O
+4.8174524,5.1428785,5.7447274948966935,Protein farnesyltransferase,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC(CCCCC(=O)N[C@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CO)C(=O)O)C(C)C)C(=O)O
+5.1366777,5.2734294,6.920818753952375,Protein farnesyltransferase,CSCC[C@H](NC(=O)[C@H](CCc1ccccc1)NC(=O)[C@@H](NC(=O)[C@@H](N)CS)C(C)C)C(=O)O
+-7.8516717,-3.9942532,6.142667503568731,Human herpesvirus 2 protease,Cc1csc2nc([C@H](C)NC(=O)/C=C/c3ccccc3[N+](=O)[O-])oc(=O)c12
+-7.850363,-3.992849,7.119186407719209,Human herpesvirus 6 protease,Cc1csc2nc([C@H](C)NC(=O)/C=C/c3ccccc3[N+](=O)[O-])oc(=O)c12
+-7.8503437,-3.9928162,5.657577319177793,Human herpesvirus 4 protease/capsid scaffold protein,Cc1csc2nc([C@H](C)NC(=O)/C=C/c3ccccc3[N+](=O)[O-])oc(=O)c12
+17.763603,6.307465,6.707743928643524,Beta-lactamase,C[C@]1(COC(=O)CCl)[C@H](C(=O)[O-])N2C(=O)/C(=C/C(=O)[O-])C2S1(=O)=O.[Na+].[Na+]
+17.763678,6.307551,5.142667503568732,Beta-lactamase,C[C@]1(COC(=O)CCl)[C@H](C(=O)[O-])N2C(=O)/C(=C/C(=O)[O-])C2S1(=O)=O.[Na+].[Na+]
+17.763617,6.307531,5.170053304058364,Beta-lactamase,C[C@]1(/C=C/C#N)[C@H](C(=O)[O-])N2C(=O)/C(=C/C(=O)[O-])C2S1(=O)=O.[Na+].[Na+]
+17.763681,6.3075147,4.664141088680182,Beta-lactamase,C[C@]1(/C=C/C#N)[C@H](C(=O)[O-])N2C(=O)/C(=C/C(=O)[O-])C2S1(=O)=O.[Na+].[Na+]
+17.763666,6.3074875,3.2975694635544746,Beta-lactamase,C[C@]1(/C=C/C#N)[C@H](C(=O)[O-])N2C(=O)/C(=C/C(=O)[O-])C2S1(=O)=O.[Na+].[Na+]
+-0.51003534,5.755841,7.431798275933005,Phosphodiesterase 4,COc1ccc2c(Cc3c(Cl)cncc3Cl)nnc(-c3ccccc3)c2c1
+-0.5030446,5.7535315,7.430041164065418,Phosphodiesterase 4,COc1ccc2c(Cc3c(Cl)cncc3Cl)nnc(-c3ccccc3)c2c1
+2.5782764,5.9984665,5.943095148663527,Cyclin-dependent kinase 4/cyclin D1,CN(C)CCCCn1c2ccccc2c2c3c(c4c5ccccc5cnc4c21)C(=O)NC3=O
+-22.233582,-2.5923567,9.3467874977296,Epidermal growth factor receptor erbB1,CCN(CC)CC(O)CNC(=O)c1cc(C)c(/C=C2\\C(=O)Nc3ncnc(Nc4ccc(F)c(Cl)c4)c32)[nH]1
+-22.1655,-2.6604378,4.698970004336019,Platelet-derived growth factor receptor beta,CCN(CC)CC(O)CNC(=O)c1cc(C)c(/C=C2\\C(=O)Nc3ncnc(Nc4ccc(F)c(Cl)c4)c32)[nH]1
+-22.186552,-2.6393502,6.443697499232712,Vascular endothelial growth factor receptor 2,CCN(CC)CC(O)CNC(=O)c1cc(C)c(/C=C2\\C(=O)Nc3ncnc(Nc4ccc(F)c(Cl)c4)c32)[nH]1
+2.02359,6.178825,3.040005161671584,Steryl-sulfatase,NS(=O)(=O)Oc1ccc(Br)cc1
+3.3816245,6.3666153,4.045275209020937,HCT-116,O=C(NCC1CCC(C(=O)NO)CC1)c1cccc2ccccc12
+0.67297006,4.673826,4.0,GABA-A receptor; anion channel,CC(C)c1cc(CN2CCOCC2)cc(C(C)C)c1O
+0.70972174,4.7161183,5.0,GABA-A receptor; anion channel,CC(=O)Nc1c(C(C)C)cc(CN2CCOCC2)cc1C(C)C
+0.7256474,4.701828,4.0,GABA-A receptor; anion channel,CNc1c(C(C)C)cc(CN2CCOCC2)cc1C(C)C
+2.9501088,7.980831,6.214670164989233,Protein-tyrosine phosphatase 1B,CCN(CC)C(=O)CCC1=C(c2ccccc2)c2ccccc2C(=O)C1=O
+2.8875043,7.9846864,5.995678626217358,Protein-tyrosine phosphatase 1B,CCOC(=O)c1ccc(CCC2=C(c3ccccc3)c3ccccc3C(=O)C2=O)cc1
+4.9638424,5.1470237,4.554395796726403,Glutathionylspermidine synthase,CC(C)C[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)N[C@@H](CCCCNCCCCN)C(=O)O
+3.2540228,9.0527935,5.94692155651658,Protein-tyrosine phosphatase 1B,O=C1C=C(c2c[nH]c3ccccc23)c2ccccc2C1=O
+3.235932,9.035872,5.512861624522813,Leukocyte common antigen,O=C1C=C(c2c[nH]c3ccccc23)c2ccccc2C1=O
+3.224315,9.023007,4.991399828238082,Receptor-type tyrosine-protein phosphatase F (LAR),O=C1C=C(c2c[nH]c3ccccc23)c2ccccc2C1=O
+3.231316,9.033649,4.591590421531571,Unchecked,O=C1C=C(c2c[nH]c3ccccc23)c2ccccc2C1=O
+3.2283082,9.0312195,5.496209316942819,Unchecked,O=C1C=C(c2c[nH]c3ccccc23)c2ccccc2C1=O
+3.254738,9.025554,5.709965388637482,Dual specificity phosphatase Cdc25B,O=C1C=C(c2c[nH]c3ccccc23)c2ccccc2C1=O
+1.5905975,5.564232,4.137272471682025,L1210,C#CCNC(=O)Cn1c2cc(OC)ccc2c2cc[n+]3nc(CC)c(CC)cc3c21
+3.0964663,5.5642395,7.585026652029182,Integrin alpha-IIb/beta-3,O=C(O)CC1CCc2cc(NC(=O)/C=C/C3CCNCC3)ccc2C1=O
+3.0818872,5.5443506,6.443697499232712,Homo sapiens,O=C(O)CC1CCc2cc(NC(=O)/C=C/C3CCNCC3)ccc2C1=O
+2.312347,6.6799617,6.444905551421681,Neuropeptide Y receptor type 5,Cc1cc(C(=O)Nc2cccc(Br)c2)nn1-c1cccc(C(F)(F)F)c1
+1.1714104,5.8799667,4.787279845582158,K562,CCOC(=O)c1csc(-c2nc3c([nH]2)C(=O)C=CC3=O)n1
+1.1520833,5.894141,5.847711655616943,SW-620,CCOC(=O)c1csc(-c2nc3c([nH]2)C(=O)C=CC3=O)n1
+0.6207838,6.0478735,7.522878745280337,Gonadotropin-releasing hormone receptor,CCOC(=O)c1cn(Cc2c(F)cccc2F)c2nc(-c3ccc(NC(=O)C(C)C)cc3)c(CN(C)Cc3ccccc3)n2c1=O
+0.61609495,6.0086145,9.39794000220105,Gonadotropin-releasing hormone receptor,CONC(=O)Nc1ccc(-c2nc3n(Cc4c(F)cccc4F)cc(C(=O)OC(C)C)c(=O)n3c2CN(C)Cc2ccccc2)cc1
+0.3124685,7.146096,9.356547325866899,Gonadotropin-releasing hormone receptor,Cc1cc(-c2c(O)nc3cc(Cl)c(C(=O)Nc4ncccn4)cc3c2OCC[C@@H]2CCN2)cc(C)c1C
+0.3137472,7.1469,8.397940008672037,Gonadotropin-releasing hormone receptor,Cc1cc(-c2c(O)nc3cc(Cl)c(C(=O)Nc4ncccn4)cc3c2OCC[C@@H]2CCN2)cc(C)c1C
+0.6818746,5.4748416,6.128427064454121,THP-1,COc1ccc(-n2nc(-c3ccncc3)c(-c3ccc(F)cc3)n2)cc1OC
+-2.699238,4.8390913,6.8326826652518236,Serotonin 1a (5-HT1a) receptor,COc1ccc2c(c1)CCC=C2CCCN1CCN(c2ccccc2)CC1
+-2.712596,4.8679557,6.924453038607469,Serotonin 2 (5-HT2) receptor,COc1ccc2c(c1)CCC=C2CCCN1CCN(c2ccccc2)CC1
+-2.703422,4.837849,6.1095789811990855,Dopamine D2 receptor,COc1ccc2c(c1)CCC=C2CCCN1CCN(c2ccccc2)CC1
+13.859384,-4.6250353,6.66354026615147,Unchecked,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1CCCN(CCO)CCO
+13.8081,-4.6765256,6.787812395596042,OVCAR-3,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1CCCN(CCO)CCO
+13.866504,-4.618339,7.119186407719209,L1210,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1CCCN(CCO)CCO
+13.85703,-4.627947,6.847711655616943,L1210,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1CCCN(CCO)CCO
+13.853324,-4.632185,5.050122295963125,NON-PROTEIN TARGET,O=C1c2cccc3cc4ccccc4c(c23)C(=O)N1CCCN(CCO)CCO
+3.0385,5.7083282,7.086186147616283,Unchecked,Cc1ccccc1C(=CCCN1CCC[C@H](C(=O)O)C1)c1ccccc1C.Cl
+-8.099212,13.500026,9.795880027050558,Homo sapiens,Cl.O=C(NCCCOc1ccc2[nH]c3nc(O)nc-3cc2c1)N1CCN(CC2CCCCO2)CC1
+-8.117672,13.519224,8.006123100180826,Homo sapiens,Cl.O=C(NCCCOc1ccc2[nH]c3nc(O)nc-3cc2c1)N1CCC(N2CCCCC2)CC1
+-7.9925027,13.392959,9.376750723161393,Homo sapiens,CCOC(=O)N1CCC(n2nnnc2CCCOc2ccc3[nH]c4nc(O)nc-4cc3c2)CC1
+-7.987891,13.388447,9.091514979843131,Phosphodiesterase 3,CCC(CC)CN1CCC(n2nnnc2CCCOc2ccc3[nH]c4nc(O)nc-4cc3c2)CC1.Cl
+-7.9844832,13.385047,10.92081875018849,Homo sapiens,CCC(CC)CN1CCC(n2nnnc2CCCOc2ccc3[nH]c4nc(O)nc-4cc3c2)CC1.Cl
+-8.02485,13.425326,11.522878741516452,Homo sapiens,CCC(CC)CN1CCC(n2nnnc2CCCOc2ccc3[nH]c4nc(O)nc-4cc3c2)CC1.Cl
+15.227892,3.2411983,9.522878728022922,Serotonin transporter,O=S1(=O)c2cccc3cccc(c23)N1CCCN1CC=C(c2c[nH]c3ccc(F)cc23)CC1
+15.2307,3.2382293,8.221848749616356,Serotonin 2 (5-HT2) receptor,O=S1(=O)c2cccc3cccc(c23)N1CCCN1CC=C(c2c[nH]c3ccc(F)cc23)CC1
+15.223852,3.2453187,7.1249387366083,Adrenergic receptor alpha-1,O=S1(=O)c2cccc3cccc(c23)N1CCCN1CC=C(c2c[nH]c3ccc(F)cc23)CC1
+15.22524,3.243856,7.886056647693163,Dopamine D2 receptor,O=S1(=O)c2cccc3cccc(c23)N1CCCN1CC=C(c2c[nH]c3ccc(F)cc23)CC1
+-25.65641,2.3426368,8.221848749616356,Serotonin transporter,O=S1(=O)c2cccc3cccc(c23)N1CCN1CCC(Cc2c[nH]c3cccc(F)c23)CC1
+-25.639431,2.3597023,7.638272163982407,Serotonin 2 (5-HT2) receptor,O=S1(=O)c2cccc3cccc(c23)N1CCN1CCC(Cc2c[nH]c3cccc(F)c23)CC1
+-25.640022,2.3576906,7.0,Adrenergic receptor alpha-1,O=S1(=O)c2cccc3cccc(c23)N1CCN1CCC(Cc2c[nH]c3cccc(F)c23)CC1
+-25.63559,2.3636298,7.0,Dopamine D2 receptor,O=S1(=O)c2cccc3cccc(c23)N1CCN1CCC(Cc2c[nH]c3cccc(F)c23)CC1
+0.89756465,4.9352837,5.920818753952375,Homo sapiens,CC(C)c1ccc2oc(N[C@H](CN3CCCCC3)c3ccccc3)nc2c1
+4.457537,3.4665427,8.102372903466854,Cholecystokinin A receptor,Cc1cccc(NC(=O)N[C@H]2N=C(N3CCCCCC3)c3ccccc3N(C)C2=O)c1.Cl
+4.4480314,3.4685373,6.841637507904751,Cholecystokinin B receptor,Cc1cccc(NC(=O)N[C@H]2N=C(N3CCCCCC3)c3ccccc3N(C)C2=O)c1.Cl
+3.0954587,6.955289,6.803989731975356,GABA-A receptor; anion channel,Cn1c2ccccc2c2[nH]cc3nc4ccccc4c-3c21
+1.1619971,5.847057,5.620000514327414,GABA-A receptor; anion channel,CCOC(=O)c1cc2c(cn1)nc(O)c1ccccc12
+3.2121592,6.010603,4.493494967595128,Human immunodeficiency virus type 1 reverse transcriptase,C=C(C)CN1Cc2cccc3[nH]c(=O)n(c23)C(C)C1
+3.313471,6.01619,4.899629454882437,Human immunodeficiency virus type 1 reverse transcriptase,C=C(C)CN1Cc2cccc3[nH]c(=O)n(c23)C(C(C)C)C1
+2.4931185,4.8806076,8.0,HeLa,Cc1sc2nc(Cl)c(/C=N/N=C(N)N)n2c1C
+2.6015098,5.004613,8.0,HeLa,N=C(N)N/N=C/c1c(Cl)nc2sc(Cl)cn12
+5.610397,6.086987,7.508638306165727,Human immunodeficiency virus type 1 protease,COC(=O)NC(C(=O)NN(Cc1ccc(OC)cc1)C[C@H](O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(N)=O)NC(=O)c1ccc2ccccc2n1)C(C)C
+3.2098749,5.283225,2.0968325377982686,Escherichia coli,Cc1c(N2CCc3ccccc3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12
+1.4257776,5.7497864,6.459996067381462,Human immunodeficiency virus type 1 reverse transcriptase,CCc1cc(NCc2nc3ccccc3s2)c(O)nc1C
+-16.633913,0.42769733,6.292429823902063,Dihydrofolate reductase,COc1ccc(N(C)Cc2cnc3nc(N)nc(N)c3c2C)c(OC)c1
+-16.621191,0.4403529,6.481486060122113,Dihydrofolate reductase,COc1ccc(N(C)Cc2cnc3nc(N)nc(N)c3c2C)c(OC)c1
+-16.642715,0.41886213,7.42021640338319,Dihydrofolate reductase,COc1ccc(N(C)Cc2cnc3nc(N)nc(N)c3c2C)c(OC)c1
+-16.639595,0.4219627,5.761953896871205,Toxoplasma gondii,COc1ccc(N(C)Cc2cnc3nc(N)nc(N)c3c2C)c(OC)c1
+-0.052198,4.6781397,3.4699999998579916,Dopamine beta-hydroxylase,COc1ccc(Cn2cc[nH]c2=S)cc1OC
+-0.06331173,4.6923075,4.020000003591,Dopamine beta-hydroxylase,S=c1[nH]ccn1Cc1ccc(Cl)cc1
+-0.115803726,4.659651,5.620000514327414,Dopamine beta-hydroxylase,S=c1[nH]ccn1Cc1cc(Cl)cc(Cl)c1
+2.5071516,5.7164116,5.247183568811729,Plasmodium falciparum,Oc1cccc(O)c1O
+2.9066274,6.424988,4.7544873321858505,Plasmodium falciparum,O=C(NO)c1ccccc1
+2.860993,6.2959957,5.6020599913279625,Squalene synthetase,CC(=O)Nc1ccc(OCCCNC(C)C)cc1
+5.0120654,5.1606755,5.920818753952375,Neurotensin receptor 1,CC(C)C[C@H](NC(=O)[C@H](CC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H](N)CCCNC(=N)N)Cc1ccccc1)C(=O)O
+-2.7319176,4.780289,7.818156417504766,Dopamine transporter,c1ccc(CN2CCC(CCOC(c3ccccc3)c3ccccc3)CC2)cc1
+-2.7682745,4.7825985,6.129011186239425,Serotonin transporter,c1ccc(CN2CCC(CCOC(c3ccccc3)c3ccccc3)CC2)cc1
+-2.7906125,1.8333927,8.221848749616356,Phospholipase A2 group 1B,CCc1c(C(=O)C(N)=O)c2c(OCC(=O)O)cccn2c1Cc1ccccc1Cc1ccccc1
+-2.8031836,1.8210253,8.886056663623085,Phospholipase A2 group 1B,CCc1c(C(=O)C(N)=O)c2c(OCC(=O)O)cccn2c1Cc1ccccc1Cc1ccccc1
+-2.7832723,1.8401457,6.619788758288394,Phospholipase A2 group 1B,CCc1c(C(=O)C(N)=O)c2cc(OCCC(=O)O)ccn2c1Cc1ccccc1-c1ccccc1
+2.9287646,4.589027,7.045757490560675,Streptococcus pneumoniae,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OC)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O
+2.9347854,4.5776587,3.3010299956639813,Streptococcus pneumoniae,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OC)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O
+4.0145764,5.165701,5.853871964321762,Human immunodeficiency virus type 1 integrase,O=C(CC(O)CCc1ccc(O)c(O)c1)O[C@H]1Cc2cc(O)c(O)cc2O[C@H]1c1ccc(O)c(O)c1
+3.9998167,5.162541,6.0,Human immunodeficiency virus type 1 integrase,O=C(CC(O)CCc1ccc(O)c(O)c1)O[C@H]1Cc2cc(O)c(O)cc2O[C@H]1c1ccc(O)c(O)c1
+3.8380666,5.1866827,5.769551078621726,Human immunodeficiency virus type 1 integrase,O=C(CCc1ccc(O)c(O)c1)c1ccc(O)c(O)c1O
+3.8104274,5.231386,6.0,Human immunodeficiency virus type 1 integrase,O=C(CCc1ccc(O)c(O)c1)c1ccc(O)c(O)c1O
+3.4425652,5.2243643,6.6020599913279625,Human immunodeficiency virus type 1 integrase,O=C(/C=C/c1ccc(O)c(O)c1)O[C@H]1[C@H](O)C[C@](O)(C(=O)O)C[C@H]1OC(=O)/C=C/c1ccc(O)c(O)c1
+3.4199371,5.2311873,6.337242168318426,Human immunodeficiency virus type 1 integrase,O=C(/C=C/c1ccc(O)c(O)c1)O[C@H]1[C@H](O)C[C@](O)(C(=O)O)C[C@H]1OC(=O)/C=C/c1ccc(O)c(O)c1
+1.9762018,25.085344,4.997013659143215,L1210,Cn1cc(NC(=O)c2cc(NC(=O)c3cc(NC=O)cn3C)cn2C)cc1C(=O)NCCC(=N)N
+1.9300901,25.039234,9.376750723161393,L1210,Cn1cc(NC(=O)c2cc(NC(=O)c3cc(NC=O)cn3C)cn2C)cc1C(=O)NCCC(=N)N
+1.9614578,25.070688,8.92081873669496,L1210,Cn1cc(NC(=O)c2cc(NC(=O)c3cc(NC=O)cn3C)cn2C)cc1C(=O)NCCC(=N)N
+1.9716403,25.080862,7.698970004336019,Estrogen receptor,Cn1cc(NC(=O)c2cc(NC(=O)c3cc(NC=O)cn3C)cn2C)cc1C(=O)NCCC(=N)N
+1.9583262,25.067572,6.698970004336019,Transforming protein p21/H-Ras-1,Cn1cc(NC(=O)c2cc(NC(=O)c3cc(NC=O)cn3C)cn2C)cc1C(=O)NCCC(=N)N
+1.984142,25.093605,7.099086940587473,L1210,C=C(Br)C(=O)Nc1cc(C(=O)Nc2cc(C(=O)Nc3cc(C(=O)NCCC(=N)N)n(C)c3)n(C)c2)n(C)c1.Cl
+1.991679,25.100943,9.376750723161393,L1210,C=C(Br)C(=O)Nc1cc(C(=O)Nc2cc(C(=O)Nc3cc(C(=O)NCCC(=N)N)n(C)c3)n(C)c2)n(C)c1.Cl
+1.9986191,25.107857,8.92081873669496,L1210,C=C(Br)C(=O)Nc1cc(C(=O)Nc2cc(C(=O)Nc3cc(C(=O)NCCC(=N)N)n(C)c3)n(C)c2)n(C)c1.Cl
+3.2370899,6.4841776,7.838631997765025,Cyclooxygenase-2,CC1=C(C)Cc2c(-c3ccccc3)[nH]c(-c3ccccc3)c2C1
+3.1332357,6.5155025,7.0,Cyclooxygenase-1,CC1=C(C)Cc2c(-c3ccccc3)[nH]c(-c3ccccc3)c2C1
+2.3337908,6.399372,7.0,Human immunodeficiency virus type 1 integrase,O=C(O)C(=O)CC(=O)c1cccc(Cc2cccc(Cl)c2)c1
+12.442605,12.538295,7.657577319177793,Matrix metalloproteinase-1,CCOc1ccc(S(=O)(=O)N2C/C(=N\\OC)C[C@@H]2C(=O)NO)cc1
+12.409588,12.507922,9.522878728022922,Matrix metalloproteinase-2,CCOc1ccc(S(=O)(=O)N2C/C(=N\\OC)C[C@@H]2C(=O)NO)cc1
+12.399062,12.497188,7.795880017344075,Matrix metalloproteinase 3,CCOc1ccc(S(=O)(=O)N2C/C(=N\\OC)C[C@@H]2C(=O)NO)cc1
+12.421911,12.520481,5.975514332300833,Matrix metalloproteinase 7,CCOc1ccc(S(=O)(=O)N2C/C(=N\\OC)C[C@@H]2C(=O)NO)cc1
+12.378717,12.477101,9.154901967381779,Matrix metalloproteinase 13,CCOc1ccc(S(=O)(=O)N2C/C(=N\\OC)C[C@@H]2C(=O)NO)cc1
+2.964351,4.569254,7.3979400086720375,Streptococcus pneumoniae,CC[C@H]1OC(=O)[C@H](C)C(=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OCC=Cc2cnc3ccccc3c2)C[C@@H](C)C(=O)[C@H](C)[C@H]2NC(=O)O[C@@]21C
+2.9368544,4.572726,4.552841968657781,Streptococcus pneumoniae,CC[C@H]1OC(=O)[C@H](C)C(=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OCC=Cc2cnc3ccccc3c2)C[C@@H](C)C(=O)[C@H](C)[C@H]2NC(=O)O[C@@]21C
+0.2952303,-13.178231,8.552841976053816,Selectin E,CNC(=O)c1cc2c(Oc3ccc(C(=O)CC(C)(O)c4ccc(Oc5cncc6sc(C(=O)NC)cc56)cc4)cc3)cncc2s1
+0.30655828,-13.161451,8.4202164088329,Intercellular adhesion molecule-1,CNC(=O)c1cc2c(Oc3ccc(C(=O)CC(C)(O)c4ccc(Oc5cncc6sc(C(=O)NC)cc56)cc4)cc3)cncc2s1
+0.30626374,-13.161778,6.0,Vascular cell adhesion protein 1,CNC(=O)c1cc2c(Oc3ccc(C(=O)CC(C)(O)c4ccc(Oc5cncc6sc(C(=O)NC)cc56)cc4)cc3)cncc2s1
+2.7548192,6.4052625,7.657577319177793,Vasopressin V2 receptor,CCCCNc1ccc(C(=O)N2CCCCc3ccccc32)c(Cl)c1
+2.7147727,6.3252106,7.508638306165727,Vasopressin V2 receptor,CCCCCNc1ccc(C(=O)N2CCCCc3ccccc32)c(Cl)c1
+-20.342419,17.020157,7.698970004336019,Selectin E,Cc1ccc(Sc2cncc3sc(C(N)=O)cc23)cc1
+-20.391975,17.066349,7.6020599913279625,Intercellular adhesion molecule-1,Cc1ccc(Sc2cncc3sc(C(N)=O)cc23)cc1
+-20.351473,17.02921,6.0,Vascular cell adhesion protein 1,Cc1ccc(Sc2cncc3sc(C(N)=O)cc23)cc1
+-20.361235,17.036142,3.8181564120552274,ADMET,Cc1ccc(Sc2cncc3sc(C(N)=O)cc23)cc1
+-20.352148,17.028212,4.823908740944319,Selectin E,Cc1ccc(Sc2cncc3sc(C(N)=O)cc23)cc1
+-20.397148,17.07332,4.6020599913279625,Selectin E,Cc1ccc(Sc2cncc3sc(C(N)=O)cc23)cc1
+-20.38297,17.058075,4.823908740944319,Intercellular adhesion molecule-1,Cc1ccc(Sc2cncc3sc(C(N)=O)cc23)cc1
+-20.398026,17.074541,5.0,Intercellular adhesion molecule-1,Cc1ccc(Sc2cncc3sc(C(N)=O)cc23)cc1
+-20.346504,17.023708,4.522878745280337,Intercellular adhesion molecule-1,Cc1ccc(Sc2cncc3sc(C(N)=O)cc23)cc1
+-20.447153,17.1208,4.3979400086720375,Vascular cell adhesion protein 1,Cc1ccc(Sc2cncc3sc(C(N)=O)cc23)cc1
+-20.39213,17.0657,4.455931955649724,Vascular cell adhesion protein 1,Cc1ccc(Sc2cncc3sc(C(N)=O)cc23)cc1
+-20.31901,17.000992,7.721246399047171,Selectin E,NC(=O)c1cc2c(Oc3ccc(C(F)(F)F)cc3)cncc2s1
+-20.36329,17.047094,7.886056647693163,Intercellular adhesion molecule-1,NC(=O)c1cc2c(Oc3ccc(C(F)(F)F)cc3)cncc2s1
+-20.323435,17.003218,7.0,Vascular cell adhesion protein 1,NC(=O)c1cc2c(Oc3ccc(C(F)(F)F)cc3)cncc2s1
+-20.318306,16.996546,4.1487416512809245,ADMET,NC(=O)c1cc2c(Oc3ccc(C(F)(F)F)cc3)cncc2s1
+-20.235195,16.9295,8.522878745280337,Selectin E,N#Cc1ccc(Oc2cncc3sc(C(N)=O)cc23)cc1
+-20.210102,16.905579,8.698970004336019,Intercellular adhesion molecule-1,N#Cc1ccc(Oc2cncc3sc(C(N)=O)cc23)cc1
+-20.232462,16.883278,7.070581074285707,Vascular cell adhesion protein 1,N#Cc1ccc(Oc2cncc3sc(C(N)=O)cc23)cc1
+0.43569684,-13.170549,7.886056647693163,Selectin E,CNC(=O)c1cc2c(Oc3ccc(C(=N)NO)cc3)cncc2s1
+0.37431207,-13.263455,7.229147988357855,Intercellular adhesion molecule-1,CNC(=O)c1cc2c(Oc3ccc(C(=N)NO)cc3)cncc2s1
+0.36830905,-13.2074585,6.0,Vascular cell adhesion protein 1,CNC(=O)c1cc2c(Oc3ccc(C(=N)NO)cc3)cncc2s1
+0.36922008,-13.23218,5.0,ADMET,CNC(=O)c1cc2c(Oc3ccc(C(=N)NO)cc3)cncc2s1
+0.30143878,-13.258724,7.552841968657781,Selectin E,CNC(=O)c1cc2c(Oc3ccc(-c4noc(C(F)(F)F)n4)cc3)cncc2s1
+0.2824838,-13.234691,7.657577319177793,Intercellular adhesion molecule-1,CNC(=O)c1cc2c(Oc3ccc(-c4noc(C(F)(F)F)n4)cc3)cncc2s1
+0.32991126,-13.200765,6.0,Vascular cell adhesion protein 1,CNC(=O)c1cc2c(Oc3ccc(-c4noc(C(F)(F)F)n4)cc3)cncc2s1
+4.307702,-14.31882,7.886056647693163,Selectin E,CNC(=O)c1cc2c(Oc3ccc(COC)cc3)cncc2s1
+4.3050823,-14.3163,7.769551078621726,Intercellular adhesion molecule-1,CNC(=O)c1cc2c(Oc3ccc(COC)cc3)cncc2s1
+4.291778,-14.3029585,7.619788758288394,Vascular cell adhesion protein 1,CNC(=O)c1cc2c(Oc3ccc(COC)cc3)cncc2s1
+4.3109884,-14.322036,7.6020599913279625,Selectin E,CNC(=O)c1cc2c(Oc3ccc(CO)cc3)cncc2s1
+4.2968297,-14.307893,7.508638306165727,Intercellular adhesion molecule-1,CNC(=O)c1cc2c(Oc3ccc(CO)cc3)cncc2s1
+4.320145,-14.331267,6.0,Vascular cell adhesion protein 1,CNC(=O)c1cc2c(Oc3ccc(CO)cc3)cncc2s1
+4.303746,-14.314849,8.301029995663981,Selectin E,COCCOCCOCc1ccc(Oc2cncc3sc(C(N)=O)cc23)cc1
+4.3036914,-14.314804,8.397940008672037,Intercellular adhesion molecule-1,COCCOCCOCc1ccc(Oc2cncc3sc(C(N)=O)cc23)cc1
+4.2893205,-14.300398,6.0,Vascular cell adhesion protein 1,COCCOCCOCc1ccc(Oc2cncc3sc(C(N)=O)cc23)cc1
+2.586413,7.2132187,7.886056647693163,Calpain 1,CC(C)[C@H](NS(=O)(=O)c1ccc(Cl)cc1)C(=O)N[C@@H](C=O)Cc1c[nH]c2ccccc12
+1.8131121,13.540018,6.284832642151542,Matrix metalloproteinase-1,COc1ccc(S(=O)(=O)C2(C(=O)NO)CCN(Cc3cccc(OC)c3)CC2)cc1
+1.8129394,13.540818,8.045757490560675,Matrix metalloproteinase 9,COc1ccc(S(=O)(=O)C2(C(=O)NO)CCN(Cc3cccc(OC)c3)CC2)cc1
+1.7765162,13.577593,8.698970004336019,Matrix metalloproteinase 13,COc1ccc(S(=O)(=O)C2(C(=O)NO)CCN(Cc3cccc(OC)c3)CC2)cc1
+1.8323869,13.566974,6.671620396561262,ADAM17,COc1ccc(S(=O)(=O)C2(C(=O)NO)CCN(Cc3cccc(OC)c3)CC2)cc1
+1.8430423,13.51821,5.43533393574791,Matrix metalloproteinase-1,CCCCOc1ccc(S(=O)(=O)C2(C(=O)NO)CCN(Cc3ccc(Cl)c(Cl)c3)CC2)cc1
+1.8504324,13.511194,7.698970004336019,Matrix metalloproteinase 9,CCCCOc1ccc(S(=O)(=O)C2(C(=O)NO)CCN(Cc3ccc(Cl)c(Cl)c3)CC2)cc1
+1.864407,13.497453,8.301029995663981,Matrix metalloproteinase 13,CCCCOc1ccc(S(=O)(=O)C2(C(=O)NO)CCN(Cc3ccc(Cl)c(Cl)c3)CC2)cc1
+1.8306639,13.510538,7.3979400086720375,Matrix metalloproteinase-1,O=C(NO)C1(S(=O)(=O)c2ccc(OCc3ccccc3)cc2)CCN(Cc2ccccc2)CC1
+1.8570508,13.505796,8.522878745280337,Matrix metalloproteinase 9,O=C(NO)C1(S(=O)(=O)c2ccc(OCc3ccccc3)cc2)CCN(Cc2ccccc2)CC1
+1.8690253,13.510242,9.0,Matrix metalloproteinase 13,O=C(NO)C1(S(=O)(=O)c2ccc(OCc3ccccc3)cc2)CCN(Cc2ccccc2)CC1
+1.8513154,13.510145,6.380906669373257,ADAM17,O=C(NO)C1(S(=O)(=O)c2ccc(OCc3ccccc3)cc2)CCN(Cc2ccccc2)CC1
+-18.474794,6.637764,7.823908740944319,Matrix metalloproteinase-1,COc1ccc(S(=O)(=O)N(Cc2cccnc2)[C@@H](C(=O)NO)C(C)C)cc1.Cl
+-18.476194,6.6360707,8.045757490560675,Matrix metalloproteinase 9,COc1ccc(S(=O)(=O)N(Cc2cccnc2)[C@@H](C(=O)NO)C(C)C)cc1.Cl
+-18.459953,6.6442976,8.096910013008056,Matrix metalloproteinase 13,COc1ccc(S(=O)(=O)N(Cc2cccnc2)[C@@H](C(=O)NO)C(C)C)cc1.Cl
+-18.455702,6.648622,6.636388020107856,ADAM17,COc1ccc(S(=O)(=O)N(Cc2cccnc2)[C@@H](C(=O)NO)C(C)C)cc1.Cl
+1.6207952,-8.37023,4.698970004336019,L1210,CCCCc1ccc(CN2CCN(Cc3c(O)cc4c(c3O)-c3cc(ccc3O)C3NC(=O)C5NC(=O)C6NC(=O)C(Cc7ccc(cc7)Oc7cc5cc(c7OC5OC(C(=O)O)C(O)C(O)C5N)Oc5ccc(cc5Cl)C(O)C(NC3=O)C(=O)N[C@H]4C(=O)O)NC(=O)C(NC)c3ccc(O)c(c3)Oc3cc(O)c(Cl)c6c3)CC2)cc1
+1.6297786,-8.359685,4.301029995663981,MOLT-4,CCCCc1ccc(CN2CCN(Cc3c(O)cc4c(c3O)-c3cc(ccc3O)C3NC(=O)C5NC(=O)C6NC(=O)C(Cc7ccc(cc7)Oc7cc5cc(c7OC5OC(C(=O)O)C(O)C(O)C5N)Oc5ccc(cc5Cl)C(O)C(NC3=O)C(=O)N[C@H]4C(=O)O)NC(=O)C(NC)c3ccc(O)c(c3)Oc3cc(O)c(Cl)c6c3)CC2)cc1
+1.5806764,-8.410162,3.9746941347352296,CCRF-CEM,CCCCc1ccc(CN2CCN(Cc3c(O)cc4c(c3O)-c3cc(ccc3O)C3NC(=O)C5NC(=O)C6NC(=O)C(Cc7ccc(cc7)Oc7cc5cc(c7OC5OC(C(=O)O)C(O)C(O)C5N)Oc5ccc(cc5Cl)C(O)C(NC3=O)C(=O)N[C@H]4C(=O)O)NC(=O)C(NC)c3ccc(O)c(c3)Oc3cc(O)c(Cl)c6c3)CC2)cc1
+19.812979,1.9702622,4.522878745280337,L1210,NC1C(=O)NC2Cc3ccc(c(Cl)c3)Oc3cc4cc(c3O)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(O)cc(c2)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1[C@H](C(=O)NC1C2CC4CC(C2)CC1C4)NC3=O
+19.772955,1.9304779,4.585026652029182,MOLT-4,NC1C(=O)NC2Cc3ccc(c(Cl)c3)Oc3cc4cc(c3O)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(O)cc(c2)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1[C@H](C(=O)NC1C2CC4CC(C2)CC1C4)NC3=O
+19.833263,1.990938,3.910094888560602,CCRF-CEM,NC1C(=O)NC2Cc3ccc(c(Cl)c3)Oc3cc4cc(c3O)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(O)cc(c2)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1[C@H](C(=O)NC1C2CC4CC(C2)CC1C4)NC3=O
+19.872778,2.0304606,3.7166987712964503,L1210,O=CC(=O)c1[nH]c2ccccc2c1NC1C(=O)NC2Cc3ccc(c(Cl)c3)Oc3cc4cc(c3O)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(O)cc(c2)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1[C@H](C(=O)O)NC3=O
+19.844858,2.002603,3.96657624451305,MOLT-4,O=CC(=O)c1[nH]c2ccccc2c1NC1C(=O)NC2Cc3ccc(c(Cl)c3)Oc3cc4cc(c3O)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(O)cc(c2)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1[C@H](C(=O)O)NC3=O
+19.801998,1.9596992,3.96657624451305,CCRF-CEM,O=CC(=O)c1[nH]c2ccccc2c1NC1C(=O)NC2Cc3ccc(c(Cl)c3)Oc3cc4cc(c3O)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(O)cc(c2)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1[C@H](C(=O)O)NC3=O
+19.775639,1.933667,4.022276394711152,L1210,COC(=O)[C@@H]1NC(=O)C2NC(=O)C(NC(=O)C(NC(=O)OC(C)(C)C)c3cc(Oc4ccc(CC(NC(=O)OCc5ccccc5)C(=O)O)cc4Cl)c(O)c(c3)Oc3ccc(cc3Cl)C2O)c2ccc(O)c(c2)-c2c1cc(O)c(CNC1C3CC4CC(C3)CC1C4)c2O
+19.732227,1.8896812,3.9136401693252516,MOLT-4,COC(=O)[C@@H]1NC(=O)C2NC(=O)C(NC(=O)C(NC(=O)OC(C)(C)C)c3cc(Oc4ccc(CC(NC(=O)OCc5ccccc5)C(=O)O)cc4Cl)c(O)c(c3)Oc3ccc(cc3Cl)C2O)c2ccc(O)c(c2)-c2c1cc(O)c(CNC1C3CC4CC(C3)CC1C4)c2O
+19.807245,1.9648438,3.619788758288394,CCRF-CEM,COC(=O)[C@@H]1NC(=O)C2NC(=O)C(NC(=O)C(NC(=O)OC(C)(C)C)c3cc(Oc4ccc(CC(NC(=O)OCc5ccccc5)C(=O)O)cc4Cl)c(O)c(c3)Oc3ccc(cc3Cl)C2O)c2ccc(O)c(c2)-c2c1cc(O)c(CNC1C3CC4CC(C3)CC1C4)c2O
+3.8135097,4.283637,9.214670154804672,Prolyl endopeptidase,O=C(CO)[C@H]1CCCN1C(=O)[C@@H]1CCCN1C(=O)c1cccc(C(=O)N2CCC[C@@H]2C(=O)C2CCCC2)c1
+3.8753788,4.2277665,8.92081873669496,Prolyl endopeptidase,CC(=O)[C@H]1CCCN1C(=O)c1cccc(C(=O)N2CCC[C@H]2C(=O)N2CCC[C@@H]2C(=O)CO)c1
+2.1705606,4.437846,7.958607314841775,Leukocyte elastase,CC(C)[C@@H]1C(=O)N(S(C)(=O)=O)[C@@H]2CCN(C(=O)c3cnc(CNC4CC4)cn3)[C@H]21.Cl
+2.161434,4.437365,6.267606240177032,Alpha-chymotrypsin,CC(C)[C@@H]1C(=O)N(S(C)(=O)=O)[C@@H]2CCN(C(=O)c3cnc(CNC4CC4)cn3)[C@H]21.Cl
+2.1306322,4.3802404,4.0,Trypsin I,CC(C)[C@@H]1C(=O)N(S(C)(=O)=O)[C@@H]2CCN(C(=O)c3cnc(CNC4CC4)cn3)[C@H]21.Cl
+2.1565082,4.39695,4.0,Cathepsin G,CC(C)[C@@H]1C(=O)N(S(C)(=O)=O)[C@@H]2CCN(C(=O)c3cnc(CNC4CC4)cn3)[C@H]21.Cl
+2.109696,4.4023776,6.823908740944319,Leukocyte elastase,CC(C)[C@@H]1C(=O)N(S(C)(=O)=O)[C@@H]2CCN(C(=O)c3cnc(CNC4CC4)cn3)[C@H]21.Cl
+2.1611547,4.41489,6.585026652029182,Leukocyte elastase,CC(C)[C@@H]1C(=O)N(S(C)(=O)=O)[C@@H]2CCN(C(=O)c3cnc(CNC4CC4)cn3)[C@H]21.Cl
+1.7057403,8.085099,8.698970004336019,Dopamine transporter,OC1(c2cccc(F)c2)c2ccccc2C2=NCCCN21
+1.6778569,8.1231365,8.602059991327963,Dopamine transporter,OC1(c2ccc(Cl)c(Cl)c2)c2ccccc2C2=NCCN21
+3.0099938,6.330958,5.568636235841013,Dopamine transporter,OC(c1ccc(Cl)cc1)c1ccccc1C1=NCCN1
+1.7112389,8.087614,8.0,Dopamine transporter,OC1CN=C2c3ccccc3C(O)(c3ccc(Cl)cc3)N2C1
+2.2624917,6.4857287,5.0,Cruzipain,CC/C(=N\\NC(N)=O)c1cccc(C(F)(F)F)c1
+3.9539838,5.7979894,4.698970004336019,Interleukin-2 receptor alpha chain,Cn1nc(-c2cccc(Cl)c2Cl)cc1C1CCN(C(=O)CNC(=O)[C@H](N=C(N)N)C2CCCCC2)CC1
+4.03705,5.8137693,4.455931955649724,Interleukin-2 receptor alpha chain,CC(C)C[C@@H](N=C(N)N)C(=O)NCC(=O)N1CCC(c2cc(-c3ccc(OCc4ccccc4)c(Cl)c3Cl)nn2C)CC1
+2.269751,6.49747,0.12999998201503082,Cyclooxygenase,O=C([O-])Cc1cc(F)ccc1Nc1c(Cl)cccc1Cl.[Na+]
+3.6603925,3.657957,8.455931955649724,Kappa opioid receptor,O=C(Cc1ccc(Cl)c(Cl)c1)N1CCCCC1CN1CC=CC1
+2.6284993,6.9033237,6.055517327849832,Aldose reductase,O=C(O)CNS(=O)(=O)c1ccc(NC(=O)c2ccccc2)cc1
+2.5972683,6.902638,3.337242168318426,Aldose reductase,O=C(O)[C@H](NS(=O)(=O)c1ccccc1)c1ccccc1
+2.5058978,6.9651093,5.2441251443275085,Aldose reductase,O=C(O)c1ccccc1NS(=O)(=O)c1ccc2ccccc2c1
+2.2773821,5.2440276,5.0,Epidermal growth factor receptor erbB1,N#C/C(=C\\c1ccc(O)c(O)c1)C(N)=O
+2.1961844,5.2039366,4.221848749616356,Epidermal growth factor receptor erbB1,N#CC(C#N)=C(N)/C(C#N)=C/c1ccc(O)c([N+](=O)[O-])c1
+2.0361211,5.4257913,3.221848749616356,Epidermal growth factor receptor erbB1,COc1ccc(NN=C(C#N)C#N)cc1
+2.0155413,5.152402,3.070581074285707,Epidermal growth factor receptor erbB1,COc1cc(C=C(C#N)C#N)cc(OC)c1O
+3.0826604,6.892783,5.853871964321762,Cholecystokinin B receptor,CC(C)Oc1cccc(-n2c(/C=C/c3c[nH]c4ccc(Br)cc34)nc3ccccc3c2=O)c1
+2.5969017,6.891989,5.958607314841775,Hypoxia-inducible factor prolyl 4-hydroxylase,O=C(NS(=O)(=O)c1ccccc1)c1ccc(C(=O)O)nc1
+3.6084414,6.3025327,7.795880017344075,Rattus norvegicus,O=C(CCCN1CCN(c2ccc(F)cc2)CC1)NC1c2ccccc2CSc2ccccc21.O=C(O)/C=C\\C(=O)O
+3.6666005,6.2540784,7.6777807052660805,Rattus norvegicus,O=C(CCCN1CCN(c2ccc(F)cc2)CC1)NC1c2ccccc2CSc2ccccc21.O=C(O)/C=C\\C(=O)O
+-19.13033,-5.358969,7.267606240177032,Muscarinic acetylcholine receptor,CC[C@@H]1C(=O)SC[C@@H]1Cc1cncn1C
+-19.130253,-5.3590693,6.361510743045363,Muscarinic acetylcholine receptor M1,CC[C@@H]1C(=O)SC[C@@H]1Cc1cncn1C
+-9.187828,-6.483131,7.173925197299173,Renin,CC(C)[C@H](C[C@H](O)[C@H](CC1CCCCC1)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C)NS(=O)(=O)C(C)C
+-1.4296618,-3.9034119,8.677780724988635,Renin,CCCC[C@H](N[C@@H](Cc1ccccc1)C(=O)N1CCC(OCOC)CC1)C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)C[C@H](C(=O)NCCCN(C)C)C(C)C
+-1.3974918,-3.8711991,8.214670171778964,Renin,CCCC[C@H](N[C@@H](Cc1ccccc1)C(=O)N1CCC(OCOC)CC1)C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)C[C@H](C(=O)NCCCN(C)C)C(C)C
+3.4796627,4.608331,7.522878745280337,Phospholipase A2 group 1B,CCCCCCCCCCCCCCCC(=O)N[C@@H](COP(=O)(O)OCCO)CC(C)C
+3.4627812,4.6222897,5.585026652029182,Phospholipase A2 group 1B,CCCCCCCCCCCCCCCC(=O)N[C@@H](COP(=O)(O)OCCO)CC(C)C
+3.6797528,3.6409757,7.337242168318426,Kappa opioid receptor,O=C1CCN(C(=O)Cc2ccc(Cl)c(Cl)c2)C(CN2CCCC2)C1
+3.6962135,3.622595,8.301029995663981,Kappa opioid receptor,O=C(Cc1ccc(Cl)c(Cl)c1)N1CCC2(CC1CN1CCCC1)SCCS2
+1.9940113,1.7754501,4.619788758288394,Human rhinovirus A protease,O=C1C[C@H](Cc2ccccc2)N1C(=O)NCCc1ccccc1
+1.9034475,1.6394691,5.161150909262744,Human rhinovirus A protease,CS[C@@H]1C(=O)N(C(=O)NCc2ccncc2)[C@H]1Cc1ccccc1
+1.9386191,1.6344126,6.698970004336019,Pancreatic elastase,CS[C@@H]1C(=O)N(C(=O)NCc2ccncc2)[C@H]1Cc1ccccc1
+1.9323779,1.655612,6.698970004336019,Leukocyte elastase,CS[C@@H]1C(=O)N(C(=O)NCc2ccncc2)[C@H]1Cc1ccccc1
+1.8977921,1.6096717,5.657577319177793,Alpha-chymotrypsin,CS[C@@H]1C(=O)N(C(=O)NCc2ccncc2)[C@H]1Cc1ccccc1
+2.2645493,4.560009,4.94692155651658,"Nitric oxide synthase, inducible",CC1CCN=C1N.Cl
+2.2817383,4.5717206,5.040958607678906,"Nitric-oxide synthase, endothelial",CC1CCN=C1N.Cl
+2.3279202,4.624727,5.522878745280337,"Nitric-oxide synthase, brain",CC1CCN=C1N.Cl
+5.4784026,7.100975,7.987162767252791,Dopamine transporter,COC(=O)[C@@H]1C2CC[C@H](C[C@H]1c1ccc(-c3ccccc3)cc1)N2C
+5.51297,7.1203933,7.531652675222888,Dopamine transporter,COC(=O)[C@@H]1C2CC[C@H](C[C@H]1c1ccc(-c3ccccc3)cc1)N2C
+-3.9928334,24.762447,2.3010299956639813,Selectin E,O=C(O)Cc1cccc(-c2cc(CCCCc3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]4O)c(-c4cccc(CC(=O)O)c4)c3)ccc2O[C@H]2O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]2O)c1
+-4.010269,24.745802,2.6020599913279625,P-selectin,O=C(O)Cc1cccc(-c2cc(CCCCc3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]4O)c(-c4cccc(CC(=O)O)c4)c3)ccc2O[C@H]2O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]2O)c1
+3.4711206,7.263795,6.3979400086720375,Complement C1r,O=c1oc(Nc2ccccc2I)nc2cc(C(F)(F)F)ccc12
+3.4859943,7.302428,5.3979400086720375,Complement C1r,O=c1oc(Nc2ccccc2I)nc2cc(C(F)(F)F)ccc12
+3.4682086,7.2480364,4.0,Trypsin I,O=c1oc(Nc2ccccc2I)nc2cc(C(F)(F)F)ccc12
+4.4726133,4.4081836,5.958607314841775,Mus musculus,C#CCN(Cc1ccc2nc(C)nc(O)c2c1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)N(C)CC(=O)O)cc1
+4.4662085,4.400349,6.481486060122113,WIL2,C#CCN(Cc1ccc2nc(C)nc(O)c2c1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)N(C)CC(=O)O)cc1
+4.480701,4.3850436,4.154901959985743,Mus musculus,C#CCN(Cc1ccc2nc(C)nc(O)c2c1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)N(C)CC(=O)O)cc1
+4.504558,4.4282365,5.130768280269024,Mus musculus,C#CCN(Cc1ccc2nc(C)nc(O)c2c1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)N(C)CC(=O)O)cc1
+-3.337433,8.731335,7.096910013008056,Cyclooxygenase-2,Cc1c(COc2cccc(Cl)c2)cc(-c2ccc(S(C)(=O)=O)cc2)n1-c1ccc(F)cc1
+-3.3570411,8.71339,4.0,Cyclooxygenase-1,Cc1c(COc2cccc(Cl)c2)cc(-c2ccc(S(C)(=O)=O)cc2)n1-c1ccc(F)cc1
+3.207572,6.5560265,5.008773924307505,Dihydrofolate reductase,Nc1nc(N)c2nc(Cc3ccccc3)[nH]c2n1
+3.1978624,6.50113,5.795880017344075,Dihydrofolate reductase,Nc1nc(N)c2nc(Cc3ccccc3)[nH]c2n1
+3.1698391,6.532493,6.301029995663981,Dihydrofolate reductase,Nc1nc(N)c2nc(Cc3ccccc3)[nH]c2n1
+5.795622,4.494445,5.823908740944319,"Glutamate receptor ionotropic, AMPA",NC(Cc1cc(O)no1)C(=O)O
+-16.642118,0.41944224,7.886056647693163,Dihydrofolate reductase,COc1cc(N(C)Cc2cnc3nc(N)nc(N)c3c2C)cc(OC)c1OC
+-16.643093,0.41862223,9.070581062104003,Dihydrofolate reductase,COc1cc(N(C)Cc2cnc3nc(N)nc(N)c3c2C)cc(OC)c1OC
+-16.64101,0.42050892,8.119186413168862,Dihydrofolate reductase,COc1cc(N(C)Cc2cnc3nc(N)nc(N)c3c2C)cc(OC)c1OC
+-4.230613,-7.3204346,5.301029995663981,Dihydrofolate reductase,COc1cc(CCc2cnc3nc(N)nc(N)c3c2)cc(OC)c1OC
+-4.168657,-7.2585006,6.698970004336019,Dihydrofolate reductase,COc1cc(CCc2cnc3nc(N)nc(N)c3c2)cc(OC)c1OC
+-4.212621,-7.3020706,5.943095148663527,Dihydrofolate reductase,COc1cc(CCc2cnc3nc(N)nc(N)c3c2)cc(OC)c1OC
+0.31138864,7.1503615,5.0,Glutamate (NMDA) receptor subunit zeta 1,Oc1nc2cc(Cl)ccc2c(OCc2ccccc2)c1-c1ccccc1
+0.35002938,7.124827,4.0,Glutamate (NMDA) receptor subunit zeta 1,O=C(Cc1ccccc1)Nc1c(-c2ccccc2)c(O)nc2cc(Cl)ccc12
+0.3268841,7.1443863,5.958607314841775,Glutamate (NMDA) receptor subunit zeta 1,O=C(O)CC(=O)Nc1c(-c2ccccc2)c(O)nc2cc(Cl)ccc12
+6.106013,6.229099,8.045757490560675,C-C chemokine receptor type 1,CC(C)(F)CC[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)c1cnc2ccccc2n1)C(N)=O
+6.0768514,6.2379956,7.886056647693163,C-C chemokine receptor type 1,CC(C)(F)CC[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)c1cnc2ccccc2n1)C(N)=O
+5.245052,5.354765,6.107905397309519,Tyrosinase,O=C(N[C@@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O)OCc1cc(=O)c(O)co1
+3.1855965,6.5709352,7.638272163982407,Vascular endothelial growth factor receptor 2,c1ccc(-c2cnc(Nc3cnccn3)s2)cc1
+-4.6860194,21.70876,5.0,Heparanase,COc1ccc(-c2nc3ccccc3o2)cc1N1C(=O)c2ccc(C(=O)O)cc2C1=O
+-4.7319627,21.704245,6.221848749616356,Heparanase,COc1ccc(-c2nc3cc(-c4ccc(F)c(F)c4)ccc3o2)cc1N1C(=O)c2ccc(C(=O)O)cc2C1=O
+-4.7510285,21.727007,4.698970004336019,NON-PROTEIN TARGET,COc1ccc(-c2nc3cc(-c4ccc(F)c(F)c4)ccc3o2)cc1N1C(=O)c2ccc(C(=O)O)cc2C1=O
+-4.7709513,21.76997,6.346787486224656,Heparanase,COc1ccc(-c2ccc3oc(-c4ccc(OC)c(N5C(=O)c6ccc(C(=O)O)cc6C5=O)c4)nc3c2)cc1
+-4.725413,21.733442,4.823908740944319,NON-PROTEIN TARGET,COc1ccc(-c2ccc3oc(-c4ccc(OC)c(N5C(=O)c6ccc(C(=O)O)cc6C5=O)c4)nc3c2)cc1
+2.6567159,6.180194,3.0,Homo sapiens,COC(=O)/C=C/c1cc(O)nnc1-c1ccccc1
+5.66276,23.204836,5.0655015487564325,Palmitoyl-CoA oxidase,Cc1nc2cc(OC[C@H](O)CN3CCN(CC(=O)NC4CCCCC4)CC3)ccc2s1
+2.5429895,4.111635,9.1249387366083,Mitochondrial complex I; NADH oxidoreductase,CCCCCCCCCC[C@@H](O)[C@H]1CC[C@H]([C@H]2CC[C@H]([C@H](O)CCCCCCCCCCCCC3=C[C@H](C)OC3=O)O2)O1
+2.1021435,5.320403,2.6020599913279625,Rattus norvegicus,Cn1c(=O)c2[nH]cnc2n(C)c1=O
+0.47191057,8.340535,5.829999531036576,Malate dehydrogenase mitochondrial,O=C(O)c1cnc2cc(OCc3ccc(Oc4ccccc4)cc3)ccc2c1O
+0.48272642,8.331498,4.510000071762569,Malate dehydrogenase cytoplasmic,O=C(O)c1cnc2cc(OCc3ccc(Oc4ccccc4)cc3)ccc2c1O
+0.42510262,8.385622,4.559999968004296,NON-PROTEIN TARGET,O=C(O)c1cnc2cc(OCc3ccc(Oc4ccccc4)cc3)ccc2c1O
+0.47654912,8.339732,4.0,Ehrlich,O=C(O)c1cnc2cc(OCc3ccc(Oc4ccccc4)cc3)ccc2c1O
+0.6840516,8.159351,3.020000010696659,Malate dehydrogenase mitochondrial,NS(=O)(=O)c1ccc2c(O)c(C(=O)O)cnc2c1
+0.6790966,8.160014,3.159999981744464,Malate dehydrogenase cytoplasmic,NS(=O)(=O)c1ccc2c(O)c(C(=O)O)cnc2c1
+0.64006335,8.19939,3.2399999998770994,NON-PROTEIN TARGET,NS(=O)(=O)c1ccc2c(O)c(C(=O)O)cnc2c1
+0.66272634,8.174428,2.4700000078685784,Ehrlich,NS(=O)(=O)c1ccc2c(O)c(C(=O)O)cnc2c1
+3.2468865,4.897476,4.376750709602099,Squalene synthetase,CC(C)=CCC/C(C)=C/CC/C(C)=C/CCP(=O)(O)OP(=O)(O)O
+-0.5733332,9.655992,7.0,Muscarinic acetylcholine receptor M1,CN1CCCC(CC(=O)N2c3ccccc3C(=O)Nc3cccnc32)C1
+-0.55448055,9.638961,6.920818753952375,Muscarinic acetylcholine receptor M2,CN1CCCC(CC(=O)N2c3ccccc3C(=O)Nc3cccnc32)C1
+1.2950598,-4.9129906,5.301029995663981,Cavia porcellus,CC(CCc1cccnc1)NC(=O)c1ccc2nc3ccc(C(C)C)cc3c(=O)n2c1
+1.2977401,-4.915377,6.522878745280337,Thromboxane-A synthase,CC(CCc1cccnc1)NC(=O)c1ccc2nc3ccc(C(C)C)cc3c(=O)n2c1
+1.369788,-4.987455,5.154901959985743,Cavia porcellus,Cc1cc2nc3ccc(C(=O)NCCCCc4cccnc4)cn3c(=O)c2cc1C.Cl.Cl
+1.3732138,-4.9904375,7.0,Thromboxane-A synthase,Cc1cc2nc3ccc(C(=O)NCCCCc4cccnc4)cn3c(=O)c2cc1C.Cl.Cl
+1.3843042,10.393547,6.055517327849832,L1210,CCN(CC)CCNc1ccc2c3c(nn2CCO)-c2ccccc2C(=O)c13.Cl
+1.427079,10.350506,6.638272163982407,L1210,CN(C)CCNc1ccc2c3c(nn2CCNCCO)-c2c(O)ccc(O)c2C(=O)c13.Cl
+1.6964386,4.3416457,5.496209316942819,Dopamine D2 receptor,CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(Cl)c1OC
+4.0374546,6.8908577,4.2839966563652006,Matrix metalloproteinase-2,O=C(CN(CCCCc1ccccc1)C(=O)CN(CCCCc1ccccc1)C(=O)Nc1ccc(Oc2ccccc2)cc1)NO
+-12.039163,-4.074244,6.886056647693163,"Nitric-oxide synthase, brain",Nc1cccc(-c2ccc(CCN3CCN(c4cccc5cccnc45)CC3)cc2)n1
+-12.039022,-4.0741124,6.673664139071248,"Nitric-oxide synthase, brain",Nc1cccc(-c2ccc(CCN3CCN(c4cccc5cccnc45)CC3)cc2)n1
+-12.03885,-4.073974,6.0835460514500745,"Nitric-oxide synthase, endothelial",Nc1cccc(-c2ccc(CCN3CCN(c4cccc5cccnc45)CC3)cc2)n1
+-6.347639,10.122245,7.0,Serotonin 1a (5-HT1a) receptor,c1cnc(N2CCN(Cc3cccc4c3sc3ccccc34)CC2)nc1
+1.8728586,1.5865288,4.0,Human herpes virus 5 capsid protein P40,C[C@@H]1C(=O)N(C(=O)NCc2ccccc2)[C@@H]1Oc1ccc(C(=O)O)cc1
+4.422701,8.249062,7.769551078621726,Endothelin-converting enzyme 1,O=P(O)(O)C(Cc1cccc2ccccc12)N[C@@H](Cc1ccc(-c2ccccc2)cc1)c1nnn[nH]1
+4.441703,8.255521,8.318758745367088,Neprilysin,O=P(O)(O)C(Cc1cccc2ccccc12)N[C@@H](Cc1ccc(-c2ccccc2)cc1)c1nnn[nH]1
+5.2465577,5.31346,4.0,Peptide N-myristoyltransferase,CC(C)C[C@H](NC(=O)[C@H](C)N)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CO)C(N)=O
+-2.3026946,6.88324,6.180456064458132,Acyl coenzyme A:cholesterol acyltransferase 1,O=C(Nc1ccc(F)cc1F)N(CCCCCSc1nc(-c2ccccc2)c(-c2ccccc2)[nH]1)c1ccccn1
+-2.2934685,6.867292,6.102372908709558,Acyl coenzyme A:cholesterol acyltransferase 1,O=C(Nc1ccc(F)cc1F)N(CCCCCSc1nc(-c2ccccc2)c(-c2ccccc2)[nH]1)c1ccccn1
+-13.418212,17.177925,7.688246138944246,Coagulation factor X,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CCNC(=O)c2ccccn2)NS(=O)(=O)Cc2ccccc2)C1O
+-13.377239,17.246538,5.6020599913279625,Thrombin,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CCNC(=O)c2ccccn2)NS(=O)(=O)Cc2ccccc2)C1O
+-13.392165,17.231096,5.943095148663527,Plasminogen,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CCNC(=O)c2ccccn2)NS(=O)(=O)Cc2ccccc2)C1O
+-13.369461,17.199873,6.651695136951839,Trypsin I,N=C(N)N1CCC[C@H](NC(=O)CNC(=O)[C@@H](CCNC(=O)c2ccccn2)NS(=O)(=O)Cc2ccccc2)C1O
+13.250697,10.052733,5.799423073245152,Muscarinic acetylcholine receptor,C/C(C#Cc1ccccc1)=C\\CO/N=C1\\CN2CCC1C2
+13.269334,10.034176,7.906578328198274,Muscarinic acetylcholine receptor,C/C(C#Cc1ccccc1)=C\\CO/N=C1\\CN2CCC1C2
+3.045355,5.3521748,5.638272163982407,Farnesyltransferase,C/C(=C\\COP(=O)(O)OP(=O)(O)O)CC/C=C(\\C)COC(=O)c1cccc(C(=O)c2ccccc2)c1
+3.645421,4.3525553,7.42021640338319,Prolyl endopeptidase,CCCCCCCCC(=O)N1CSC[C@H]1C(=O)N1CCCC1
+3.6709523,4.3928337,7.698970004336019,Prolyl endopeptidase,CCCCCCCC(=O)N1CCC[C@H]1C(=O)N1CCCC1
+-9.206321,-6.5012813,0.23980669409690428,Human immunodeficiency virus type 1 protease,CCC(C)[C@H](NC(=O)[C@@H]1CCCN1[P@](=O)(OC)[C@@H](Cc1ccccc1)NC(=O)[C@H](CC(N)=O)NC(=O)OC(C)(C)C)C(=O)NCC(C)C
+1.9359633,7.1905684,7.327902142064283,Adrenergic receptor beta,CCOC(=O)COc1ccc2c(c1)C[C@@H](NC[C@H](O)c1cccc(Cl)c1)CC2.Cl
+1.9740436,7.1616874,5.920818753952375,Adrenergic receptor beta,CCOC(=O)COc1ccc2c(c1)C[C@@H](NC[C@H](O)c1cccc(Cl)c1)CC2.Cl
+1.9352199,7.205463,9.04575750206562,Adrenergic receptor beta,CCOC(=O)CCc1ccc2c(c1)C[C@H](NC[C@H](O)c1cccc(Cl)c1)CC2.Cl
+1.9452299,7.1964593,6.318758762624412,Adrenergic receptor beta,CCOC(=O)CCc1ccc2c(c1)C[C@H](NC[C@H](O)c1cccc(Cl)c1)CC2.Cl
+2.0943112,3.1743855,1.8892299679452498,L1210,CN[C@H]1Cc2ccc(O)c(c2)Oc2ccc(cc2)C[C@@H](C(=O)O)N(C)C(=O)[C@H](C)NC(=O)[C@H](Cc2ccc(OC)cc2)N(C)C(=O)[C@H](C)NC(=O)[C@H](C)NC1=O
+5.440052,6.6289463,7.723538204592381,Human immunodeficiency virus type 1 protease,CC(C)(C)NC(=O)[C@@H]1CN(C(=O)OCc2ccccc2)CCN1C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CCOC1
