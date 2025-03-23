@@ -1,0 +1,19 @@
+std_type_list:
+  - IC50
+  - pIC50
+enable_protein_sequence_column: true
+fetch_columns:
+  - molecule_chembl_id
+  - canonical_smiles
+  - assay_chembl_id
+  - standard_type
+  - standard_value
+  - standard_units
+limit: 1000
+max_records: 1000
+min_ligand_per_kinase: 2
+offset: 0
+activity_url: "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit={limit}&offset={offset}"
+assay_url: "https://www.ebi.ac.uk/chembl/api/data/assay/"
+target_url: "https://www.ebi.ac.uk/chembl/api/data/target/"
+target_component_url: "https://www.ebi.ac.uk/chembl/api/data/target_component/"

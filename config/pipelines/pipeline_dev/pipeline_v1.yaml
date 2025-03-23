@@ -1,0 +1,65 @@
+pipeline:
+  name: "Data Processing and Model Training Pipeline"
+  version: "v1"
+  description: "This pipeline processes settings, fetches and preprocesses data, and trains a machine learning model."
+
+  steps:
+    - name: "Process Settings"
+      description: "Converts YAML settings to Python format."
+      action: "process_settings"
+      input_file: "config/settings.yaml"
+      output_file: "config/processed_settings.py"
+
+    - name: "Load Settings"
+      description: "Loads the processed settings into Python variables."
+      action: "load_settings"
+      input_file: "config/processed_settings.py"
+
+    - name: "Fetch and Preprocess Data"
+      description: "Fetches data and preprocesses it according to the loaded settings."
+      action: "fetch_and_process_data"
+      settings_file: "config/processed_settings.py"
+      output_file: "data/processed_data.csv"
+
+    - name: "Prepare Data for ML"
+      description: "Prepares the fetched and processed data as input for machine learning models."
+      action: "prepare_data_for_ml"
+      input_file: "data/processed_data.csv"
+      output_file: "data/ml_input.csv"
+
+    - name: "Train and Test Model"
+      description: "Runs the model training and testing with the prepared data."
+      action: "train_and_test_model"
+      input_file: "data/ml_input.csv"
+      settings_file: "config/processed_settings.py"
+      model_output_file: "models/trained_model.pkl"
+      accuracy_threshold: 0.85  # The accuracy threshold for saving the model
+
+    - name: "Save Model and Results"
+      description: "Saves the trained model, accuracy results, and plots."
+      action: "save_model_results"
+      input_file: "models/trained_model.pkl"
+      results_file: "models/model_results.json"
+      accuracy_plot_file: "models/accuracy_plot.png"
+      model_summary_file: "models/model_summary.txt"
+
+  triggers:
+    # Optional: You can define triggers here for specific environments or conditions
+    - event: "on_demand"
+      description: "User triggers the pipeline manually"
+
+  settings:
+    general:
+      log_level: "INFO"  # Log level for the pipeline
+
+  outputs:
+    processed_data:
+      - "data/processed_data.csv"
+    ml_input_data:
+      - "data/ml_input.csv"
+    model:
+      - "models/trained_model.pkl"
+    results:
+      - "models/model_results.json"
+    plots:
+      - "models/accuracy_plot.png"

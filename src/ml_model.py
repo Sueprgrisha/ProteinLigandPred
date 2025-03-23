@@ -8,7 +8,15 @@ from sklearn.preprocessing import LabelEncoder
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import backend as K
+<<<<<<< HEAD
 from feature_extract import smiles_to_fp
+=======
+<<<<<<< HEAD
+from feature_extract import smiles_to_fp
+=======
+from feature_extract_for_ml import smiles_to_fp
+>>>>>>> cd12bff (Initial commit with my windows)
+>>>>>>> 159c490 (first windows commit)
 from sklearn.neighbors import KNeighborsClassifier
 from collections import Counter
 from scipy.spatial.distance import cdist

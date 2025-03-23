@@ -1,0 +1,6 @@
+{
+    "db_host": "localhost",
+    "db_user": "user",
+    "db_password": "password",
+    "api_key": "your_api_key"
+}
